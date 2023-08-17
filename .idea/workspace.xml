@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Adding">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Access_Specifier/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cursors/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinexraInterviewPreparation/BinaryTreeDS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinexraInterviewPreparation/CountEachChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinexraInterviewPreparation/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinexraInterviewPreparation/LL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinexraInterviewPreparation/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinexraInterviewPreparation/RemoveDuplicatesinString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinexraInterviewPreparation/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinexraInterviewPreparation/SearchinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinexraInterviewPreparation/whileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/FunctionExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/SynchronizationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/PatternZeroOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Printstar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeInterview/CommonCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/BinarySearchUsingRecurssion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/ParenthesisChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Stack1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/Java8Features.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/ArrayIndexPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/ArrayOccurenceGreaterThanNbyThreeTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/CommonCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/FactorialUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/FibonacciUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/FindDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/MaxOccurenceinChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/PalindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/Poll4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/RemoveDuplicateInArrayExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/RemoveDuplicateValuesinString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/StringCharacterCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/StringIndividualWordReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/StringWordReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/TwoStringIntoThird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/TwoStringLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/ArrayMaxAndMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/ArrayRightRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/ArrayRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/Bubblesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/HalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/Segregate0and1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/segregateEvenandOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/CollectionFramework/LinkedListsorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CollectionFramework/LinkedListsorted.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Multithreading/ThreadMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Multithreading/ThreadMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionFramework/LinkedListsorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFramework/LinkedListsorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multithreading/ThreadMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/ThreadMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stream/StreamAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stream/StreamAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/StringSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringSorting.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="dfa89a87-8272-444c-8352-8efc28848d0d" />
+        <option name="url" value="https://github.com/Gautampatwa/Basic_Java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-11.0.18/lib/src.zip!/java.base/java/lang/System.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/FinexraInterviewPreparation/MissingNumber.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="17" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+  </component>
+  <component name="ProjectId" id="2HSRxU80ILOPN6Xgxc546gVSpt3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Fulcrum/Java+Advance Java/MvcDemo1/Basic_Java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="jdk" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Substring">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.BubbleSort" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.Main" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParenthesisChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.ParenthesisChecker" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.Stack1" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.Substring" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Stack1" />
+      <item itemvalue="Application.Substring" />
+      <item itemvalue="Application.ParenthesisChecker" />
+      <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Substring" />
+        <item itemvalue="Application.Stack1" />
+        <item itemvalue="Application.ParenthesisChecker" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BubbleSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="" />
+      <created>1668276752549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668276752549</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Adding">
+      <created>1687161633485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687161633485</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding">
+      <created>1687161790861</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687161790861</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feature/Basic" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Access_Specifier/UNIT.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExceptionHandling/Exception2.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExceptionHandling/Exception2.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExceptionHandling/Exception2.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExceptionHandling/Exception2.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Source.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Source.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CollectionFramework/LinkedListsorted.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CollectionFramework/LinkedListsorted.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CollectionFramework/LinkedListsorted.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CollectionFramework/LinkedListsorted.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FinexraInterviewPreparation/ReverseArray.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/Bubblesort.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/Bubblesort.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/Bubblesort.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/Bubblesort.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SelectionSort.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SelectionSort.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SelectionSort.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SelectionSort.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/RemoveDuplicateValuesinString.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/RemoveDuplicateValuesinString.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/BinarySearchUsingRecurssion.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/BinarySearchUsingRecurssion.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/BinarySearchUsingRecurssion.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/BinarySearchUsingRecurssion.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Access_Specifier/Hello.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Access_Specifier/Hello.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/ArrayOccurenceGreaterThanNbyThreeTimes.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/ArrayOccurenceGreaterThanNbyThreeTimes.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="s2.value" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Basic_Java$Student1.ic" NAME="Student1 Coverage Results" MODIFIED="1669205765385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Basic_Java$Exception2.ic" NAME="Exception2 Coverage Results" MODIFIED="1669831369804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ExceptionHandling.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Basic_Java$Loop1.ic" NAME="Loop1 Coverage Results" MODIFIED="1671734752539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Arrays.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Basic_Java$Hacker1.ic" NAME="Hacker1 Coverage Results" MODIFIED="1668622209916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>PracticeInterview.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Basic_Java$ArrayPractice.ic" NAME="ArrayPractice Coverage Results" MODIFIED="1675933187929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>PracticeInterview.*</FILTER>
+    </SUITE>
+  </component>
+</project>
