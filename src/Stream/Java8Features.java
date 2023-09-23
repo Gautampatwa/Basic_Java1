@@ -23,20 +23,18 @@ public class Java8Features {
                 new Employee("Manan", "Jalandhar", "9816", 2939),
                 new Employee("Pankaj", "Hyderabad", "0092", 6453),
                 new Employee("Kokila", "Pune", "1522", 9949));
-        List<Employee> collect5 = list.stream().sorted(Comparator.comparingDouble(Employee::getSalary).reversed()).collect(Collectors.toList());
-        HashMap<Integer, Employee> hashMap = new HashMap<Integer, Employee>();
-        hashMap.put(1, new Employee("Gautam", "Delhi", "99383", 122));
-        hashMap.put(2, new Employee("Mukesh", "Mumbai", "8283", 2211));
-        hashMap.put(3, new Employee("Radhey", "Ludhiana", "8832", 8347));
-        hashMap.put(4, new Employee("Manan", "Jalandhar", "9816", 2939));
-        hashMap.put(5, new Employee("Pankaj", "Hyderabad", "0092", 6453));
-        hashMap.put(7, new Employee("Kokila", "Pune", "1522", 9949));
-        System.out.println(collect5.get(0));
-        for (Employee e : hashMap.values()) {
-            if (e.getSalary() == 2211) {
-                System.out.println(e.toString());
-            }
+        Map< Employee,Integer> hashMap = new TreeMap<>(Comparator.comparing(Employee::getName));
+        hashMap.put(new Employee("Gautam", "Delhi", "99383", 122),1);
+        hashMap.put( new Employee("Mukesh", "Mumbai", "8283", 2211),23);
+        hashMap.put(new Employee("Radhey", "Ludhiana", "8832", 8347),9);
+        hashMap.put( new Employee("Manan", "Jalandhar", "9816", 2939),29);
+        hashMap.put( new Employee("Pankaj", "Hyderabad", "0092", 6453),81);
+        hashMap.put(new Employee("Kokila", "Pune", "1522", 9949),12);
+        hashMap.entrySet().stream().sorted(Map.Entry.comparingByKey(Comparator.comparing(Employee::getAddress))).forEach(System.out::println);
+        System.out.println("===============================================");
+        for(Employee e:hashMap.keySet())
+        {
+            System.out.println(e);
         }
-
     }
 }

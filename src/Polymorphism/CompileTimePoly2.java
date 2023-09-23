@@ -15,7 +15,7 @@ public class CompileTimePoly2 {
         CompileTimePoly2 compileTimePoly2=new CompileTimePoly2();
         compileTimePoly2.m1(new Object());
         compileTimePoly2.m1("Gautam");
-        compileTimePoly2.m1(22);
+        compileTimePoly2.m1(22.2f);
         compileTimePoly2.m1(null);
     }
 }

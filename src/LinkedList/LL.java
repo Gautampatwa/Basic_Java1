@@ -1,4 +1,4 @@
-package FinexraInterviewPreparation;
+package LinkedList;
 
 import java.util.LinkedList;
 

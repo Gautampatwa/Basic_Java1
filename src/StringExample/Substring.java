@@ -12,7 +12,7 @@ public class Substring {
         {
             for(int j=i+1;j<=n;j++)
             {
-                System.out.println(s.substring(i,j));
+                System.out.println(s.substring(i,j)+ " ");
                 c++;
             }
         }

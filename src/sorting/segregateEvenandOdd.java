@@ -11,7 +11,7 @@ public class segregateEvenandOdd {
         for (int i = 0; i < n; i++) {
             arr[i] = scanner.nextInt();
         }
-        seggregateEvenandOdd(arr, n);
+        seggregateEvenandOdd(arr, arr.length);
     }
 
     private static void seggregateEvenandOdd(int[] arr, int n) {

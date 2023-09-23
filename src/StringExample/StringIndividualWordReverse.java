@@ -1,7 +1,7 @@
 package StringExample;
 
 import java.util.Scanner;
-
+//
 public class StringIndividualWordReverse {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

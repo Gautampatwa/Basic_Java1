@@ -1,39 +1,43 @@
 package sorting;
-class Solution {
-    public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int i = m - 1; // Pointer for nums1
-        int j = n - 1; // Pointer for nums2
-        int idx = m + n - 1; // Pointer for merged array
 
-        while (i >= 0 && j >= 0) {
-            if (nums1[i] > nums2[j]) {
-                nums1[idx--] = nums1[i--];
-            } else {
-                nums1[idx--] = nums2[j--];
-            }
-        }
-
-        // Copy remaining elements from nums2 to nums1 if any
-        while (j >= 0) {
-            nums1[idx--] = nums2[j--];
-        }
-    }
-}
+import java.util.Arrays;
+import java.util.Scanner;
 
 public class MergeSortedArrays {
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        int arr1[]={1,3,5,99};
+        int n1= arr1.length;
+        int arr2[]={2,4,6,8,65};//
+        int n2=arr2.length;
+        int arr3[]=new int[n1+n2];
+        mergeTwoArray(arr1,n1,arr2,n2,arr3);
+        System.out.print("Merged Arrays:");
+        for(int i=0;i<n1+n2;i++)
+        {
+            System.out.print(arr3[i]+" ");
+        }
+    }
 
-        int[] nums1 = {1, 2, 3, 0, 0, 0};
-        int m = 3;
-        int[] nums2 = {2, 5, 6};
-        int n = 3;
+    private static void mergeTwoArray(int[] arr1, int n1, int[] arr2, int n2, int[] arr3) {
+        int i=0,j=0,k=0;
 
-        solution.merge(nums1, m, nums2, n);
-
-        System.out.print("Merged Array: ");
-        for (int num : nums1) {
-            System.out.print(num + " ");
+        while(i<n1 && j<n2)
+        {
+            if(arr1[i]<arr2[j])
+            {
+                arr3[k++]=arr1[i++];
+            }
+            else {
+                arr3[k++]=arr2[j++];
+            }
+        }
+        while(i<n1)
+        {
+            arr3[k++]=arr1[i++];
+        }
+        while(j<n2)
+        {
+            arr3[k++]=arr2[j++];
         }
     }
 }
