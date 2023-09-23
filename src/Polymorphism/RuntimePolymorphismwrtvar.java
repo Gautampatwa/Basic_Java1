@@ -1,5 +1,7 @@
 package Polymorphism;
 
+import Access_Specifier.A;
+
 class A11
 {
     public void m1()
@@ -23,9 +25,6 @@ class B1 extends A11{
 
         A11 a2= new B1();        //Parent because Method Overloading
         a2.m1();
-
-
-
         // If in class B1 if the parameter is same as A1 class then line 24 Child will be printed because JVM will run it
         // on the base if runtime.....
     }

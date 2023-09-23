@@ -5,9 +5,14 @@ import java.io.StringReader;
 public class String1 {
     public static void main(String[] args) {
         String s = new String("Gautam");
-        System.out.println(s);
         String s1="Gautam";
-        String s2="Shivam";
+        String s2="Patwa";
+        System.out.println(s1==s2);
+        System.out.println(s1.equals(s2));
+        System.out.println(s1==s);
+        System.out.println(s.concat(s2));
+        System.out.println(s1.equals(s));
+        System.out.println(s.substring(2));
         System.out.println(s1.length());
         System.out.println(s2.length());
         System.out.println(s1.toLowerCase());
@@ -29,7 +34,9 @@ public class String1 {
         System.out.println(stringBuffer.capacity());
         System.out.println(stringBuffer.insert(1,"Pagal"));
         System.out.println(stringBuffer.indexOf("Radhey",3));
-
+        System.out.println("==================================================");
+        int num=12;
+        System.out.println(num>>3);
         System.out.println("=================================================================");
 
         StringReader stringReader=new StringReader("Pankaj");
@@ -40,6 +47,5 @@ public class String1 {
             System.out.println("Not null");
         }
         return;
-
     }
 }

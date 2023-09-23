@@ -11,7 +11,7 @@ public class StreamAPI {
         System.out.println(list1);
 
 
-        List<Integer> listEven = list1.stream().filter(i -> i % 2 == 0).sorted().collect(Collectors.toList());
+        List<Integer> listEven = list1.stream().filter(i -> i % 2 == 0).collect(Collectors.toList());
         System.out.println(listEven);
         listEven.forEach(System.out::println);
 
@@ -53,7 +53,7 @@ public class StreamAPI {
         liste.forEach(System.out::println);
         System.out.println("==================================================================");
         List<Integer> distinct = list4.stream().distinct().collect(Collectors.toList());
-        distinct.forEach(System.out::println);
+        distinct.stream().sorted().forEach(System.out::println);
 
 
         System.out.println("==================================MAP========================================");

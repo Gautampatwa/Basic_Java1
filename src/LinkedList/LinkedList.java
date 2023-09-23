@@ -1,4 +1,4 @@
-package DSA;
+package LinkedList;
 
 public class LinkedList {
     private Node head;

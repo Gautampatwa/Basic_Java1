@@ -8,14 +8,13 @@ public class StringWordReverse {
         System.out.println("=====================METHOD1====================");
         String s = scanner.nextLine();
         String[] words = s.split(" ");
-        StringBuilder builder = new StringBuilder();
+        StringBuilder stringBuilder = new StringBuilder();
         for (int i = words.length - 1; i >= 0; i--) {
-            builder.append(words[i]);
-
+            stringBuilder.append(words[i]);
             if (i != 0) {
-                builder.append(" ");
+                stringBuilder.append(" ");
             }
         }
-        System.out.println(builder.toString());
+        System.out.println(stringBuilder);
     }
 }

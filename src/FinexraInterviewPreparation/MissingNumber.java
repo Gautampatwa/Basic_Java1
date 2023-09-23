@@ -9,13 +9,13 @@ public class MissingNumber {
         int n = scanner.nextInt();
         int arr[] = new int[n];
         System.out.println("Enter numbers");
-        for (int i = 0; i <= n - 2; i++) {
+        for (int i = 0; i < n -1; i++) {
             arr[i] = scanner.nextInt();
         }
 
         int totalsum = (n * (n + 1)) / 2;
         int sum = 0;
-        for (int i = 0; i <= n - 2; i++) {
+        for (int i = 0; i <n - 1; i++) {
             sum += arr[i];
         }
         int missing = totalsum - sum;

@@ -10,7 +10,7 @@ public class RemoveDuplicateValuesinString {
         String input1 = scanner.nextLine();
 
         char arr[] = input1.toCharArray();
-        int count = 1;
+        int count = 0;
         for (int i = 0; i < input1.length(); i++) {
             for (int j = i + 1; j < input1.length(); j++) {
                 if (arr[i] == arr[j] && arr[i] != ' ') {

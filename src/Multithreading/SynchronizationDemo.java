@@ -1,11 +1,11 @@
 package Multithreading;
 
 class Display {
-    public synchronized void wish(String name) {
+    public void wish(String name) {
         for (int i = 0; i < 10; i++) {
             System.out.print("Good Afternoon:");
             try {
-                Thread.sleep(2000);
+                Thread.sleep(1000);
             } catch (InterruptedException e) {
             }
             System.out.println(name);
@@ -33,6 +33,7 @@ public class SynchronizationDemo {
         Mythread t1 = new Mythread(d, "Dhoni");
         Mythread t2 = new Mythread(d, "Yuvraj");
         t1.start();
+        t1.run();
         System.out.println(Thread.currentThread().getName());
         t2.start();
     }

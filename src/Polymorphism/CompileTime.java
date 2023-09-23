@@ -6,7 +6,7 @@ public class CompileTime {
 	{
 		return (int) (a+b);
 	}
-	public int add(float a,int b)
+	public float add(float a,int b)
 	{
 		return (int) (a+b);
 	}
@@ -16,8 +16,7 @@ public class CompileTime {
 		CompileTime c=new CompileTime();
 		System.out.println(c.add(12, 2.2f));
 		System.out.println(c.add(2.2f, 22));
-//		System.out.println(c.add(10,20));
-		System.out.println(1);
+		System.out.println(c.add((int) 2.6, (float) 2.2));
 	}
 
 }
