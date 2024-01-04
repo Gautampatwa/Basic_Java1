@@ -11,7 +11,6 @@ public class Employee {
         empNum = e;
         empSal = s;
     }
-
     public int getEmpNum(){
         return empNum;
     }
