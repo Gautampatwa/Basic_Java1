@@ -36,4 +36,11 @@ public class Employee {
         
         
         }
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "empNum=" + empNum +
+                ", empSal=" + empSal +
+                '}';
     }
+}

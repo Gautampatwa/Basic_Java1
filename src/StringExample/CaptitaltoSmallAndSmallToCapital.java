@@ -7,7 +7,6 @@ public class CaptitaltoSmallAndSmallToCapital {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a String:");
         StringBuilder s = new StringBuilder(sc.nextLine());
-//        System.out.println("String:" + s);
         for (int i = 0; i < s.length(); i++) {
             boolean flag = true;//Capital Character
             char ch = s.charAt(i);

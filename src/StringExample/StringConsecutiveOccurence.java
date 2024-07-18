@@ -14,7 +14,6 @@ public class StringConsecutiveOccurence {
 
         StringBuilder builder=new StringBuilder();
         int count=1;
-
         for(int i=0;i<str.length()-1;i++)
         {
             char curr=str.charAt(i);

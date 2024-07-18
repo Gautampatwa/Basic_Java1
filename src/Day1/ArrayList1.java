@@ -14,19 +14,19 @@ public class ArrayList1 {
 		System.out.println(a1);
 		
 		System.out.println("==========Hash Map======================");
-		HashMap<Integer,String> h=new HashMap<Integer,String>();
+		HashMap<Integer,String> h=new HashMap<>();
 		h.put(1,"Gautam");
 		h.put(2,"Shivam");
-		h.put(3, "Shivam");
+		h.put(3,"Shivam");
 		// TODO Auto-generated method stub
 		System.out.println(h);
 		h.remove(2);
 		System.out.println(h.toString());
-		for(Map.Entry<Integer, String> e: h.entrySet())
+		for(var e: h.entrySet())
 		{
 			System.out.println(e.getKey()+" "+e.getValue());
 		}
-
+		System.out.println(h.get(1));
 		System.out.println("=======================================");
 		Set<String> strings=new HashSet<>();
 		strings.add("Gautam");
