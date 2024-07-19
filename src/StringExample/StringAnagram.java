@@ -27,7 +27,6 @@ public class StringAnagram {
         {
             return false;
         }
-
         Arrays.sort(arr1);
         Arrays.sort(arr2);
 

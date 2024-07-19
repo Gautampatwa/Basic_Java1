@@ -11,7 +11,6 @@ public class Employee {
         empNum = e;
         empSal = s;
     }
-
     public int getEmpNum(){
         return empNum;
     }
@@ -37,4 +36,11 @@ public class Employee {
         
         
         }
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "empNum=" + empNum +
+                ", empSal=" + empSal +
+                '}';
     }
+}

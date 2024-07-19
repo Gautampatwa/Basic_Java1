@@ -4,258 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Adding">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/StringMaxCharacterUsingHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FinexraInterviewPreparation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/HashSetPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maths/findDuplicatesinArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/StaticSyncrhronized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/printNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/StackReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/nextGreaterElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/CaptitaltoSmallAndSmallToCapital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/CommonWordsinTwoString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/IsomorphicStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/LineWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/MaxOccurenceofCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/RemoveDuplicatesUsingHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/StringConsecutiveOccurence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/StringOnlyNumberSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/StringSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/StringSwapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/StringWrapUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/Stringsum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/UniqueCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/PairSumEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/MissingNumberinSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/ProductofArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/RemoveOccurenceofTargetValueinArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Adding Java Basics Programm">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxSubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/FibUsingRec.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Basic_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Access_Specifier/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Access_Specifier/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Access_Specifier/AccessModifiers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Access_Specifier/AccessModifiers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Access_Specifier/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Access_Specifier/Hello.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Access_Specifier/StringValueof.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Access_Specifier/StringValueof.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Access_Specifier/UNIT.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Access_Specifier/UNIT.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/AddressComaparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/AddressComaparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/Array1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/Array1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/Array2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/Array2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/Arrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/Autowired.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/Autowired.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/Comparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/Comparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/Employees.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/Employees.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/EmployeesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/EmployeesTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/Fib.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/Fib.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/Loop1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/Loop1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/Main1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/MethodExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/MethodExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/NameComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/NameComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/RollnoComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/RollnoComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/Thread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/Thread2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/junit11.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/junit11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/main22.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/main22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/varExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/varExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CollectionFramework/LinkedListsorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CollectionFramework/LinkedListsorted.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CollectionFramework/Temp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CollectionFramework/Temp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Common.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Common.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Cursors/CursorsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Cursors/CursorsExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Cursors/PrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Cursors/PrimeNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DSA/LinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DSA/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Day1/ArrayList1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Day1/ArrayList1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Day1/CPU.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Day1/CPU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Day1/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Day1/Computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Day1/ComputerMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Day1/ComputerMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Day1/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Day1/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Day1/IfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Day1/IfElse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Day1/Keyboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Day1/Keyboard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Day1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Day1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Day1/Monitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Day1/Monitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Day1/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Day1/Mouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Employee1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Employee1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Exceotion/ExceptionHandling.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Exceotion/ExceptionHandling.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ExceptionHandling/Exception1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExceptionHandling/Exception1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ExceptionHandling/Exception1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExceptionHandling/Exception1Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ExceptionHandling/Exception2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExceptionHandling/Exception2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/BinaryTreeDS$BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/BinaryTreeDS$BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/BinaryTreeDS$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/BinaryTreeDS$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/BinaryTreeDS.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/BinaryTreeDS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/CountEachChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/LL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/MissingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/MissingNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/RemoveDuplicatesinString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/RemoveDuplicatesinString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/ReverseArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/SearchinArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/SearchinArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/whileLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/whileLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/FunctionPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/FunctionPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Functions/FunctionExample1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Functions/FunctionExample1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/HackerEarth.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/HackerEarth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Inheritance/Child1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Inheritance/Child1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Inheritance/Child2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Inheritance/Child2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Inheritance/Inheritance1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Inheritance/Inheritance1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Inheritance/MultipleInheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Inheritance/MultipleInheritance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Inheritance/Parent1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Inheritance/Parent1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Inheritance/child.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Inheritance/child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Inheritance/one.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Inheritance/one.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Inheritance/three.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Inheritance/three.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Inheritance/two.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Inheritance/two.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Interfaces/Interface1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Interfaces/Interface1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Interfaces/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Interfaces/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Interfaces/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Interfaces/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Interfaces/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Interfaces/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/JUNIT/JUnitMockitoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JUNIT/JUnitMockitoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java8/DefaultMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/DefaultMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java8/I.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/I.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Lambda1/LambdaExpression1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Lambda1/LambdaExpression1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Lambda1/LoopInter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Lambda1/LoopInter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Lambda1/MyInter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Lambda1/MyInter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Lambda1/SumInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Lambda1/SumInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Loop/ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Loop/ForLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Loop/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Loop/Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Loop/While.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Loop/While.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Multithreading/Display.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Multithreading/Display.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Multithreading/Mythread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Multithreading/Mythread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Multithreading/SynchronizationDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Multithreading/SynchronizationDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Multithreading/Thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Multithreading/Thread1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Multithreading/ThreadMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Multithreading/ThreadMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Notepad/OpenNotepad.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Notepad/OpenNotepad.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/NullExample/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/NullExample/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/NullExample/Employee1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/NullExample/Employee1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/OOPS/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/OOPS/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/OOPS/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/OOPS/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/OOPS/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/OOPS/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/OOPS/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/OOPS/D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Participant.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Participant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Patterns/PatternZeroOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Patterns/PatternZeroOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Patterns/Printstar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Patterns/Printstar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Polymorphism/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Polymorphism/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Polymorphism/A11.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Polymorphism/A11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Polymorphism/Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Polymorphism/Add.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Polymorphism/Arithmetic.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Polymorphism/Arithmetic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Polymorphism/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Polymorphism/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Polymorphism/B1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Polymorphism/B1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Polymorphism/CompileTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Polymorphism/CompileTime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Polymorphism/CompileTimePoly2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Polymorphism/CompileTimePoly2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Polymorphism/CompileTimePoly3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Polymorphism/CompileTimePoly3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Polymorphism/ComplieTimePoly1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Polymorphism/ComplieTimePoly1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Polymorphism/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Polymorphism/GFG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Polymorphism/GFG1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Polymorphism/GFG1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Polymorphism/MethodHidingRuntimePoly.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Polymorphism/MethodHidingRuntimePoly.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Polymorphism/RuntimePolymorphismwrtvar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Polymorphism/RuntimePolymorphismwrtvar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Polymorphism/Sub.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Polymorphism/Sub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Polymorphism/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Polymorphism/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/PracticeInterview/ArrayPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/PracticeInterview/ArrayPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/PracticeInterview/CommonCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/PracticeInterview/CommonCharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/PracticeInterview/Hacker1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/PracticeInterview/Hacker1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/PracticeInterview/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/PracticeInterview/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Race.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Race.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Recursion/BinarySearchUsingRecurssion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/BinarySearchUsingRecurssion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Recursion/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Recursion/fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Recursion/fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Source.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Source.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Stack/ParenthesisChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Stack/ParenthesisChecker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Stack/Stack1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Stack/Stack1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Stream/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Stream/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Stream/Java8Features.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Stream/Java8Features.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Stream/StreamAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Stream/StreamAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/ArrayIndexPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/ArrayIndexPrint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/ArrayOccurenceGreaterThanNbyThreeTimes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/ArrayOccurenceGreaterThanNbyThreeTimes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/BookStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/BookStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/CommonCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/CommonCharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/FactorialUsingRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/FactorialUsingRecursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/FibonacciUsingRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/FibonacciUsingRecursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/FindDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/FindDuplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/GFG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/MaxOccurenceinChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/MaxOccurenceinChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/PalindromeString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/PalindromeString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/Poll4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/Poll4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/PrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/PrimeNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/RemoveDuplicateInArrayExample3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/RemoveDuplicateInArrayExample3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/RemoveDuplicateValuesinString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/RemoveDuplicateValuesinString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/ReverseWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/String1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/String1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/StringCharacterCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/StringCharacterCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/StringIndividualWordReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/StringIndividualWordReverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/StringReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/StringReverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/StringSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/StringSorting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/StringWordReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/StringWordReverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/Substring.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/Substring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/SwitchExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/SwitchExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/TwoStringIntoThird.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/TwoStringIntoThird.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/TwoStringLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/TwoStringLogic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/forLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/forLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Student1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Student1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sorting/ArrayMaxAndMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/sorting/ArrayMaxAndMin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sorting/ArrayRightRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/sorting/ArrayRightRotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sorting/ArrayRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/sorting/ArrayRotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sorting/Bubblesort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/sorting/Bubblesort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sorting/HalfPyramid.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/sorting/HalfPyramid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sorting/Segregate0and1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/sorting/Segregate0and1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sorting/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/sorting/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sorting/segregateEvenandOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/sorting/segregateEvenandOdd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionFramework/HashSetProgram1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFramework/HashSetProgram1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/LongestCommonSubsequenceDP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/LongestCommonSubsequenceDP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Thread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Thread2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FinexraInterviewPreparation/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinexraInterviewPreparation/MissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java8/DefaultMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/DefaultMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java8/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java8/MapSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/MapSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedList11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Maths/BinarytoDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Maths/BinarytoDecimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Multithreading/SynchronizationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/SynchronizationDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Multithreading/ThreadMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/ThreadMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Polymorphism/CompileTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polymorphism/CompileTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Polymorphism/CompileTimePoly2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polymorphism/CompileTimePoly2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Polymorphism/Poly34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polymorphism/Poly34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Polymorphism/RuntimePolymorphismwrtvar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polymorphism/RuntimePolymorphismwrtvar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/BinarySearchUsingRecursion2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/BinarySearchUsingRecursion2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/CheckingArraySortedOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/CheckingArraySortedOrNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Print1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Print1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stream/Java8Features.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stream/Java8Features.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stream/StreamAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stream/StreamAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/ArrayDuplicateCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/ArrayOccurenceGreaterThanNbyThreeTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/ArrayOccurenceGreaterThanNbyThreeTimes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/BinaryStringSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/BinaryStringSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/ContainsDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/CountEachChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CountEachChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/MaxOccurenceinChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/MaxOccurenceinChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/RemoveDuplicateValuesinString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/RemoveDuplicateValuesinString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/ReverseWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/RunningSumofArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/RunningSumofArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/String1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/String1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/StringAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/StringIndividualWordReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringIndividualWordReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/StringWordReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringWordReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/Substring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/WordPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/WordPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/maxOccurenceinArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/maxOccurenceinArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/slidingWindow/Sliding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/slidingWindow/Sliding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/ArrayPlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/ArrayPlusOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/ArrayReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/ArrayReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/ArrayRightRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/ArrayRightRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/Bubblesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/Bubblesort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/InterSectionofTwoSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/InterSectionofTwoSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/MergeSortUsingRecurssion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/MergeSortUsingRecurssion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/MergeSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/MergeSortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/SecondLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/SecondLargestElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/StringDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/StringDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/segregateEvenandOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/segregateEvenandOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/FunctionExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/FunctionExample1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -271,19 +27,33 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Gautam &lt;44258292+gautampatwa@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="dfa89a87-8272-444c-8352-8efc28848d0d" />
-        <option name="url" value="https://github.com/Gautampatwa/Basic_Java.git" />
+        <option name="accountId" value="99c89853-1d81-4d89-8f04-4a666ee926b1" />
+        <option name="url" value="https://github.com/Gautampatwa/Basic_Java1.git" />
       </UrlAndAccount>
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$USER_HOME$/.jdks/corretto-11.0.18/lib/src.zip!/java.base/java/lang/System.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/FinexraInterviewPreparation/MissingNumber.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/FinexraInterviewPreparation/MissingNumberPractoce.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -298,6 +68,13 @@
   <component name="MavenRunner">
     <option name="jreName" value="17" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2HSRxU80ILOPN6Xgxc546gVSpt3" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -306,30 +83,93 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/SpringBoot Project/ElectronicStore&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.ArrayIndexPrint.executor": "Debug",
+    "Application.ArrayList1.executor": "Run",
+    "Application.ArrayOccurenceGreaterThanNbyThreeTimes.executor": "Run",
+    "Application.BinaryStringSum.executor": "Debug",
+    "Application.CaptitaltoSmallAndSmallToCapital.executor": "Run",
+    "Application.CommonCharacter.executor": "Run",
+    "Application.CommonWordsinTwoString.executor": "Run",
+    "Application.CountEachChar.executor": "Run",
+    "Application.FibUsingRec.executor": "Run",
+    "Application.FindDuplicate.executor": "Run",
+    "Application.FrequencyOfEachCharacterinString.executor": "Run",
+    "Application.HashSetProgram1.executor": "Run",
+    "Application.IsomorphicStrings.executor": "Run",
+    "Application.Java8.executor": "Run",
+    "Application.LambdaExpression.executor": "Run",
+    "Application.LineWrapper.executor": "Run",
+    "Application.Map1.executor": "Run",
+    "Application.MapExample.executor": "Run",
+    "Application.MapWithEntityPractice.executor": "Run",
+    "Application.MaxCharacter.executor": "Run",
+    "Application.MaxElementinArray.executor": "Run",
+    "Application.MaxOccurenceCharacterinString.executor": "Run",
+    "Application.MaxOccurenceofCharacter.executor": "Debug",
+    "Application.MaxSubArraySum.executor": "Run",
+    "Application.MissingNumber.executor": "Run",
+    "Application.MissingNumberPractoce.executor": "Run",
+    "Application.PairSumEquals.executor": "Debug",
+    "Application.Prime.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
+    "Application.RemoveDuplicatesUsingHashMap.executor": "Run",
+    "Application.RemoveDuplicatesinStringUsingHashMap.executor": "Run",
+    "Application.SimpleProgramForMeesageProper.executor": "Run",
+    "Application.SimpleProgramForMessageProper.executor": "Run",
+    "Application.Sliding.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.StringAnagram.executor": "Run",
+    "Application.StringCharacterCount.executor": "Run",
+    "Application.StringConsecutiveOccurence.executor": "Run",
+    "Application.StringEachWordreverse.executor": "Run",
+    "Application.StringIndividualWordReverse.executor": "Run",
+    "Application.StringMaxCharacterUsingHashMap.executor": "Run",
+    "Application.StringOnlyNumberSum.executor": "Run",
+    "Application.StringReverse.executor": "Run",
+    "Application.StringReverse2.executor": "Run",
+    "Application.StringSubstring.executor": "Run",
+    "Application.StringSwapping.executor": "Run",
+    "Application.StringWordReverse.executor": "Run",
+    "Application.Stringsum.executor": "Run",
+    "Application.Substring.executor": "Run",
+    "Application.ThreadMain.executor": "Run",
+    "Application.UserAddressExample.executor": "Debug",
+    "Application.WeekToDateConverter.executor": "Run",
+    "Application.YearMonthExample.executor": "Run",
+    "Application.maxOccurenceinArray.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "hello",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/SpringBoot Project/ElectronicStore",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="FinexraInterviewPreparation" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.PairSumEquals">
-    <configuration name="CommonWordsinTwoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.CommonWordsinTwoString" />
+  <component name="RunManager" selected="Application.MaxSubArraySum">
+    <configuration name="FibUsingRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.FibUsingRec" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -341,21 +181,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PairSumEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slidingWindow.PairSumEquals" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="slidingWindow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Practice1" />
+    <configuration name="MaxSubArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.MaxSubArraySum" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -367,8 +194,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringOnlyNumberSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.StringOnlyNumberSum" />
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinexraInterviewPreparation.MissingNumber" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FinexraInterviewPreparation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stringsum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.Stringsum" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -380,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringWrapUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.StringWrapUp" />
+    <configuration name="ThreadMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.ThreadMain" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringExample.*" />
+          <option name="PATTERN" value="Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -394,21 +234,30 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PairSumEquals" />
-      <item itemvalue="Application.StringOnlyNumberSum" />
-      <item itemvalue="Application.StringWrapUp" />
-      <item itemvalue="Application.CommonWordsinTwoString" />
-      <item itemvalue="Application.Practice1" />
+      <item itemvalue="Application.MaxSubArraySum" />
+      <item itemvalue="Application.FibUsingRec" />
+      <item itemvalue="Application.MissingNumber" />
+      <item itemvalue="Application.Stringsum" />
+      <item itemvalue="Application.ThreadMain" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PairSumEquals" />
-        <item itemvalue="Application.StringOnlyNumberSum" />
-        <item itemvalue="Application.StringWrapUp" />
-        <item itemvalue="Application.Practice1" />
-        <item itemvalue="Application.CommonWordsinTwoString" />
+        <item itemvalue="Application.MaxSubArraySum" />
+        <item itemvalue="Application.ThreadMain" />
+        <item itemvalue="Application.MissingNumber" />
+        <item itemvalue="Application.FibUsingRec" />
+        <item itemvalue="Application.Stringsum" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-3183f394aec4-fdae186d" />
+        <option value="jdk-19.0.2-corretto-19.0.2-249ae16d76d6-e8693060" />
+        <option value="jdk-19.0.2-corretto-19.0.2-f644763e9732-7e92f9a0" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -433,7 +282,39 @@
       <option name="project" value="LOCAL" />
       <updated>1687161790861</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge pull request #1 from Gautampatwa/main&#10;&#10;Adding new program">
+      <option name="closed" value="true" />
+      <created>1703873031103</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703873031103</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge pull request #1 from Gautampatwa/main&#10;&#10;Adding new program">
+      <option name="closed" value="true" />
+      <created>1703873226828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703873226828</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding new program">
+      <option name="closed" value="true" />
+      <created>1708194292722</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708194292722</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding Java Basics Programm">
+      <option name="closed" value="true" />
+      <created>1721322652926</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721322652926</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -461,7 +342,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding" />
+    <MESSAGE value="Merge pull request #1 from Gautampatwa/main&#10;&#10;Adding new program" />
+    <MESSAGE value="Adding new program" />
+    <MESSAGE value="Adding Java Basics Programm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Java Basics Programm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -827,16 +711,6 @@
           <option name="timeStamp" value="124" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringAnagram.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="125" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringAnagram.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="126" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sorting/SecondLargestElement.java</url>
           <line>4</line>
           <option name="timeStamp" value="127" />
@@ -1188,46 +1062,66 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StringExample/StringSubstring.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="233" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringSubstring.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="234" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringSubstring.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="235" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringSubstring.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="236" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringSubstring.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="237" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringSubstring.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="238" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringSubstring.java</url>
           <line>27</line>
           <option name="timeStamp" value="239" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FinexraInterviewPreparation/SimpleProgramForMessageProper.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/ArrayIndexPrint.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/ArrayIndexPrint.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/ArrayIndexPrint.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/BinaryStringSum.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/BinaryStringSum.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Java8.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/StringConsecutiveOccurence.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/MapWithEntityPractice.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/MapWithEntityPractice.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="s2.value" />
-      </configuration>
-    </watches-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.Long" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
