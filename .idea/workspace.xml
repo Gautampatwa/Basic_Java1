@@ -4,37 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Adding new program">
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/LambdaExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Map1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FinexraInterviewPreparation/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FinexraInterviewPreparation/SimpleProgramForMessageProper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/FrequencyOfEachCharacterinString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/Java8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/MapWithEntityPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/MaxCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/MaxElementinArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/MaxOccurenceCharacterinString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/RemoveDuplicatesinStringUsingHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/StringEachWordreverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/StringReverse2.java" afterDir="false" />
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Adding Java Basics Programm">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxSubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/FibUsingRec.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Arrays/Thread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Thread2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day1/ArrayList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1/ArrayList1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Multithreading/ThreadMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/ThreadMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/CaptitaltoSmallAndSmallToCapital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CaptitaltoSmallAndSmallToCapital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/CommonWordsinTwoString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CommonWordsinTwoString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/ContainsDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/StringAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/StringConsecutiveOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringConsecutiveOccurence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/StringSwapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringSwapping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/slidingWindow/PairSumEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/slidingWindow/PairSumEquals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinexraInterviewPreparation/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinexraInterviewPreparation/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/FunctionExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/FunctionExample1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +38,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -107,78 +83,80 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.ArrayIndexPrint.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ArrayList1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayOccurenceGreaterThanNbyThreeTimes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinaryStringSum.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.CaptitaltoSmallAndSmallToCapital.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CommonCharacter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CommonWordsinTwoString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountEachChar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindDuplicate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FrequencyOfEachCharacterinString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashSetProgram1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IsomorphicStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Java8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LambdaExpression.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LineWrapper.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Map1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MapExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MapWithEntityPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxCharacter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxElementinArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxOccurenceCharacterinString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxOccurenceofCharacter.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MissingNumberPractoce.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PairSumEquals.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicatesUsingHashMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicatesinStringUsingHashMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleProgramForMeesageProper.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleProgramForMessageProper.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sliding.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringAnagram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringCharacterCount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringConsecutiveOccurence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringEachWordreverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringIndividualWordReverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringMaxCharacterUsingHashMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringOnlyNumberSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringReverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringReverse2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringSubstring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringSwapping.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringWordReverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Stringsum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Substring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UserAddressExample.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.WeekToDateConverter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.YearMonthExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.maxOccurenceinArray.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;hello&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/SpringBoot Project/ElectronicStore&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.ArrayIndexPrint.executor": "Debug",
+    "Application.ArrayList1.executor": "Run",
+    "Application.ArrayOccurenceGreaterThanNbyThreeTimes.executor": "Run",
+    "Application.BinaryStringSum.executor": "Debug",
+    "Application.CaptitaltoSmallAndSmallToCapital.executor": "Run",
+    "Application.CommonCharacter.executor": "Run",
+    "Application.CommonWordsinTwoString.executor": "Run",
+    "Application.CountEachChar.executor": "Run",
+    "Application.FibUsingRec.executor": "Run",
+    "Application.FindDuplicate.executor": "Run",
+    "Application.FrequencyOfEachCharacterinString.executor": "Run",
+    "Application.HashSetProgram1.executor": "Run",
+    "Application.IsomorphicStrings.executor": "Run",
+    "Application.Java8.executor": "Run",
+    "Application.LambdaExpression.executor": "Run",
+    "Application.LineWrapper.executor": "Run",
+    "Application.Map1.executor": "Run",
+    "Application.MapExample.executor": "Run",
+    "Application.MapWithEntityPractice.executor": "Run",
+    "Application.MaxCharacter.executor": "Run",
+    "Application.MaxElementinArray.executor": "Run",
+    "Application.MaxOccurenceCharacterinString.executor": "Run",
+    "Application.MaxOccurenceofCharacter.executor": "Debug",
+    "Application.MaxSubArraySum.executor": "Run",
+    "Application.MissingNumber.executor": "Run",
+    "Application.MissingNumberPractoce.executor": "Run",
+    "Application.PairSumEquals.executor": "Debug",
+    "Application.Prime.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
+    "Application.RemoveDuplicatesUsingHashMap.executor": "Run",
+    "Application.RemoveDuplicatesinStringUsingHashMap.executor": "Run",
+    "Application.SimpleProgramForMeesageProper.executor": "Run",
+    "Application.SimpleProgramForMessageProper.executor": "Run",
+    "Application.Sliding.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.StringAnagram.executor": "Run",
+    "Application.StringCharacterCount.executor": "Run",
+    "Application.StringConsecutiveOccurence.executor": "Run",
+    "Application.StringEachWordreverse.executor": "Run",
+    "Application.StringIndividualWordReverse.executor": "Run",
+    "Application.StringMaxCharacterUsingHashMap.executor": "Run",
+    "Application.StringOnlyNumberSum.executor": "Run",
+    "Application.StringReverse.executor": "Run",
+    "Application.StringReverse2.executor": "Run",
+    "Application.StringSubstring.executor": "Run",
+    "Application.StringSwapping.executor": "Run",
+    "Application.StringWordReverse.executor": "Run",
+    "Application.Stringsum.executor": "Run",
+    "Application.Substring.executor": "Run",
+    "Application.ThreadMain.executor": "Run",
+    "Application.UserAddressExample.executor": "Debug",
+    "Application.WeekToDateConverter.executor": "Run",
+    "Application.YearMonthExample.executor": "Run",
+    "Application.maxOccurenceinArray.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "hello",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/SpringBoot Project/ElectronicStore",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="FinexraInterviewPreparation" />
@@ -189,9 +167,9 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadMain">
-    <configuration name="FrequencyOfEachCharacterinString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.FrequencyOfEachCharacterinString" />
+  <component name="RunManager" selected="Application.MaxSubArraySum">
+    <configuration name="FibUsingRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.FibUsingRec" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -203,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionFramework.LambdaExpression" />
+    <configuration name="MaxSubArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.MaxSubArraySum" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionFramework.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapWithEntityPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.MapWithEntityPractice" />
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinexraInterviewPreparation.MissingNumber" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringExample.*" />
+          <option name="PATTERN" value="FinexraInterviewPreparation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,25 +234,26 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.MaxSubArraySum" />
+      <item itemvalue="Application.FibUsingRec" />
+      <item itemvalue="Application.MissingNumber" />
       <item itemvalue="Application.Stringsum" />
-      <item itemvalue="Application.LambdaExpression" />
-      <item itemvalue="Application.MapWithEntityPractice" />
       <item itemvalue="Application.ThreadMain" />
-      <item itemvalue="Application.FrequencyOfEachCharacterinString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxSubArraySum" />
         <item itemvalue="Application.ThreadMain" />
+        <item itemvalue="Application.MissingNumber" />
+        <item itemvalue="Application.FibUsingRec" />
         <item itemvalue="Application.Stringsum" />
-        <item itemvalue="Application.LambdaExpression" />
-        <item itemvalue="Application.MapWithEntityPractice" />
-        <item itemvalue="Application.FrequencyOfEachCharacterinString" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-3183f394aec4-fdae186d" />
         <option value="jdk-19.0.2-corretto-19.0.2-249ae16d76d6-e8693060" />
         <option value="jdk-19.0.2-corretto-19.0.2-f644763e9732-7e92f9a0" />
       </set>
@@ -327,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708194292722</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adding Java Basics Programm">
+      <option name="closed" value="true" />
+      <created>1721322652926</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721322652926</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -357,7 +344,8 @@
     <MESSAGE value="Adding" />
     <MESSAGE value="Merge pull request #1 from Gautampatwa/main&#10;&#10;Adding new program" />
     <MESSAGE value="Adding new program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding new program" />
+    <MESSAGE value="Adding Java Basics Programm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Java Basics Programm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1134,11 +1122,6 @@
         <PinnedItemInfo parentTag="java.lang.Long" memberName="value" />
       </pinned-members>
     </pin-to-top-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="s2.value" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

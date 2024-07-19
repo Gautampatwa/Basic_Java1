@@ -8,11 +8,10 @@ public class FunctionExample1 {
         System.out.println("m2 Method called:" + name);
     }
 
-    public static int m1(int a, int b) {
+    public static void m1(int a, int b) {
         System.out.println("m1 method called");
         int c=a+b;
         System.out.println(c);
-        return c;
     }
 
     public static void main(String[] args) {
