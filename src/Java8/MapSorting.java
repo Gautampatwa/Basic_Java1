@@ -19,7 +19,7 @@ public class MapSorting {
         System.out.println("========================StreamAPI=======================");
         List<String> list = Arrays.asList("Gautam", "Mukesh", "Akanksha", "Manvi", "Prerna");
         list.forEach(System.out::println);
-        list.stream().sorted().filter(i -> i.startsWith("M")).forEach((li) -> System.out.println("I love you " + li));
+        list.stream().filter(i -> i.startsWith("M")).forEach((li) -> System.out.println("I love you " + li));
 
         //FLatMap
         List<List<Integer>> lists = Arrays.asList(Arrays.asList(1, 3, 2, 5, 4, 6, 7, 89), Arrays.asList(2, 3, 4, 6, 7, 8));
@@ -29,41 +29,49 @@ public class MapSorting {
         System.out.println(collect);
         System.out.println(collect1);
         System.out.println("=========================String==========================");
-        String s1="Gautam";
-        String s2="Gautam";
-        String s3=new String("Gautam");
-        String s4=new String("Gautam");
-        StringBuffer buffer1=new StringBuffer("Gautam");
-        StringBuffer buffer2=new StringBuffer("Gautam");
-        System.out.println(s1==s2);
+        String s1 = "Gautam";
+        String s2 = "Gautam";
+        String s3 = new String("Gautam");
+        String s4 = new String("Gautam");
+        StringBuffer buffer1 = new StringBuffer("Gautam");
+        StringBuffer buffer2 = new StringBuffer("Gautam");
+        System.out.println(s1 == s2);
         System.out.println(s1.equals(s2));
-        System.out.println(s3==s4);
-        System.out.println(" "+s3.equals(s4));
-        System.out.println(buffer2==buffer1);
+        System.out.println(s3 == s4);
+        System.out.println(" " + s3.equals(s4));
+        System.out.println(buffer2 == buffer1);
         System.out.println(buffer1.equals(buffer2));
-        System.out.println(s1==s3);//false
+        System.out.println(s1 == s3);//false
         System.out.println(s1.equals(s3));//true
         System.out.println(s1.equals(buffer1));
         System.out.println(s1.equals(s3));
         System.out.println("==========================================");
-        Employee employee2=new Employee("Gautam", "Delhi", "CSE", 52000);
-        Employee employee3=new Employee("Gautam", "Delhi", "CSE", 52000);
+        Employee employee2 = new Employee("Gautam", "Delhi", "CSE", 52000);
+        Employee employee3 = new Employee("Gautam", "Delhi", "CSE", 52000);
         System.out.println(employee2);
         System.out.println(employee3);
-        System.out.println(employee2==employee3);
+        System.out.println(employee2 == employee3);
         System.out.println(employee2.equals(employee3));
 
 
-        List<Employee> employeeList=Arrays.asList(
+        List<Employee> employeeList = Arrays.asList(
                 new Employee("Gautam", "Delhi", "CSE", 5300),
-        new Employee("Gautam", "Govind", "CSE", 3000),
+                new Employee("Gautam", "Govind", "CSE", 3000),
                 new Employee("Gautam", "Punjab", "CSE", 12000),
                 new Employee("Gautam", "Mumbai", "CSE", 84000)
         );
         List<Employee> collect2 = employeeList.stream().filter(s -> s.getSalary() < 12000).collect(Collectors.toList());
-        for(Employee e:collect2)
-        {
+        for (Employee e : collect2) {
             System.out.println(e.getAddress());
         }
+        System.out.println("=============================MAX SALARY OF EMPLOYEE=======================================");
+
+        employeeList.stream()
+                .max(Comparator.comparing(Employee::getSalary))
+                .ifPresent(System.out::println);
+        System.out.println("==============================================================");
+        employeeList.stream().sorted(Comparator.comparing(Employee::getAddress).reversed()).forEach(System.out::println);
+
+
     }
 }

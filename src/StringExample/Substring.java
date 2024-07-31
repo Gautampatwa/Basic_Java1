@@ -1,5 +1,7 @@
 package StringExample;
 
+import java.util.Arrays;
+import java.util.List;
 import java.util.Scanner;
 
 public class Substring {
@@ -17,5 +19,9 @@ public class Substring {
             }
         }
         System.out.println(c);
+        System.out.println("=============================================");
+        int[] arr= new int[]{1,2,3,4,5,6};
+        int a=arr[arr.length-1]++;
+        System.out.println(a);
     }
 }

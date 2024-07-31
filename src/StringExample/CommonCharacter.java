@@ -11,7 +11,6 @@ public class CommonCharacter {
 
         Map<Character, Integer> charCountMap1 = new HashMap<>();
         Map<Character, Integer> charCountMap2 = new HashMap<>();
-
         for (char c : str1.toCharArray()) {
             charCountMap1.put(c, charCountMap1.getOrDefault(c, 0) + 1);
         }

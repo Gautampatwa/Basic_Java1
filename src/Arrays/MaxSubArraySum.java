@@ -17,6 +17,7 @@ public class MaxSubArraySum {
     private static int maxSubArraySum(int[] arr) {
         int max = Integer.MIN_VALUE;
         int currentSum = 0;
+        System.out.println(max);
 
         for (int i = 0; i < arr.length; i++) {
             currentSum += arr[i];
