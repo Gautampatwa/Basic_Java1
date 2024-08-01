@@ -6,7 +6,6 @@ public class LinkedList11 {
     static class Node {
         int data;
         Node next;
-
         Node(int data) {
             this.data = data;
         }
@@ -83,7 +82,6 @@ public class LinkedList11 {
             while (temp != null) {
                 System.out.print(temp.data + "->");
                 temp = temp.next;
-
             }
             System.out.println("NULL");
         }
