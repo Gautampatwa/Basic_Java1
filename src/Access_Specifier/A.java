@@ -7,6 +7,14 @@ public class A {
         System.out.println("111111");
         System.out.println("Mehodooddokdkkd");
     }
+
+    {
+        System.out.println("000000000°°°°°°°°°°°°°");
+        System.out.println("000000000°°°°°°°°°°°°°");
+        System.out.println("000000000°°°°°°°°°°°°°");
+        System.out.println(" Instance Block");
+    }
+
     public void A()
     {
         System.out.println("Constructor ");
