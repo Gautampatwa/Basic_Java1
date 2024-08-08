@@ -4,6 +4,7 @@ public class A {
 
     public void myMethod()
     {
+        System.out.println("111111");
         System.out.println("Mehodooddokdkkd");
     }
     public void A()
