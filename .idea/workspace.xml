@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Adding Java Basics Programm">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxSubArraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/FibUsingRec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Thread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Thread2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FinexraInterviewPreparation/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinexraInterviewPreparation/MissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Functions/FunctionExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/FunctionExample1.java" afterDir="false" />
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Hello">
+      <change beforePath="$PROJECT_DIR$/src/Access_Specifier/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Access_Specifier/A.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +28,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="A1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -88,22 +82,28 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.ArrayIndexPrint.executor": "Debug",
     "Application.ArrayList1.executor": "Run",
+    "Application.ArrayListExample.executor": "Run",
     "Application.ArrayOccurenceGreaterThanNbyThreeTimes.executor": "Run",
     "Application.BinaryStringSum.executor": "Debug",
+    "Application.BinarytoDecimal.executor": "Run",
     "Application.CaptitaltoSmallAndSmallToCapital.executor": "Run",
+    "Application.CharacerFrquency.executor": "Run",
     "Application.CommonCharacter.executor": "Run",
     "Application.CommonWordsinTwoString.executor": "Run",
     "Application.CountEachChar.executor": "Run",
     "Application.FibUsingRec.executor": "Run",
     "Application.FindDuplicate.executor": "Run",
+    "Application.FindPeakElement.executor": "Run",
     "Application.FrequencyOfEachCharacterinString.executor": "Run",
     "Application.HashSetProgram1.executor": "Run",
     "Application.IsomorphicStrings.executor": "Run",
     "Application.Java8.executor": "Run",
     "Application.LambdaExpression.executor": "Run",
     "Application.LineWrapper.executor": "Run",
+    "Application.LocaldateTimeToUTC.executor": "Run",
     "Application.Map1.executor": "Run",
     "Application.MapExample.executor": "Run",
+    "Application.MapSorting.executor": "Run",
     "Application.MapWithEntityPractice.executor": "Run",
     "Application.MaxCharacter.executor": "Run",
     "Application.MaxElementinArray.executor": "Run",
@@ -112,12 +112,15 @@
     "Application.MaxSubArraySum.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.MissingNumberPractoce.executor": "Run",
+    "Application.NumberPermutation.executor": "Run",
     "Application.PairSumEquals.executor": "Debug",
     "Application.Prime.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
+    "Application.RemoveDuplicatesAndCount.executor": "Run",
     "Application.RemoveDuplicatesUsingHashMap.executor": "Run",
     "Application.RemoveDuplicatesinStringUsingHashMap.executor": "Run",
+    "Application.ReverseInteger.executor": "Run",
     "Application.SimpleProgramForMeesageProper.executor": "Run",
     "Application.SimpleProgramForMessageProper.executor": "Run",
     "Application.Sliding.executor": "Run",
@@ -137,7 +140,9 @@
     "Application.Stringsum.executor": "Run",
     "Application.Substring.executor": "Run",
     "Application.ThreadMain.executor": "Run",
+    "Application.TwoStringIntoThird.executor": "Run",
     "Application.UserAddressExample.executor": "Debug",
+    "Application.WeekNumbers.executor": "Run",
     "Application.WeekToDateConverter.executor": "Run",
     "Application.YearMonthExample.executor": "Run",
     "Application.maxOccurenceinArray.executor": "Run",
@@ -148,7 +153,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "hello",
+    "git-widget-placeholder": "Merging hello",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/SpringBoot Project/ElectronicStore",
     "project.structure.last.edited": "Project",
@@ -168,8 +173,21 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.MaxSubArraySum">
-    <configuration name="FibUsingRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.FibUsingRec" />
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ArrayListExample" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.CommonCharacter" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -194,21 +212,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FinexraInterviewPreparation.MissingNumber" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FinexraInterviewPreparation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Stringsum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.Stringsum" />
+    <configuration name="NumberPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.NumberPermutation" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -220,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.ThreadMain" />
+    <configuration name="WeekNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.WeekNumbers" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,19 +239,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CommonCharacter" />
       <item itemvalue="Application.MaxSubArraySum" />
-      <item itemvalue="Application.FibUsingRec" />
-      <item itemvalue="Application.MissingNumber" />
-      <item itemvalue="Application.Stringsum" />
-      <item itemvalue="Application.ThreadMain" />
+      <item itemvalue="Application.ArrayListExample" />
+      <item itemvalue="Application.WeekNumbers" />
+      <item itemvalue="Application.NumberPermutation" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MaxSubArraySum" />
-        <item itemvalue="Application.ThreadMain" />
-        <item itemvalue="Application.MissingNumber" />
-        <item itemvalue="Application.FibUsingRec" />
-        <item itemvalue="Application.Stringsum" />
+        <item itemvalue="Application.CommonCharacter" />
+        <item itemvalue="Application.NumberPermutation" />
+        <item itemvalue="Application.ArrayListExample" />
+        <item itemvalue="Application.WeekNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +319,39 @@
       <option name="project" value="LOCAL" />
       <updated>1721322652926</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Adding new Program of Leet Code">
+      <option name="closed" value="true" />
+      <created>1721414074218</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721414074218</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding new Program of Leet Code">
+      <option name="closed" value="true" />
+      <created>1721414090212</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721414090212</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Adding new Program of Leet Code">
+      <option name="closed" value="true" />
+      <created>1722444958702</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722444958702</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Hello">
+      <option name="closed" value="true" />
+      <created>1723137052249</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723137052249</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -345,7 +382,9 @@
     <MESSAGE value="Merge pull request #1 from Gautampatwa/main&#10;&#10;Adding new program" />
     <MESSAGE value="Adding new program" />
     <MESSAGE value="Adding Java Basics Programm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Java Basics Programm" />
+    <MESSAGE value="Adding new Program of Leet Code" />
+    <MESSAGE value="Hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -892,7 +931,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sorting/SecondLargestElement.java</url>
-          <line>20</line>
+          <line>19</line>
           <option name="timeStamp" value="196" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

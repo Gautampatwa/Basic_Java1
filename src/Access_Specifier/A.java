@@ -1,11 +1,17 @@
 package Access_Specifier;
 public class A {
+
+
     public void myMethod()
     {
-        System.out.println("Method");
+        System.out.println("111111");
+        System.out.println("Mehodooddokdkkd");
     }
 
     {
+        System.out.println("000000000°°°°°°°°°°°°°");
+        System.out.println("000000000°°°°°°°°°°°°°");
+        System.out.println("000000000°°°°°°°°°°°°°");
         System.out.println(" Instance Block");
     }
 
