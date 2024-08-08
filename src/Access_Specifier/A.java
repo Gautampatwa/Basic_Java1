@@ -6,7 +6,9 @@ public class A {
     }
 
     {
-        System.out.println("Merge Conflicts");
+        System.out.println("000000000°°°°°°°°°°°°°");
+        System.out.println("000000000°°°°°°°°°°°°°");
+        System.out.println("000000000°°°°°°°°°°°°°");
         System.out.println(" Instance Block");
     }
 
