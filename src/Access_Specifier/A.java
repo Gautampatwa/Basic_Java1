@@ -6,6 +6,7 @@ public class A {
     }
 
     {
+        System.out.println("Merge Conflicts");
         System.out.println(" Instance Block");
     }
 
