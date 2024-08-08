@@ -6,7 +6,7 @@ public class A {
     }
 
     {
-        System.out.println(" Instance Block");
+
     }
 
     public void A()
