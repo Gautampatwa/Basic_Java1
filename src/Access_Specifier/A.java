@@ -1,14 +1,11 @@
 package Access_Specifier;
 public class A {
+
+
     public void myMethod()
     {
-        System.out.println("Method");
+        System.out.println("Mehodooddokdkkd");
     }
-
-    {
-
-    }
-
     public void A()
     {
         System.out.println("Constructor ");
