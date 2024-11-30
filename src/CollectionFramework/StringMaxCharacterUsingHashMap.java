@@ -1,24 +1,24 @@
 package CollectionFramework;
 
 import java.util.HashMap;
+import java.util.Map;
 import java.util.Scanner;
 
 public class StringMaxCharacterUsingHashMap {
     public static void main(String[] args) {
-        Scanner scanner=new Scanner(System.in);
-        System.out.println("Enter a String to find max occurrence:");
-        String s=scanner.nextLine();
+        Scanner sc=new Scanner(System.in);
+        System.out.println(("Enter a String to find Occurrence"));
+        String s=sc.nextLine();
+        StringBuilder builder=new StringBuilder();
+        Map<Character,Integer> map=new HashMap<>();
 
-        HashMap<Character,Integer> map=new HashMap<>();
-       StringBuilder builder=new StringBuilder();
-        for(char c:s.toCharArray())
+        for(var c:s.toCharArray())
         {
             if(map.containsKey(c))
             {
                 map.put(c,map.getOrDefault(c,0)+1);
             }
-            else
-            {
+            else {
                 map.put(c,1);
             }
         }
@@ -35,7 +35,6 @@ public class StringMaxCharacterUsingHashMap {
             builder.append(e.getValue());
         }
         System.out.println(builder);
-        System.out.println("Max character is :"+(char)key);
-
+        System.out.println("Max char is:"+(char)key);
     }
 }

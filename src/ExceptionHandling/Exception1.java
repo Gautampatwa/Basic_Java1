@@ -18,11 +18,6 @@ public class Exception1 {
 
 		catch(Exception e)
 		{
-//			int age = 89;
-//			if(age<18)
-//			{
-//				throw new Exception("Age should be greater than 18");
-//			}
 			LOGGER.error(new Throwable("Failed"),() -> e.getLocalizedMessage());
 			e.printStackTrace();
 			System.out.println(e);

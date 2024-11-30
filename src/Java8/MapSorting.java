@@ -71,7 +71,28 @@ public class MapSorting {
                 .ifPresent(System.out::println);
         System.out.println("==============================================================");
         employeeList.stream().sorted(Comparator.comparing(Employee::getAddress).reversed()).forEach(System.out::println);
+        System.out.println("===================================================================================");
+        Map<String, List<Employee>> map2 = new HashMap<>();
+        map2.put("1", Arrays.asList(new Employee("a", "1", "7199", 122)));
+        map2.put("2", Arrays.asList(new Employee("C", "112", "1799", 12)));
+        map2.put("3", Arrays.asList(new Employee("B", "22", "9799", 8822)));
+        map2.put("4", Arrays.asList(new Employee("A", "321", "1799", 110222)));
+        map2.put("5", Arrays.asList(new Employee("D", "42", "909", 1220)));
+        map2.put("6", Arrays.asList(new Employee("Z", "521", "1299", 111222)));
+        for (var e : map2.entrySet()) {
+            System.out.println(e.getKey() + ":" + e.getValue());
+        }
+        System.out.println(map2.get("3"));
+        map2.put("3", Arrays.asList(new Employee("Satyam", "98122", "64848", 9883)));
+        System.out.println(map2.get("3"));
+        System.out.println("==============================Salary Filter By Employee=============");
+        map2.entrySet().stream()
+                .sorted(Comparator.comparing(entry -> entry.getValue().get(0).getSalary()))
+                .forEach(System.out::println);
 
-
+        System.out.println("\nSorted in Descending Order by Name:");
+        map2.entrySet().stream()
+                .sorted(Comparator.comparing((Map.Entry<String, List<Employee>> entry) -> entry.getValue().get(0).getName()).reversed())
+                .forEach(System.out::println);
     }
 }

@@ -5,24 +5,20 @@ import java.util.Scanner;
 public class FibUsingRec {
     public static void main(String[] args) {
 
-        Scanner scanner=new Scanner(System.in);
-        while (true)
-        {
+        Scanner scanner = new Scanner(System.in);
+        while (true) {
             System.out.print("Please enter a number to find nth Fibonacci Number : (/ to exit): ");
-            String input=scanner.nextLine();
+            String input = scanner.nextLine();
 
-            if(input.equals("/"))
-           {
-               break;
-           }
-           try{
-               int n=fib(Integer.parseInt(input));
-               System.out.println(n);
-           }
-           catch (NumberFormatException e)
-           {
-               System.out.println("Invalid number, Please enter correct number");
-           }
+            if (input.equals("/")) {
+                break;
+            }
+            try {
+                int n = fib(Integer.parseInt(input));
+                System.out.println(n);
+            } catch (NumberFormatException e) {
+                System.out.println("Invalid number, Please enter correct number");
+            }
 
         }
         System.out.println("Program terminated");

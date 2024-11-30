@@ -10,21 +10,19 @@ public class ParenthesisChecker {
                 stack.push(ch);
             } else {
                 if (stack.isEmpty()) {
-                    return false; // Closing parenthesis without a matching opening parenthesis
+                    return false;
                 }
-
                 char top = stack.pop();
                 if ((ch == ')' && top != '(') || (ch == ']' && top != '[') || (ch == '}' && top != '{')) {
-                    return false; // Mismatched parentheses
+                    return false;
                 }
             }
         }
-
-        return stack.isEmpty(); // If stack is empty, all parentheses are balanced
+        return stack.isEmpty();
     }
 
     public static void main(String[] args) {
-        String expression1 = "((a+b)*(c-d))";
+        String expression1 = "(()())";
         String expression2 = "[(a+b]*c)";
 
         System.out.println(expression1 + " Balanced: " + areParenthesesBalanced(expression1));
