@@ -17,6 +17,6 @@ public class StringEachWordreverse {
             }
             reverse.append(builder).append(" ");
         }
-        System.out.println(reverse.toString());
+        System.out.println(reverse);
     }
 }

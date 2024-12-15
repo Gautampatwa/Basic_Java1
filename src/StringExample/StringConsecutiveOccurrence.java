@@ -2,16 +2,15 @@ package StringExample;
 
 import java.util.Scanner;
 
-public class StringConsecutiveOccurence {
+public class StringConsecutiveOccurrence {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         String s=scanner.nextLine();
-        String s1 = consecutiveOccurence(s);
+        String s1 = consecutiveOccurrence(s);
         System.out.println(s1);
     }
 
-    private static String consecutiveOccurence(String str) {
-
+    private static String consecutiveOccurrence(String str) {
         StringBuilder builder=new StringBuilder();
         int count=1;
         for(int i=0;i<str.length()-1;i++)
@@ -21,7 +20,7 @@ public class StringConsecutiveOccurence {
             {
                 count++;
             }
-            else {
+            else{
                 builder.append(str.charAt(i));
                 builder.append(count);
                 count=1;
@@ -30,6 +29,7 @@ public class StringConsecutiveOccurence {
         builder.append(str.charAt(str.length()-1));
         builder.append(count);
         return builder.toString();
+
     }
 
 }

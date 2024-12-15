@@ -9,6 +9,7 @@ public class String1 {
         String s2="Patwa";
         System.out.println(s1==s2);
         System.out.println(s1.equals(s2));
+        System.out.println("S is:"+s);
         System.out.println(s1==s);
         System.out.println(s.concat(s2));
         System.out.println(s1.equals(s));

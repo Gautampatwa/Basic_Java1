@@ -12,21 +12,25 @@ public class CountEachChar {
     }
 
     public static void charCount(String str) {
-        Map<Character, Integer> mapCount = new HashMap<Character, Integer>();
-        StringBuilder builder = new StringBuilder();
-        char[] charArray = str.toCharArray();
-        for (char c : charArray) {
-            if(mapCount.containsKey(c)) {
-                mapCount.put(c, mapCount.getOrDefault(c, 0) + 1);
-            }
-            else {
-                mapCount.put(c,1);
+        StringBuilder builder=new StringBuilder();
+        Map<Character,Integer> map=new HashMap<>();
+        char[] arr=str.toCharArray();
+        for(char c:arr)
+        {
+            if(map.containsKey(c))
+            {
+                map.put(c,map.getOrDefault(c,0)+1);
+            }else {
+                map.put(c,1);
             }
         }
-        for (var e : mapCount.entrySet()) {
+        for(var e:map.entrySet())
+        {
             builder.append(e.getKey());
             builder.append(e.getValue());
         }
         System.out.println(builder);
+        System.out.println("===============================================");
+
     }
 }

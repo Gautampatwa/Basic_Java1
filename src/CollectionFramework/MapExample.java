@@ -1,9 +1,6 @@
 package CollectionFramework;
 
-import java.util.HashMap;
-import java.util.LinkedHashMap;
-import java.util.Map;
-import java.util.TreeMap;
+import java.util.*;
 
 public class MapExample {
 
@@ -43,7 +40,28 @@ public class MapExample {
         }
         System.out.println(map2.get("Gautam"));
         System.out.println(map2.size());
+        System.out.println("===============================================");
 
+        Map<String, List<String>> map3=new LinkedHashMap<>();
+        map3.put("ate",Arrays.asList("tea","ate","eta"));
+        map3.put("toy",Arrays.asList("txm","amd","lkf"));
+        map3.put("mag",Arrays.asList("ryu","bsg","jqj"));
+        map3.put("pok",Arrays.asList("rii","wje","ouy"));
+        map3.put("ois",Arrays.asList("tks","ajjd","eiu"));
+        for(var e:map3.entrySet())
+        {
+            System.out.println(e.getKey()+":"+e.getValue());
+        }
+        List<String> oisList = map3.get("ois");
+        System.out.println(oisList);
+        if (oisList != null) {
+            oisList.add("sss");  // Add "sss" to the list
+        }
 
+        // Print the updated contents of the map
+        System.out.println("Updated map:");
+        for (var e : map3.entrySet()) {
+            System.out.println(e.getKey() + ":" + e.getValue());
+        }
     }
 }

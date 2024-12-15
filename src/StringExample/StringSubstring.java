@@ -15,6 +15,7 @@ public class StringSubstring {
         int maxLength = 0;
         String substring = "";
         int start = 0;
+
         Set<Character> charSet = new HashSet<>();
 
         for (int i = 0; i < s.length(); i++) {

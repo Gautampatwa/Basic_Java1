@@ -15,7 +15,5 @@ public class StringOnlyNumberSum {
             }
         }
         System.out.println(sum);
-
-
     }
 }

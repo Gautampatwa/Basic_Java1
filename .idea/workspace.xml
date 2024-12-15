@@ -5,21 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Hello">
-      <change afterPath="$PROJECT_DIR$/src/StringExample/OccurrenceOfWordInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/String2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08_08_24,_10_24 pm_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08_08_24__10_24pm__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/RemoveDuplicatesFromArrayUsingHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java8/MapSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/MapSorting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Array2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Array2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionFramework/HashSetProgram1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFramework/HashSetProgram1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionFramework/StringMaxCharacterUsingHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFramework/StringMaxCharacterUsingHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionHandling/Exception1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionHandling/Exception1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java8/MapSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/MapSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack/ParenthesisChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/ParenthesisChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/CollectionFramework/MapExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CollectionFramework/MapExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/FibUsingRec.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/FibUsingRec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/RemoveDuplicatesinStringUsingHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/RemoveDuplicatesinStringUsingHashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/StringEachWordreverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/StringEachWordreverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionFramework/MapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFramework/MapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/CountEachChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CountEachChar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringExample/FibUsingRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/FibUsingRec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/FindDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/FindDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/RemoveDuplicatesUsingHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/RemoveDuplicatesUsingHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/RemoveDuplicatesinStringUsingHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/RemoveDuplicatesinStringUsingHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/RunningSumofArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/RunningSumofArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/String1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/String1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/StringAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/StringConsecutiveOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringConsecutiveOccurrence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/StringEachWordreverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringEachWordreverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/StringOnlyNumberSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringOnlyNumberSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/StringSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringSubstring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +53,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
@@ -108,6 +114,7 @@
     "Application.FindDuplicate.executor": "Run",
     "Application.FindPeakElement.executor": "Run",
     "Application.FrequencyOfEachCharacterinString.executor": "Run",
+    "Application.GroupAnagrams.executor": "Debug",
     "Application.HashSetProgram1.executor": "Run",
     "Application.IsomorphicStrings.executor": "Run",
     "Application.Java8.executor": "Run",
@@ -135,6 +142,7 @@
     "Application.PrimeNumber.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
     "Application.RemoveDuplicatesAndCount.executor": "Run",
+    "Application.RemoveDuplicatesFromArrayUsingHashMap.executor": "Run",
     "Application.RemoveDuplicatesUsingHashMap.executor": "Run",
     "Application.RemoveDuplicatesinStringUsingHashMap.executor": "Run",
     "Application.ReverseInteger.executor": "Run",
@@ -142,6 +150,7 @@
     "Application.SimpleProgramForMessageProper.executor": "Run",
     "Application.Sliding.executor": "Run",
     "Application.Solution.executor": "Run",
+    "Application.String1.executor": "Run",
     "Application.String2.executor": "Run",
     "Application.StringAnagram.executor": "Run",
     "Application.StringCharacterCount.executor": "Run",
@@ -155,10 +164,12 @@
     "Application.StringSubstring.executor": "Run",
     "Application.StringSwapping.executor": "Run",
     "Application.StringWordReverse.executor": "Run",
+    "Application.StringWrapUp.executor": "Run",
     "Application.Stringsum.executor": "Run",
     "Application.Substring.executor": "Run",
     "Application.ThreadMain.executor": "Run",
     "Application.TwoStringIntoThird.executor": "Run",
+    "Application.TwoStringLogic.executor": "Run",
     "Application.UserAddressExample.executor": "Debug",
     "Application.WeekNumbers.executor": "Run",
     "Application.WeekToDateConverter.executor": "Run",
@@ -191,9 +202,9 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.FibUsingRec">
-    <configuration name="CommonCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.CommonCharacter" />
+  <component name="RunManager" selected="Application.RemoveDuplicatesFromArrayUsingHashMap">
+    <configuration name="CountEachChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.CountEachChar" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -205,8 +216,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibUsingRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.FibUsingRec" />
+    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.GroupAnagrams" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -218,8 +229,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OccurenceOfWordInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.OccurenceOfWordInString" />
+    <configuration name="RemoveDuplicatesFromArrayUsingHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.RemoveDuplicatesFromArrayUsingHashMap" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -231,8 +242,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OccurrenceOfWordInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.OccurrenceOfWordInString" />
+    <configuration name="StringEachWordreverse" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.StringEachWordreverse" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -244,12 +255,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParenthesisChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.ParenthesisChecker" />
+    <configuration name="StringWordReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.StringWordReverse" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.*" />
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoStringIntoThird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.TwoStringIntoThird" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,19 +282,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CommonCharacter" />
-      <item itemvalue="Application.FibUsingRec" />
-      <item itemvalue="Application.OccurrenceOfWordInString" />
-      <item itemvalue="Application.ParenthesisChecker" />
-      <item itemvalue="Application.OccurenceOfWordInString" />
+      <item itemvalue="Application.StringEachWordreverse" />
+      <item itemvalue="Application.RemoveDuplicatesFromArrayUsingHashMap" />
+      <item itemvalue="Application.CountEachChar" />
+      <item itemvalue="Application.StringWordReverse" />
+      <item itemvalue="Application.GroupAnagrams" />
+      <item itemvalue="Application.TwoStringIntoThird" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FibUsingRec" />
-        <item itemvalue="Application.CommonCharacter" />
-        <item itemvalue="Application.OccurrenceOfWordInString" />
-        <item itemvalue="Application.ParenthesisChecker" />
-        <item itemvalue="Application.OccurenceOfWordInString" />
+        <item itemvalue="Application.RemoveDuplicatesFromArrayUsingHashMap" />
+        <item itemvalue="Application.StringWordReverse" />
+        <item itemvalue="Application.CountEachChar" />
+        <item itemvalue="Application.TwoStringIntoThird" />
+        <item itemvalue="Application.GroupAnagrams" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +386,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723137052249</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Hello">
+      <option name="closed" value="true" />
+      <created>1732967764645</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732967764645</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -785,36 +818,6 @@
           <option name="timeStamp" value="147" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringWordReverse.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="156" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringWordReverse.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="157" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringWordReverse.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="158" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringWordReverse.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="159" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringWordReverse.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="160" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringWordReverse.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="161" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sorting/RemoveOccurenceofTargetValueinArray.java</url>
           <line>21</line>
           <option name="timeStamp" value="166" />
@@ -878,11 +881,6 @@
           <url>file://$PROJECT_DIR$/src/StringExample/UniqueCharacters.java</url>
           <line>9</line>
           <option name="timeStamp" value="178" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringConsecutiveOccurence.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="189" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/FinexraInterviewPreparation/Main.java</url>
@@ -1060,26 +1058,6 @@
           <option name="timeStamp" value="229" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringSubstring.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="230" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringSubstring.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="231" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringSubstring.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="232" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringSubstring.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="239" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/FinexraInterviewPreparation/SimpleProgramForMessageProper.java</url>
           <line>16</line>
           <option name="timeStamp" value="241" />
@@ -1115,11 +1093,6 @@
           <option name="timeStamp" value="253" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/StringConsecutiveOccurence.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="254" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StringExample/MapWithEntityPractice.java</url>
           <line>18</line>
           <option name="timeStamp" value="256" />
@@ -1133,6 +1106,24 @@
           <url>file://$PROJECT_DIR$/src/StringExample/OccurrenceOfWordInString.java</url>
           <line>6</line>
           <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/GroupAnagrams.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/GroupAnagrams.java</url>
+          <line>17</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/GroupAnagrams.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="263" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

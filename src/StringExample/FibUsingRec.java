@@ -4,12 +4,10 @@ import java.util.Scanner;
 
 public class FibUsingRec {
     public static void main(String[] args) {
-
         Scanner scanner = new Scanner(System.in);
         while (true) {
             System.out.print("Please enter a number to find nth Fibonacci Number : (/ to exit): ");
             String input = scanner.nextLine();
-
             if (input.equals("/")) {
                 break;
             }
@@ -19,11 +17,9 @@ public class FibUsingRec {
             } catch (NumberFormatException e) {
                 System.out.println("Invalid number, Please enter correct number");
             }
-
         }
         System.out.println("Program terminated");
     }
-
     private static int fib(int n) {
         if (n == 0) {
             return 0;

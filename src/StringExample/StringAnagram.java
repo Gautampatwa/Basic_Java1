@@ -15,11 +15,9 @@ public class StringAnagram {
     }
 
     private static boolean anagram(String s1, String s2) {
-        s1=s1.toLowerCase();
-        s2=s2.toLowerCase();
+
         char[] arr1=s1.toCharArray();
         char[] arr2=s2.toCharArray();
-        System.out.println(arr1);
         int m=arr1.length;
         int n=arr2.length;
 
@@ -30,12 +28,14 @@ public class StringAnagram {
         Arrays.sort(arr1);
         Arrays.sort(arr2);
 
-        for(int i=0;i<arr1.length;i++)
+        for(int i=0;i<arr1.length-1;i++)
         {
             if(arr1[i]==arr2[i])
+            {
                 return true;
+            }
+            return false;
         }
         return false;
-
     }
 }

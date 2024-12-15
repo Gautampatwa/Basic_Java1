@@ -10,7 +10,7 @@ public class RemoveDuplicatesUsingHashMap {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter size of Array:");
         int n = scanner.nextInt();
-        int arr[] = new int[n];
+        int[] arr= new int[n];
         for (int i = 0; i < arr.length; i++) {
             arr[i] = scanner.nextInt();
         }
