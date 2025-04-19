@@ -13,6 +13,9 @@ public class PalindromeString {
         } else {
             System.out.print("Not a Palindrome");
         }
+        System.out.println();
+        System.out.println("==============================Second Approach if palindrome reverse it=====");
+        isPalindrome1(str);
     }
 
     static boolean isPalindrome(String str) {
@@ -27,5 +30,17 @@ public class PalindromeString {
         return true;
     }
 
-
+    public static void isPalindrome1(String str) {
+       String rev="";
+       for(int i=str.length()-1;i>=0;i--)
+       {
+           rev+=str.charAt(i);
+       }
+       if(str.toLowerCase().equals(rev))
+       {
+           System.out.print("Is a Palindrome:"+rev);
+       } else {
+           System.out.print("Not a Palindrome:"+rev);
+       }
+    }
 }

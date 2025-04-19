@@ -2,6 +2,7 @@ package StringExample;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.PriorityQueue;
 
 public class CommonCharacter {
 
@@ -25,5 +26,20 @@ public class CommonCharacter {
                 System.out.println("Common character: " + c + ", Occurrence: " + occurrence);
             }
         }
+        System.out.println("============================================================");
+        PriorityQueue<Integer> p = new PriorityQueue<Integer>();
+
+        p.add(20);
+        p.add(15);
+        p.add(10);
+
+        for (var e : p) {
+            System.out.println(e);
+        }
+        System.out.println("===============");
+        System.out.println(p.peek());
+        System.out.println(p.poll());
+        System.out.println(p.peek());
+
     }
 }

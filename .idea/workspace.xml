@@ -5,28 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Hello">
-      <change afterPath="$PROJECT_DIR$/src/StringExample/GroupAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/RemoveDuplicatesFromArrayUsingHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Athread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Bthread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/MainThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/MoveZeroesToRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/IntegerSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/MaxSubstringWithOutNonRepeating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/NthLargestElementArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/CountZeroFrom1ToNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/StringAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/TwoSumPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/segragateEvenOddUsingJava.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CollectionFramework/MapExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CollectionFramework/MapExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/FibUsingRec.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/FibUsingRec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/RemoveDuplicatesinStringUsingHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/RemoveDuplicatesinStringUsingHashMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/StringEachWordreverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/StringEachWordreverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionFramework/MapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFramework/MapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/CountEachChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CountEachChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/FibUsingRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/FibUsingRec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/FindDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/FindDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/RemoveDuplicatesUsingHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/RemoveDuplicatesUsingHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/RemoveDuplicatesinStringUsingHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/RemoveDuplicatesinStringUsingHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/RunningSumofArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/RunningSumofArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/String1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/String1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Java8/MapSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/MapSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java8/MapSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/MapSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/CommonCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CommonCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/PalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/PalindromeString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringExample/StringAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/StringConsecutiveOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringConsecutiveOccurrence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/StringEachWordreverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringEachWordreverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/StringOnlyNumberSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringOnlyNumberSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/StringSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/ArrayRightRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/ArrayRightRotation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,106 +94,126 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Array2.executor": "Run",
-    "Application.ArrayIndexPrint.executor": "Debug",
-    "Application.ArrayList1.executor": "Run",
-    "Application.ArrayListExample.executor": "Run",
-    "Application.ArrayOccurenceGreaterThanNbyThreeTimes.executor": "Run",
-    "Application.BinaryStringSum.executor": "Debug",
-    "Application.BinarytoDecimal.executor": "Run",
-    "Application.CaptitaltoSmallAndSmallToCapital.executor": "Run",
-    "Application.CharacerFrquency.executor": "Run",
-    "Application.CommonCharacter.executor": "Run",
-    "Application.CommonWordsinTwoString.executor": "Run",
-    "Application.CountEachChar.executor": "Run",
-    "Application.FibUsingRec.executor": "Debug",
-    "Application.FindDuplicate.executor": "Run",
-    "Application.FindPeakElement.executor": "Run",
-    "Application.FrequencyOfEachCharacterinString.executor": "Run",
-    "Application.GroupAnagrams.executor": "Debug",
-    "Application.HashSetProgram1.executor": "Run",
-    "Application.IsomorphicStrings.executor": "Run",
-    "Application.Java8.executor": "Run",
-    "Application.LambdaExpression.executor": "Run",
-    "Application.LineWrapper.executor": "Run",
-    "Application.LinkedList11.executor": "Run",
-    "Application.LocaldateTimeToUTC.executor": "Run",
-    "Application.Map1.executor": "Run",
-    "Application.MapExample.executor": "Run",
-    "Application.MapSorting.executor": "Run",
-    "Application.MapWithEntityPractice.executor": "Run",
-    "Application.MaxCharacter.executor": "Run",
-    "Application.MaxElementinArray.executor": "Run",
-    "Application.MaxOccurenceCharacterinString.executor": "Run",
-    "Application.MaxOccurenceofCharacter.executor": "Debug",
-    "Application.MaxSubArraySum.executor": "Run",
-    "Application.MissingNumber.executor": "Run",
-    "Application.MissingNumberPractoce.executor": "Run",
-    "Application.NumberPermutation.executor": "Run",
-    "Application.OccurenceOfWordInString.executor": "Run",
-    "Application.OccurrenceOfWordInString.executor": "Debug",
-    "Application.PairSumEquals.executor": "Debug",
-    "Application.ParenthesisChecker.executor": "Run",
-    "Application.Prime.executor": "Run",
-    "Application.PrimeNumber.executor": "Run",
-    "Application.RemoveDuplicates.executor": "Run",
-    "Application.RemoveDuplicatesAndCount.executor": "Run",
-    "Application.RemoveDuplicatesFromArrayUsingHashMap.executor": "Run",
-    "Application.RemoveDuplicatesUsingHashMap.executor": "Run",
-    "Application.RemoveDuplicatesinStringUsingHashMap.executor": "Run",
-    "Application.ReverseInteger.executor": "Run",
-    "Application.SimpleProgramForMeesageProper.executor": "Run",
-    "Application.SimpleProgramForMessageProper.executor": "Run",
-    "Application.Sliding.executor": "Run",
-    "Application.Solution.executor": "Run",
-    "Application.String1.executor": "Run",
-    "Application.String2.executor": "Run",
-    "Application.StringAnagram.executor": "Run",
-    "Application.StringCharacterCount.executor": "Run",
-    "Application.StringConsecutiveOccurence.executor": "Run",
-    "Application.StringEachWordreverse.executor": "Run",
-    "Application.StringIndividualWordReverse.executor": "Run",
-    "Application.StringMaxCharacterUsingHashMap.executor": "Run",
-    "Application.StringOnlyNumberSum.executor": "Run",
-    "Application.StringReverse.executor": "Run",
-    "Application.StringReverse2.executor": "Run",
-    "Application.StringSubstring.executor": "Run",
-    "Application.StringSwapping.executor": "Run",
-    "Application.StringWordReverse.executor": "Run",
-    "Application.StringWrapUp.executor": "Run",
-    "Application.Stringsum.executor": "Run",
-    "Application.Substring.executor": "Run",
-    "Application.ThreadMain.executor": "Run",
-    "Application.TwoStringIntoThird.executor": "Run",
-    "Application.TwoStringLogic.executor": "Run",
-    "Application.UserAddressExample.executor": "Debug",
-    "Application.WeekNumbers.executor": "Run",
-    "Application.WeekToDateConverter.executor": "Run",
-    "Application.YearMonthExample.executor": "Run",
-    "Application.maxOccurenceinArray.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/SpringBoot Project/ElectronicStore",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Array2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayIndexPrint.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ArrayList1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayOccurenceGreaterThanNbyThreeTimes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayRightRotation.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.BinaryStringSum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.BinarytoDecimal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CaptitaltoSmallAndSmallToCapital.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharacerFrquency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommonCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommonWordsinTwoString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountEachChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountZeroFrom1ToNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountZerofrom1toNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibUsingRec.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FindDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindPeakElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrequencyOfEachCharacterinString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupAnagrams.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.HashSetPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSetProgram1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntegerSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsomorphicStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaExpression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LineWrapper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LocaldateTimeToUTC.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Map1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapSorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapWithEntityPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxElementinArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxOccurenceCharacterinString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxOccurenceofCharacter.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MaxSubArraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxSubstringWithOutNonRepeating.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNumberPractoce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZeroesToRight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NthLargestElementArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberPermutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OccurenceOfWordInString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OccurrenceOfWordInString.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PairSumEquals.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PalindromeString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ParenthesisChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicatesAndCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicatesFromArrayUsingHashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicatesUsingHashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicatesinStringUsingHashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleProgramForMeesageProper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleProgramForMessageProper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sliding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringCharacterCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringConsecutiveOccurence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringEachWordreverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringExample.StringAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringIndividualWordReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringMaxCharacterUsingHashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringOnlyNumberSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringReverse2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringSwapping.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringWordReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringWrapUp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stringsum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Substring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoStringIntoThird.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoStringLogic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSumPairs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserAddressExample.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.WeekNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeekToDateConverter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.YearMonthExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.findDuplicatesinnumsay.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maxOccurenceinArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.segragateEvenOddUsingJava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.segregateEvenandOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SpringBoot Project/ElectronicStore&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="FinexraInterviewPreparation" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Multithreading" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -202,9 +221,35 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicatesFromArrayUsingHashMap">
-    <configuration name="CountEachChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.CountEachChar" />
+  <component name="RunManager" selected="Application.HashSetPractice">
+    <configuration name="CountZeroFrom1ToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.CountZeroFrom1ToNumber" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSetPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.HashSetPractice" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.IntegerSum" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -216,12 +261,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.GroupAnagrams" />
+    <configuration name="MapSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.MapSorting" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringExample.*" />
+          <option name="PATTERN" value="Java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,8 +274,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromArrayUsingHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.RemoveDuplicatesFromArrayUsingHashMap" />
+    <configuration name="PalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.PalindromeString" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -255,47 +300,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringWordReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.StringWordReverse" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoStringIntoThird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.TwoStringIntoThird" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.RemoveDuplicatesFromArrayUsingHashMap" />
-      <item itemvalue="Application.CountEachChar" />
-      <item itemvalue="Application.StringWordReverse" />
-      <item itemvalue="Application.GroupAnagrams" />
-      <item itemvalue="Application.TwoStringIntoThird" />
+      <item itemvalue="Application.HashSetPractice" />
+      <item itemvalue="Application.PalindromeString" />
+      <item itemvalue="Application.MapSorting" />
+      <item itemvalue="Application.IntegerSum" />
+      <item itemvalue="Application.CountZeroFrom1ToNumber" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveDuplicatesFromArrayUsingHashMap" />
-        <item itemvalue="Application.StringWordReverse" />
-        <item itemvalue="Application.CountEachChar" />
-        <item itemvalue="Application.TwoStringIntoThird" />
-        <item itemvalue="Application.GroupAnagrams" />
+        <item itemvalue="Application.HashSetPractice" />
+        <item itemvalue="Application.PalindromeString" />
+        <item itemvalue="Application.MapSorting" />
+        <item itemvalue="Application.IntegerSum" />
+        <item itemvalue="Application.CountZeroFrom1ToNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -394,7 +413,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732967764645</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Hello">
+      <option name="closed" value="true" />
+      <created>1734280721602</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1734280721602</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -526,26 +553,6 @@
           <url>file://$PROJECT_DIR$/src/FinexraInterviewPreparation/ReverseArray.java</url>
           <line>17</line>
           <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sorting/Bubblesort.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sorting/Bubblesort.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sorting/Bubblesort.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sorting/Bubblesort.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sorting/SelectionSort.java</url>
@@ -791,31 +798,6 @@
           <url>file://$PROJECT_DIR$/src/sorting/SecondLargestElement.java</url>
           <line>8</line>
           <option name="timeStamp" value="131" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/maxOccurenceinArray.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="143" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/maxOccurenceinArray.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="144" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/maxOccurenceinArray.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="145" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/maxOccurenceinArray.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="146" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/maxOccurenceinArray.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="147" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sorting/RemoveOccurenceofTargetValueinArray.java</url>
@@ -1111,19 +1093,6 @@
           <url>file://$PROJECT_DIR$/src/StringExample/GroupAnagrams.java</url>
           <line>4</line>
           <option name="timeStamp" value="261" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/GroupAnagrams.java</url>
-          <line>17</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="262" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/GroupAnagrams.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="263" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

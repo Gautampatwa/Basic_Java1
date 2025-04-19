@@ -14,7 +14,7 @@ public class MapSorting {
         map.put(new Employee("Suresh", "Gurgaon", "KT", 13000), 80);
         map.put(new Employee("Banti", "Punjab", "FINANCIAL", 10012), 224);
 
-        map.entrySet().stream().sorted(Map.Entry.comparingByKey(Comparator.comparing(Employee::getMobile))).forEach(System.out::println);
+        map.entrySet().stream().sorted(Map.Entry.comparingByKey(Comparator.comparing(Employee::getMobile).reversed())).forEach(System.out::println);
 
         System.out.println("========================StreamAPI=======================");
         List<String> list = Arrays.asList("Gautam", "Mukesh", "Akanksha", "Manvi", "Prerna");
@@ -55,10 +55,10 @@ public class MapSorting {
 
 
         List<Employee> employeeList = Arrays.asList(
-                new Employee("Gautam", "Delhi", "CSE", 5300),
-                new Employee("Gautam", "Govind", "CSE", 3000),
-                new Employee("Gautam", "Punjab", "CSE", 12000),
-                new Employee("Gautam", "Mumbai", "CSE", 84000)
+                new Employee("Gautam", "US", "CSE", 5300),
+                new Employee("Gautam", "INDIA", "CSE", 3000),
+                new Employee("Gautam", "UK", "CSE", 12000),
+                new Employee("Gautam", "JPN", "CSE", 84000)
         );
         List<Employee> collect2 = employeeList.stream().filter(s -> s.getSalary() < 12000).collect(Collectors.toList());
         for (Employee e : collect2) {
@@ -94,5 +94,51 @@ public class MapSorting {
         map2.entrySet().stream()
                 .sorted(Comparator.comparing((Map.Entry<String, List<Employee>> entry) -> entry.getValue().get(0).getName()).reversed())
                 .forEach(System.out::println);
+        System.out.println("==========================================================");
+        List<Employee> employeeList2 = Arrays.asList(
+                new Employee("Gautam", "Delhi", "CSE", 5300),
+                new Employee("Shivam", "Mumbai", "ECE", 3000),
+                new Employee("Pankaj", "Bangakore", "MEC", 1000),
+                new Employee("Gotya", "Kolkata", "CSE", 84000)
+        );
+
+        System.out.println("Sorted by Address:");
+        employeeList2.stream()
+                .sorted(Comparator.comparing(Employee::getSalary).reversed())
+                .forEach(System.out::println);
+
+        // Filter by salary > 3000 and name starts with "Go"
+        System.out.println("\nFiltered by salary > 3000 and name starts with 'Go':");
+        employeeList2.stream()
+                .filter(i -> i.getSalary() > 3000 && i.getName().startsWith("G"))
+                .forEach(System.out::println);
+
+        System.out.println();
+        System.out.println("Sorted BY salary descending..................");
+        employeeList2.stream().sorted(Comparator.comparing(Employee::getSalary).reversed()).
+                forEach(System.out::println);
+        System.out.println();
+        System.out.println("Max salary of employee.........");
+        Optional<Employee> maxSalaryEmployee = employeeList2.stream()
+                .max(Comparator.comparing(Employee::getSalary));
+
+        System.out.println("Employee with Maximum Salary:");
+        maxSalaryEmployee.ifPresent(System.out::println);
+
+        // Find max salary employee for each department (branch)
+        Map<String, Optional<Employee>> maxSalaryByDepartment = employeeList2.stream()
+                .collect(Collectors.groupingBy(
+                        Employee::getMobile,
+                        Collectors.maxBy(Comparator.comparing(Employee::getSalary))
+                ));
+
+        System.out.println("Branch-wise Maximum Salary Employee:");
+        maxSalaryByDepartment.forEach((dept, emp) -> emp.ifPresent(System.out::println));
+
+//        Map<String, Optional<Employee>> collect3 = employeeList2.stream().collect(Collectors.groupingBy(Employee::getMobile, Collectors.
+//                maxBy(Comparator.comparing(Employee::getSalary))));
+//        collect3.forEach((dept,emp)->emp.ifPresent(System.out::println));
     }
+
+
 }
