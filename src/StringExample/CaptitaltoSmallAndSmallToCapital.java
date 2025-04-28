@@ -27,5 +27,32 @@ public class CaptitaltoSmallAndSmallToCapital {
             }
         }
         System.out.println(s);
+        System.out.println("======================Converting again to upper case lower case============================");
+        for(int i=0;i<s.length();i++)
+        {
+            boolean flag=true;
+            char c=s.charAt(i);
+            if(s.charAt(i)==' ')
+            {
+                continue;
+            }
+            int v=(int) c;
+            if(v>=97)
+            {
+                flag=false;
+            }
+            if(flag==true)
+            {
+                v+=32;
+                char v1=(char)v;
+                s.setCharAt(i,v1);
+            }
+            else {
+                v-=32;
+                char v1=(char)v;
+                s.setCharAt(i,v1);
+            }
+        }
+        System.out.println(s);
     }
 }
