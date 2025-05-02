@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Adding New program">
-      <change afterPath="$PROJECT_DIR$/src/StringExample/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/FirstNonRepeatingChars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/BinaryStringSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/BinaryStringSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/CaptitaltoSmallAndSmallToCapital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CaptitaltoSmallAndSmallToCapital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/MaxElementinArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/MaxElementinArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/MaxElementinArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/MaxElementinArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,13 +99,14 @@
     "Application.FibUsingRec.executor": "Debug",
     "Application.FindDuplicate.executor": "Run",
     "Application.FindPeakElement.executor": "Run",
+    "Application.FirstNonRepeatingChars.executor": "Run",
     "Application.FrequencyOfEachCharacterinString.executor": "Run",
     "Application.GFG.executor": "Debug",
     "Application.GroupAnagrams.executor": "Debug",
     "Application.HashSetPractice.executor": "Run",
     "Application.HashSetProgram1.executor": "Run",
     "Application.IntegerSum.executor": "Run",
-    "Application.IsomorphicStrings.executor": "Run",
+    "Application.IsomorphicStrings.executor": "Debug",
     "Application.Java8.executor": "Run",
     "Application.LambdaExpression.executor": "Run",
     "Application.LineWrapper.executor": "Run",
@@ -131,7 +131,7 @@
     "Application.NthLargestElementArray.executor": "Debug",
     "Application.NumberPermutation.executor": "Run",
     "Application.OccurenceOfWordInString.executor": "Run",
-    "Application.OccurrenceOfWordInString.executor": "Debug",
+    "Application.OccurrenceOfWordInString.executor": "Run",
     "Application.PairSumEquals.executor": "Debug",
     "Application.PalindromeString.executor": "Run",
     "Application.ParenthesisChecker.executor": "Run",
@@ -207,9 +207,9 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.GroupAnagrams">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.BubbleSort" />
+  <component name="RunManager" selected="Application.RemoveDuplicatesFromArrayUsingHashMap">
+    <configuration name="FirstNonRepeatingChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.FirstNonRepeatingChars" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -221,8 +221,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommonWordsinTwoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.CommonWordsinTwoString" />
+    <configuration name="MapSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.MapSorting" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxElementinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.MaxElementinArray" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -234,34 +247,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.GFG" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.GroupAnagrams" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NthLargestElementArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.NthLargestElementArray" />
+    <configuration name="RemoveDuplicatesFromArrayUsingHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.RemoveDuplicatesFromArrayUsingHashMap" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -286,21 +273,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="maxOccurenceinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.maxOccurenceinArray" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.GFG" />
-      <item itemvalue="Application.GroupAnagrams" />
-      <item itemvalue="Application.BubbleSort" />
-      <item itemvalue="Application.NthLargestElementArray" />
-      <item itemvalue="Application.CommonWordsinTwoString" />
+      <item itemvalue="Application.FirstNonRepeatingChars" />
+      <item itemvalue="Application.RemoveDuplicatesFromArrayUsingHashMap" />
+      <item itemvalue="Application.MaxElementinArray" />
+      <item itemvalue="Application.maxOccurenceinArray" />
+      <item itemvalue="Application.MapSorting" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GroupAnagrams" />
-        <item itemvalue="Application.GFG" />
-        <item itemvalue="Application.NthLargestElementArray" />
-        <item itemvalue="Application.CommonWordsinTwoString" />
-        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.RemoveDuplicatesFromArrayUsingHashMap" />
+        <item itemvalue="Application.FirstNonRepeatingChars" />
+        <item itemvalue="Application.maxOccurenceinArray" />
+        <item itemvalue="Application.MaxElementinArray" />
+        <item itemvalue="Application.MapSorting" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +415,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745059161644</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Adding New program">
+      <option name="closed" value="true" />
+      <created>1745868178146</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1745868178146</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
