@@ -15,6 +15,5 @@ public class ExceptionHandling {
           //  System.out.println(":"+e.getMessage());
          // System.out.println(e.getClass());
         }
-        System.out.println("Code Complete");
     }
 }
