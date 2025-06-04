@@ -17,10 +17,8 @@ public class StringSubstring {
         int start = 0;
 
         Set<Character> charSet = new HashSet<>();
-
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
-
             if (charSet.contains(ch)) {
                 charSet.remove(s.charAt(start));
                 start++;
