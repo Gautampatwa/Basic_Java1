@@ -27,7 +27,8 @@ public class TwoSumPairs {
         while (l < r) {
             int sum = arr[l] + arr[r];
             if (sum == t) {
-                list.add(l, r);
+                list.add(l);
+                list.add(r);
                 return list;
             } else if (sum != t && l != r - 1) {
                 r--;
