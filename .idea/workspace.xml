@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Java8">
-      <change afterPath="$PROJECT_DIR$/src/StringExample/CharCountInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/MaxAverageUsingMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/SquarOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointers/SegregateEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/LongestCommonSubsequenceBottomUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/LongestPalindromicString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/TwoSumPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/TwoSumPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/LongestCommonSubsequenceDP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/LongestCommonSubsequenceDP.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +118,9 @@
     "Application.LinkedList.executor": "Run",
     "Application.LinkedList11.executor": "Run",
     "Application.LocaldateTimeToUTC.executor": "Run",
+    "Application.LongestCommonSubsequenceBottomUp.executor": "Run",
+    "Application.LongestCommonSubsequenceDP.executor": "Run",
+    "Application.LongestPalindromicString.executor": "Run",
     "Application.MainThread.executor": "Run",
     "Application.Map1.executor": "Run",
     "Application.MapExample.executor": "Run",
@@ -224,52 +225,52 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.SquarOfNumbers">
-    <configuration name="SegregateEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointers.SegregateEvenOdd" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TwoPointers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sliding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slidingWindow.Sliding" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="slidingWindow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slidingWindow.Solution" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="slidingWindow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SquarOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.SquarOfNumbers" />
+  <component name="RunManager" selected="Application.LongestCommonSubsequenceBottomUp">
+    <configuration name="FirstNonRepeatingChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.FirstNonRepeatingChars" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonSubsequenceBottomUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.LongestCommonSubsequenceBottomUp" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonSubsequenceDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.LongestCommonSubsequenceDP" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestPalindromicString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.LongestPalindromicString" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,12 +291,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSumPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.TwoSumPairs" />
+    <configuration name="StringOnlyNumberSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.StringOnlyNumberSum" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sorting.*" />
+          <option name="PATTERN" value="StringExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -305,19 +306,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.SegregateEvenOdd" />
-      <item itemvalue="Application.Sliding" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.SquarOfNumbers" />
-      <item itemvalue="Application.TwoSumPairs" />
+      <item itemvalue="Application.LongestCommonSubsequenceBottomUp" />
+      <item itemvalue="Application.LongestCommonSubsequenceDP" />
+      <item itemvalue="Application.LongestPalindromicString" />
+      <item itemvalue="Application.FirstNonRepeatingChars" />
+      <item itemvalue="Application.StringOnlyNumberSum" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SquarOfNumbers" />
-        <item itemvalue="Application.SegregateEvenOdd" />
-        <item itemvalue="Application.TwoSumPairs" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Sliding" />
+        <item itemvalue="Application.LongestCommonSubsequenceBottomUp" />
+        <item itemvalue="Application.LongestPalindromicString" />
+        <item itemvalue="Application.LongestCommonSubsequenceDP" />
+        <item itemvalue="Application.FirstNonRepeatingChars" />
+        <item itemvalue="Application.StringOnlyNumberSum" />
       </list>
     </recent_temporary>
   </component>
@@ -480,7 +481,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749061753838</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Java8">
+      <option name="closed" value="true" />
+      <created>1749925029740</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1749925029740</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Java8">
+      <option name="closed" value="true" />
+      <created>1749929146494</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1749929146494</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
