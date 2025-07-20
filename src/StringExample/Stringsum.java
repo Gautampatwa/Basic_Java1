@@ -1,14 +1,14 @@
 package StringExample;
 
-import org.junit.platform.commons.logging.Logger;
-import org.junit.platform.commons.logging.LoggerFactory;
+//import org.junit.platform.commons.logging.Logger;
+//import org.junit.platform.commons.logging.LoggerFactory;
 
 import java.util.Scanner;
 
 public class Stringsum {
     public static void main(String[] args) {
 
-        Logger logger = LoggerFactory.getLogger(Stringsum.class);
+//        Logger logger = LoggerFactory.getLogger(Stringsum.class);
         Scanner sc=new Scanner(System.in);
         String s=sc.nextLine();
 
