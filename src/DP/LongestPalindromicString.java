@@ -43,8 +43,8 @@ public class LongestPalindromicString {
     }
 
     public static void main(String[] args) {
-        String text1 = "abcdet";
-        String text2 = "acet";
+        String text1 = "bbbbc";
+        String text2 = "cbbbb";
 
         int[][] dp = new int[text1.length()][text2.length()];
         for (int[] row : dp) {

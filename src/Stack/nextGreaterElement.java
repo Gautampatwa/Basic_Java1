@@ -8,7 +8,7 @@ public class nextGreaterElement {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter size :");
         int n = scanner.nextInt();
-        int arr[] = new int[n];
+        int[] arr = new int[n];
         for (int i = 0; i < n; i++) {
             arr[i] = scanner.nextInt();
         }
@@ -21,7 +21,7 @@ public class nextGreaterElement {
     private static int[] nextGreaterElementWhileStack(int[] arr) {
         Stack<Integer> stack = new Stack<>();
         int n = arr.length;
-        int res[] = new int[n];
+        int[] res = new int[n];
         res[n - 1] = -1;
         stack.push(arr[n - 1]);
         for (int i = n - 2; i >= 0; i--) {

@@ -4,8 +4,8 @@ import java.util.HashMap;
 
 public class CommonCharacter {
     public static void main(String[] args) {
-        String s1 = "Gautam";
-        String s2 = "Mutaopml";
+        String s1 = "Sushil";
+        String s2 = "Mukesh";
 
         HashMap<Character, Integer> hashMap1 = new HashMap<>();
         HashMap<Character, Integer> hashMap2 = new HashMap<>();
