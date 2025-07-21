@@ -4,26 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="DP">
-      <change afterPath="$PROJECT_DIR$/src/Stack/PreviousGreaterElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/StockSpanProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08_08_24__10_36pm__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08_08_24__10_36pm__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_08_24__10_25pm__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_08_24__10_25pm__Changes_.xml" afterDir="false" />
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Stack Problem">
+      <change afterPath="$PROJECT_DIR$/src/Queue/ArrayImplementationQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/DisplayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/nextSmallerElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/previousSmallerElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/CharacerFrquency.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/CharacerFrquency.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/WeekNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/WeekNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CollectionFramework/Map1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CollectionFramework/Map1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CollectionFramework/MapExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CollectionFramework/MapExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Cursors/YearMonthExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Cursors/YearMonthExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java8/MapSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/MapSorting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/EmployeesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/EmployeesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/junit11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/junit11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionHandling/Exception1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionHandling/Exception1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionHandling/Exception1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionHandling/Exception1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionHandling/Exception2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionHandling/Exception2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JUNIT/JUnitMockitoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JUNIT/JUnitMockitoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/Stringsum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/Stringsum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +84,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Array2.executor": "Run",
     "Application.ArrayImplementationOfStack.executor": "Run",
+    "Application.ArrayImplementationQueue.executor": "Run",
     "Application.ArrayIndexPrint.executor": "Run",
     "Application.ArrayList1.executor": "Run",
     "Application.ArrayListExample.executor": "Run",
@@ -116,6 +104,7 @@
     "Application.CountZeroFrom1ToNumber.executor": "Run",
     "Application.CountZerofrom1toNumber.executor": "Run",
     "Application.CountingEachCharacter.executor": "Run",
+    "Application.DisplayQueue.executor": "Run",
     "Application.ExceptionHandling.executor": "Run",
     "Application.FactorialUsingRecursion.executor": "Run",
     "Application.FibUsingRec.executor": "Debug",
@@ -153,6 +142,7 @@
     "Application.MaxSubArraySum.executor": "Run",
     "Application.MaxSubstringWithOutNonRepeating.executor": "Run",
     "Application.MergeSortedArray.executor": "Run",
+    "Application.MinStack.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.MissingNumberPractoce.executor": "Run",
     "Application.MoveZeroToEnd.executor": "Run",
@@ -221,6 +211,8 @@
     "Application.maxOccurenceinArray.executor": "Run",
     "Application.nextGreaterElement.executor": "Run",
     "Application.nextGreaterUsingArray.executor": "Run",
+    "Application.nextSmallerElement.executor": "Debug",
+    "Application.previousSmallerElement.executor": "Run",
     "Application.segragateEvenOddUsingJava.executor": "Run",
     "Application.segregateEvenandOdd.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
@@ -254,13 +246,13 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.StockSpanProblem">
-    <configuration name="CountBalancedParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.CountBalancedParenthesis" />
+  <component name="RunManager" selected="Application.ArrayImplementationQueue">
+    <configuration name="ArrayImplementationQueue (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.ArrayImplementationQueue" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.*" />
+          <option name="PATTERN" value="Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,12 +260,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PreviousGreaterElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.PreviousGreaterElement" />
+    <configuration name="ArrayImplementationQueue (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.ArrayImplementationQueue" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.*" />
+          <option name="PATTERN" value="Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,12 +273,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveCosecutiveOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.RemoveCosecutiveOccurence" />
+    <configuration name="ArrayImplementationQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.ArrayImplementationQueue" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.*" />
+          <option name="PATTERN" value="Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,12 +286,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StockSpanProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.StockSpanProblem" />
+    <configuration name="DisplayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.DisplayQueue" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.*" />
+          <option name="PATTERN" value="Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxSubArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.MaxSubArraySum" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -320,34 +325,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nextGreaterUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.nextGreaterUsingArray" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.StockSpanProblem" />
-      <item itemvalue="Application.PreviousGreaterElement" />
-      <item itemvalue="Application.CountBalancedParenthesis" />
-      <item itemvalue="Application.RemoveCosecutiveOccurence" />
-      <item itemvalue="Application.nextGreaterUsingArray" />
+      <item itemvalue="Application.ArrayImplementationQueue" />
+      <item itemvalue="Application.ArrayImplementationQueue (1)" />
+      <item itemvalue="Application.ArrayImplementationQueue (2)" />
+      <item itemvalue="Application.DisplayQueue" />
+      <item itemvalue="Application.MaxSubArraySum" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StockSpanProblem" />
-        <item itemvalue="Application.PreviousGreaterElement" />
-        <item itemvalue="Application.nextGreaterUsingArray" />
-        <item itemvalue="Application.RemoveCosecutiveOccurence" />
-        <item itemvalue="Application.CountBalancedParenthesis" />
+        <item itemvalue="Application.ArrayImplementationQueue" />
+        <item itemvalue="Application.ArrayImplementationQueue (2)" />
+        <item itemvalue="Application.ArrayImplementationQueue (1)" />
+        <item itemvalue="Application.DisplayQueue" />
+        <item itemvalue="Application.MaxSubArraySum" />
       </list>
     </recent_temporary>
   </component>
@@ -534,7 +526,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751136249827</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Stack Problem">
+      <option name="closed" value="true" />
+      <created>1753039763976</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1753039763976</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -571,7 +571,8 @@
     <MESSAGE value="Prime Number in between" />
     <MESSAGE value="Java8" />
     <MESSAGE value="DP" />
-    <option name="LAST_COMMIT_MESSAGE" value="DP" />
+    <MESSAGE value="Stack Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stack Problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1130,24 +1131,39 @@
           <option name="timeStamp" value="278" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stack/StockSpanProblem.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="279" />
+          <url>file://$PROJECT_DIR$/src/Stack/nextSmallerElement.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stack/nextSmallerElement.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stack/nextSmallerElement.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stack/nextSmallerElement.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stack/nextSmallerElement.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="292" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Stack/StockSpanProblem.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="280" />
+          <line>8</line>
+          <option name="timeStamp" value="293" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stack/StockSpanProblem.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="281" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stack/StockSpanProblem.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="282" />
+          <url>file://$PROJECT_DIR$/src/Stack/nextSmallerElement.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="294" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
