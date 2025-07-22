@@ -5,6 +5,7 @@ public class ArrayImplementationQueue {
         int f=-1,r=-1;
         int size=0;
         int[] arr=new int[5];
+
         public void add(int val) {
             if(r==arr.length-1)
             {
@@ -54,6 +55,11 @@ public class ArrayImplementationQueue {
                 System.out.println();
             }
         }
+
+        public boolean isEmpty() {
+            if(size==0) return true;
+            else return false;
+        }
     }
 
     public static void main(String[] args) {
@@ -66,6 +72,7 @@ public class ArrayImplementationQueue {
         q.display();
         System.out.println(q.peek());
         q.remove();
+        System.out.println(q.isEmpty());
         q.display();
     }
 }
