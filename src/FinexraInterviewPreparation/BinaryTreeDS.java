@@ -1,6 +1,6 @@
 package FinexraInterviewPreparation;
 
-public class BinaryTreeDS {
+public class  BinaryTreeDS {
     static class Node {
         int data;
         Node left;
