@@ -12,7 +12,7 @@ public class MaxSubstringWithOutNonRepeating {
     }
 
     private static int subStringNonRepeating(String s) {
-        if (s.length() == 0 || s == null) {
+        if (s.isEmpty()) {
             return 0;
         }
         int l = 0, max = 0;

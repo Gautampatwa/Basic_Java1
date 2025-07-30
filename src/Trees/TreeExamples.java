@@ -55,7 +55,7 @@ public class TreeExamples {
 
 
     private static int heightofTree(Node root) {
-        if (root == null || root.right == null || root.left == null)
+        if (root == null)
             return 0;
         return 1 + Math.max(heightofTree(root.left), heightofTree(root.right));
     }
