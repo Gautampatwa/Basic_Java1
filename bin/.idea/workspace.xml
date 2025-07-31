@@ -246,7 +246,20 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Union">
+  <component name="RunManager" selected="Application.MapSorting">
+    <configuration name="FindConsecutiveArrayLengthwithSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slidingWindow.FindConsecutiveArrayLengthwithSum" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slidingWindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MapSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java8.MapSorting" />
       <module name="Basic_Java" />
@@ -266,19 +279,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="StringExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slidingWindow.Solution" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="slidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,19 +327,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.MapSorting" />
       <item itemvalue="Application.Union" />
+      <item itemvalue="Application.FindConsecutiveArrayLengthwithSum" />
       <item itemvalue="Application.MaxSubstringWithOutNonRepeating" />
       <item itemvalue="Application.StringSubstring" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Union" />
-        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.MapSorting" />
+        <item itemvalue="Application.Union" />
         <item itemvalue="Application.MaxSubstringWithOutNonRepeating" />
         <item itemvalue="Application.StringSubstring" />
+        <item itemvalue="Application.FindConsecutiveArrayLengthwithSum" />
       </list>
     </recent_temporary>
   </component>
