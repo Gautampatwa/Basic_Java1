@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Longest PalindromicSubstringsDP">
+      <change afterPath="$PROJECT_DIR$/src/StringExample/StringFirstNonRepeatingCharacterIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/ArrayListExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/ArrayListExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/CharacerFrquency.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/CharacerFrquency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/FindPeakElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/FindPeakElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/MaxSubArraySum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/MaxSubArraySum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/ReverseInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/WeekNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/WeekNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/CollectionFramework/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CollectionFramework/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/CollectionFramework/LambdaExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CollectionFramework/LambdaExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/CollectionFramework/Map1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CollectionFramework/Map1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/CollectionFramework/MapExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CollectionFramework/MapExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/CollectionFramework/Prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CollectionFramework/Prime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Cursors/YearMonthExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Cursors/YearMonthExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/CustomException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/CustomException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/MissingNumberPractoce.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/MissingNumberPractoce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/SimpleProgramForMessageProper.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/FinexraInterviewPreparation/SimpleProgramForMessageProper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Functions/FunctionExample1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Functions/FunctionExample1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Java8/DefaultMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/DefaultMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Java8/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Java8/HashSetPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/HashSetPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Java8/MapSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/MapSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Multithreading/AsyncProgramm.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Multithreading/AsyncProgramm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/FibUsingRec.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/FibUsingRec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/FrequencyOfEachCharacterinString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/FrequencyOfEachCharacterinString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/Java8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/Java8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/LocaldateTimeToUTC.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/LocaldateTimeToUTC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/MapWithEntityPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/MapWithEntityPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/MaxCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/MaxCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/MaxElementinArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/MaxElementinArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/MaxOccurenceCharacterinString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/MaxOccurenceCharacterinString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/NumberPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/NumberPermutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/RemoveDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/RemoveDuplicatesAndCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/RemoveDuplicatesAndCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/RemoveDuplicatesinStringUsingHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/RemoveDuplicatesinStringUsingHashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/StringEachWordreverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/StringEachWordreverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/StringReverse2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/StringReverse2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/slidingWindow/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/slidingWindow/Solution.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Gautam &lt;44258292+gautampatwa@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="A1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Gautampatwa/Basic_Java1.git&quot;,
+    &quot;accountId&quot;: &quot;c9232c93-122c-4352-8150-e377152de6fe&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/FinexraInterviewPreparation/MissingNumber.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/FinexraInterviewPreparation/MissingNumberPractoce.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="17" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2HSRxU80ILOPN6Xgxc546gVSpt3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Array2.executor": "Run",
+    "Application.ArrayImplementationOfStack.executor": "Run",
+    "Application.ArrayIndexPrint.executor": "Run",
+    "Application.ArrayList1.executor": "Run",
+    "Application.ArrayListExample.executor": "Run",
+    "Application.ArrayOccurenceGreaterThanNbyThreeTimes.executor": "Run",
+    "Application.ArrayRightRotation.executor": "Debug",
+    "Application.BalancedParenthesis.executor": "Run",
+    "Application.BinaryStringSum.executor": "Run",
+    "Application.BinarytoDecimal.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CaptitaltoSmallAndSmallToCapital.executor": "Run",
+    "Application.CharCountInString.executor": "Run",
+    "Application.CharacerFrquency.executor": "Run",
+    "Application.CommonCharacter.executor": "Run",
+    "Application.CommonWordsinTwoString.executor": "Run",
+    "Application.CountBalancedParenthesis.executor": "Run",
+    "Application.CountEachChar.executor": "Run",
+    "Application.CountZeroFrom1ToNumber.executor": "Run",
+    "Application.CountZerofrom1toNumber.executor": "Run",
+    "Application.CountingEachCharacter.executor": "Run",
+    "Application.ExceptionHandling.executor": "Run",
+    "Application.FactorialUsingRecursion.executor": "Run",
+    "Application.FibUsingRec.executor": "Debug",
+    "Application.FindDuplicate.executor": "Run",
+    "Application.FindDuplicateCharactersUsingJava8.executor": "Run",
+    "Application.FindPeakElement.executor": "Run",
+    "Application.FirstNonRepeatingChars.executor": "Run",
+    "Application.FrequencyOfEachCharacterinString.executor": "Run",
+    "Application.GFG.executor": "Debug",
+    "Application.GroupAnagrams.executor": "Run",
+    "Application.HashSetPractice.executor": "Run",
+    "Application.HashSetProgram1.executor": "Run",
+    "Application.IntegerSum.executor": "Run",
+    "Application.IsomorphicStrign.executor": "Run",
+    "Application.IsomorphicStrings.executor": "Run",
+    "Application.Java8.executor": "Run",
+    "Application.Java8Features.executor": "Run",
+    "Application.LambdaExpression.executor": "Run",
+    "Application.LineWrapper.executor": "Run",
+    "Application.LinkedList.executor": "Run",
+    "Application.LinkedList11.executor": "Run",
+    "Application.LocaldateTimeToUTC.executor": "Run",
+    "Application.LongestCommonSubsequenceBottomUp.executor": "Run",
+    "Application.LongestCommonSubsequenceDP.executor": "Run",
+    "Application.LongestPalindromicString.executor": "Run",
+    "Application.MainThread.executor": "Run",
+    "Application.Map1.executor": "Run",
+    "Application.MapExample.executor": "Run",
+    "Application.MapSorting.executor": "Run",
+    "Application.MapWithEntityPractice.executor": "Run",
+    "Application.MaxAverageUsingMap.executor": "Run",
+    "Application.MaxCharacter.executor": "Run",
+    "Application.MaxElementinArray.executor": "Run",
+    "Application.MaxOccurenceCharacterinString.executor": "Run",
+    "Application.MaxOccurenceofCharacter.executor": "Run",
+    "Application.MaxSubArraySum.executor": "Run",
+    "Application.MaxSubstringWithOutNonRepeating.executor": "Run",
+    "Application.MergeSortedArray.executor": "Run",
+    "Application.MissingNumber.executor": "Run",
+    "Application.MissingNumberPractoce.executor": "Run",
+    "Application.MoveZeroToEnd.executor": "Run",
+    "Application.MoveZeroesToRight.executor": "Run",
+    "Application.MphasisJava8Practice.executor": "Run",
+    "Application.NthLargestElementArray.executor": "Run",
+    "Application.NumberPermutation.executor": "Run",
+    "Application.OccurenceOfWordInString.executor": "Run",
+    "Application.OccurrenceOfWordInString.executor": "Run",
+    "Application.PairSumEquals.executor": "Debug",
+    "Application.PalindromeString.executor": "Run",
+    "Application.PalindromicSubstringsDP.executor": "Run",
+    "Application.ParenthesisChecker.executor": "Run",
+    "Application.PatternZeroOne.executor": "Run",
+    "Application.PermutationInString.executor": "Debug",
+    "Application.Prime.executor": "Run",
+    "Application.PrimeNumber.executor": "Debug",
+    "Application.PrimeNumbersbInBetween.executor": "Run",
+    "Application.RemoveCosecutiveOccurence.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
+    "Application.RemoveDuplicatesAndCount.executor": "Run",
+    "Application.RemoveDuplicatesFromArrayUsingHashMap.executor": "Run",
+    "Application.RemoveDuplicatesUsingHashMap.executor": "Run",
+    "Application.RemoveDuplicatesinStringUsingHashMap.executor": "Run",
+    "Application.ReverseInteger.executor": "Run",
+    "Application.ReverseLinkedList.executor": "Run",
+    "Application.SegregateEvenOdd.executor": "Run",
+    "Application.SegregateOddAndEven.executor": "Run",
+    "Application.SimpleProgramForMeesageProper.executor": "Run",
+    "Application.SimpleProgramForMessageProper.executor": "Run",
+    "Application.Sliding.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.SquarOfNumbers.executor": "Run",
+    "Application.String1.executor": "Run",
+    "Application.String2.executor": "Run",
+    "Application.StringAnagram.executor": "Run",
+    "Application.StringCharacterCount.executor": "Run",
+    "Application.StringConsecutiveOccurence.executor": "Run",
+    "Application.StringConsecutiveOccurrence.executor": "Run",
+    "Application.StringContainsSecondString.executor": "Run",
+    "Application.StringEachWordreverse.executor": "Run",
+    "Application.StringExample.StringAnagram.executor": "Run",
+    "Application.StringFirstNonRepeatingCharacterIndex.executor": "Run",
+    "Application.StringIndividualWordReverse.executor": "Run",
+    "Application.StringMaxCharacterUsingHashMap.executor": "Run",
+    "Application.StringOccurence.executor": "Run",
+    "Application.StringOnlyNumberSum.executor": "Run",
+    "Application.StringReverse.executor": "Run",
+    "Application.StringReverse2.executor": "Run",
+    "Application.StringSubstring.executor": "Run",
+    "Application.StringSwapping.executor": "Run",
+    "Application.StringWordReverse.executor": "Run",
+    "Application.StringWrapUp.executor": "Run",
+    "Application.Stringsum.executor": "Run",
+    "Application.Substring.executor": "Run",
+    "Application.ThreadMain.executor": "Run",
+    "Application.TreesExample.executor": "Run",
+    "Application.TwoStringIntoThird.executor": "Run",
+    "Application.TwoStringLogic.executor": "Run",
+    "Application.TwoSumPairs.executor": "Run",
+    "Application.UniqueCharacters.executor": "Run",
+    "Application.UserAddressExample.executor": "Debug",
+    "Application.WeekNumbers.executor": "Run",
+    "Application.WeekToDateConverter.executor": "Run",
+    "Application.YearMonthExample.executor": "Run",
+    "Application.findDuplicatesinnumsay.executor": "Run",
+    "Application.lowercasetoUppercase.executor": "Run",
+    "Application.maxOccurenceinArray.executor": "Run",
+    "Application.nextGreaterElement.executor": "Run",
+    "Application.nextGreaterUsingArray.executor": "Run",
+    "Application.segragateEvenOddUsingJava.executor": "Run",
+    "Application.segregateEvenandOdd.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.preview.features.used": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/SpringBoot Project/ElectronicStore",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="FinexraInterviewPreparation" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Stack" />
+      <recent name="Multithreading" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="jdk" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StringFirstNonRepeatingCharacterIndex">
+    <configuration name="Java8Features" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream.Java8Features" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromicSubstringsDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slidingWindow.PalindromicSubstringsDP" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slidingWindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PermutationInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slidingWindow.PermutationInString" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slidingWindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringEachWordreverse" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.StringEachWordreverse" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringFirstNonRepeatingCharacterIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.StringFirstNonRepeatingCharacterIndex" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees.TreesExample" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StringEachWordreverse" />
+      <item itemvalue="Application.StringFirstNonRepeatingCharacterIndex" />
+      <item itemvalue="Application.PalindromicSubstringsDP" />
+      <item itemvalue="Application.PermutationInString" />
+      <item itemvalue="Application.Java8Features" />
+      <item itemvalue="Application.TreesExample" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringFirstNonRepeatingCharacterIndex" />
+        <item itemvalue="Application.PalindromicSubstringsDP" />
+        <item itemvalue="Application.PermutationInString" />
+        <item itemvalue="Application.TreesExample" />
+        <item itemvalue="Application.Java8Features" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="" />
+      <created>1668276752549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668276752549</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Adding">
+      <created>1687161633485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687161633485</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding">
+      <created>1687161790861</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687161790861</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge pull request #1 from Gautampatwa/main&#10;&#10;Adding new program">
+      <option name="closed" value="true" />
+      <created>1703873031103</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703873031103</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge pull request #1 from Gautampatwa/main&#10;&#10;Adding new program">
+      <option name="closed" value="true" />
+      <created>1703873226828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703873226828</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding new program">
+      <option name="closed" value="true" />
+      <created>1708194292722</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708194292722</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding Java Basics Programm">
+      <option name="closed" value="true" />
+      <created>1721322652926</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721322652926</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adding new Program of Leet Code">
+      <option name="closed" value="true" />
+      <created>1721414074218</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721414074218</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding new Program of Leet Code">
+      <option name="closed" value="true" />
+      <created>1721414090212</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721414090212</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Adding new Program of Leet Code">
+      <option name="closed" value="true" />
+      <created>1722444958702</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722444958702</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Hello">
+      <option name="closed" value="true" />
+      <created>1723137052249</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723137052249</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Hello">
+      <option name="closed" value="true" />
+      <created>1732967764645</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732967764645</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Hello">
+      <option name="closed" value="true" />
+      <created>1734280721602</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1734280721602</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Adding New program">
+      <option name="closed" value="true" />
+      <created>1745059161644</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1745059161644</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Adding New program">
+      <option name="closed" value="true" />
+      <created>1745868178146</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1745868178146</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Adding New program">
+      <option name="closed" value="true" />
+      <created>1746201264930</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1746201264930</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Adding New program">
+      <option name="closed" value="true" />
+      <created>1746644434578</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1746644434578</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Prime Number in between">
+      <option name="closed" value="true" />
+      <created>1746990129987</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1746990129987</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Java8">
+      <option name="closed" value="true" />
+      <created>1746990890931</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1746990890931</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Java8">
+      <option name="closed" value="true" />
+      <created>1749061753838</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1749061753838</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Java8">
+      <option name="closed" value="true" />
+      <created>1749925029740</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1749925029740</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Java8">
+      <option name="closed" value="true" />
+      <created>1749929146494</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1749929146494</updated>
+    </task>
+    <task id="LOCAL-00022" summary="DP">
+      <option name="closed" value="true" />
+      <created>1751136249827</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1751136249827</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Tree">
+      <option name="closed" value="true" />
+      <created>1753212619931</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1753212619931</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Longest PalindromicSubstringsDP">
+      <option name="closed" value="true" />
+      <created>1753562258630</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1753562258630</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feature/Basic" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding" />
+    <MESSAGE value="Merge pull request #1 from Gautampatwa/main&#10;&#10;Adding new program" />
+    <MESSAGE value="Adding new program" />
+    <MESSAGE value="Adding Java Basics Programm" />
+    <MESSAGE value="Adding new Program of Leet Code" />
+    <MESSAGE value="Hello" />
+    <MESSAGE value="Adding New program" />
+    <MESSAGE value="Prime Number in between" />
+    <MESSAGE value="Java8" />
+    <MESSAGE value="DP" />
+    <MESSAGE value="Tree" />
+    <MESSAGE value="Longest PalindromicSubstringsDP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Longest PalindromicSubstringsDP" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Access_Specifier/UNIT.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExceptionHandling/Exception2.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExceptionHandling/Exception2.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExceptionHandling/Exception2.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExceptionHandling/Exception2.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Source.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Source.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CollectionFramework/LinkedListsorted.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CollectionFramework/LinkedListsorted.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CollectionFramework/LinkedListsorted.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CollectionFramework/LinkedListsorted.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FinexraInterviewPreparation/ReverseArray.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SelectionSort.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SelectionSort.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SelectionSort.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SelectionSort.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/RemoveDuplicateValuesinString.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/RemoveDuplicateValuesinString.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/BinarySearchUsingRecurssion.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/BinarySearchUsingRecurssion.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/BinarySearchUsingRecurssion.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/BinarySearchUsingRecurssion.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Access_Specifier/Hello.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Access_Specifier/Hello.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/ArrayOccurenceGreaterThanNbyThreeTimes.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Main.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/CheckingArraySortedOrNot.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/CheckingArraySortedOrNot.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/CheckingArraySortedOrNot.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/FindDuplicate.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/FindDuplicate.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/WordPattern.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/WordPattern.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/WordPattern.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/WordPattern.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/WordPattern.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/WordPattern.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/WordPattern.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/WordPattern.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/WordPattern.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/slidingWindow/Sliding.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/slidingWindow/Sliding.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/RemoveDuplicateInArrayExample3.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/RemoveDuplicateInArrayExample3.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/StringDifference.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SecondLargestElement.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SecondLargestElement.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SecondLargestElement.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SecondLargestElement.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SecondLargestElement.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/RemoveOccurenceofTargetValueinArray.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FinexraInterviewPreparation/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FinexraInterviewPreparation/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FinexraInterviewPreparation/Main.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FinexraInterviewPreparation/Main.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SecondLargestElement.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SecondLargestElement.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SecondLargestElement.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SelectionSort.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SelectionSort.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SelectionSort.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/SelectionSort.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/IsomorphicStrings.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/IsomorphicStrings.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FinexraInterviewPreparation/SimpleProgramForMessageProper.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/ArrayIndexPrint.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/ArrayIndexPrint.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/ArrayIndexPrint.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/Java8.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/MapWithEntityPractice.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/MapWithEntityPractice.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/OccurrenceOfWordInString.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/GroupAnagrams.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/MoveZeroToEnd.java</url>
+          <line>39</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stack/CountBalancedParenthesis.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/slidingWindow/PermutationInString.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/slidingWindow/PermutationInString.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/slidingWindow/PermutationInString.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/slidingWindow/PalindromicSubstringsDP.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.Integer" memberName="value" />
+        <PinnedItemInfo parentTag="java.lang.Long" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Basic_Java$Student1.ic" NAME="Student1 Coverage Results" MODIFIED="1669205765385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Basic_Java$ArrayPractice.ic" NAME="ArrayPractice Coverage Results" MODIFIED="1675933187929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>PracticeInterview.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Basic_Java$Hacker1.ic" NAME="Hacker1 Coverage Results" MODIFIED="1668622209916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>PracticeInterview.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Basic_Java$Loop1.ic" NAME="Loop1 Coverage Results" MODIFIED="1671734752539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Arrays.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Basic_Java$Exception2.ic" NAME="Exception2 Coverage Results" MODIFIED="1669831369804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ExceptionHandling.*</FILTER>
+    </SUITE>
+  </component>
+</project>

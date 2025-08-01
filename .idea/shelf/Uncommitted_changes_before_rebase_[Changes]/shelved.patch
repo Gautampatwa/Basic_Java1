@@ -1,0 +1,18 @@
+Index: src/StringExample/CharCountInString.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package StringExample;\n\nimport java.util.ArrayList;\nimport java.util.List;\nimport java.util.Scanner;\n\npublic class CharCountInString {\n    public static void main(String[] args) {\n        Scanner scanner=new Scanner(System.in);\n        String s=scanner.nextLine();\n        int sum=0;\n        for(char c:s.toCharArray())\n        {\n            if(Character.isDigit(c))\n            {\n                sum+=Character.getNumericValue(c);\n            }\n        }\n        System.out.println(sum);\n    }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/StringExample/CharCountInString.java b/src/StringExample/CharCountInString.java
+--- a/src/StringExample/CharCountInString.java	(revision 346abe73046d6408f7fba1ba31dafdcae82d6ef8)
++++ b/src/StringExample/CharCountInString.java	(date 1754060478413)
+@@ -1,7 +1,5 @@
+ package StringExample;
+ 
+-import java.util.ArrayList;
+-import java.util.List;
+ import java.util.Scanner;
+ 
+ public class CharCountInString {
