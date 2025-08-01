@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Stack Problem">
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="DP">
+      <change afterPath="$PROJECT_DIR$/src/Trees/TreesExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/CharacerFrquency.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/CharacerFrquency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/WeekNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/WeekNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/CollectionFramework/Map1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CollectionFramework/Map1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/CollectionFramework/MapExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CollectionFramework/MapExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Cursors/YearMonthExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Cursors/YearMonthExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Java8/MapSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/MapSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinexraInterviewPreparation/BinaryTreeDS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinexraInterviewPreparation/BinaryTreeDS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +40,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
@@ -40,7 +47,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Gautampatwa/Basic_Java1.git&quot;,
-    &quot;accountId&quot;: &quot;7bd1a1c8-7e68-46ad-94ee-3b45283171d6&quot;
+    &quot;accountId&quot;: &quot;c9232c93-122c-4352-8150-e377152de6fe&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -58,7 +65,7 @@
     </option>
   </component>
   <component name="MavenRunner">
-    <option name="jreName" value="temurin-21" />
+    <option name="jreName" value="17" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -68,7 +75,7 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2HSRxU80ILOPN6Xgxc546gVSpt3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -80,7 +87,6 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Application.Array2.executor&quot;: &quot;Run&quot;,
     &quot;Application.ArrayImplementationOfStack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayImplementationQueue.executor&quot;: &quot;Run&quot;,
     &quot;Application.ArrayIndexPrint.executor&quot;: &quot;Run&quot;,
     &quot;Application.ArrayList1.executor&quot;: &quot;Run&quot;,
     &quot;Application.ArrayListExample.executor&quot;: &quot;Run&quot;,
@@ -100,11 +106,9 @@
     &quot;Application.CountZeroFrom1ToNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.CountZerofrom1toNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.CountingEachCharacter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DisplayQueue.executor&quot;: &quot;Run&quot;,
     &quot;Application.ExceptionHandling.executor&quot;: &quot;Run&quot;,
     &quot;Application.FactorialUsingRecursion.executor&quot;: &quot;Run&quot;,
     &quot;Application.FibUsingRec.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.FindConsecutiveArrayLengthwithSum.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindDuplicate.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindDuplicateCharactersUsingJava8.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindPeakElement.executor&quot;: &quot;Run&quot;,
@@ -118,6 +122,7 @@
     &quot;Application.IsomorphicStrign.executor&quot;: &quot;Run&quot;,
     &quot;Application.IsomorphicStrings.executor&quot;: &quot;Run&quot;,
     &quot;Application.Java8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java8Features.executor&quot;: &quot;Run&quot;,
     &quot;Application.LambdaExpression.executor&quot;: &quot;Run&quot;,
     &quot;Application.LineWrapper.executor&quot;: &quot;Run&quot;,
     &quot;Application.LinkedList.executor&quot;: &quot;Run&quot;,
@@ -138,9 +143,7 @@
     &quot;Application.MaxOccurenceofCharacter.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxSubArraySum.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxSubstringWithOutNonRepeating.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxSumofSizeK.executor&quot;: &quot;Run&quot;,
     &quot;Application.MergeSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinStack.executor&quot;: &quot;Run&quot;,
     &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.MissingNumberPractoce.executor&quot;: &quot;Run&quot;,
     &quot;Application.MoveZeroToEnd.executor&quot;: &quot;Run&quot;,
@@ -152,10 +155,8 @@
     &quot;Application.OccurrenceOfWordInString.executor&quot;: &quot;Run&quot;,
     &quot;Application.PairSumEquals.executor&quot;: &quot;Debug&quot;,
     &quot;Application.PalindromeString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromicSubstringsDP.executor&quot;: &quot;Run&quot;,
     &quot;Application.ParenthesisChecker.executor&quot;: &quot;Run&quot;,
     &quot;Application.PatternZeroOne.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PreviousGreaterElement.executor&quot;: &quot;Run&quot;,
     &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrimeNumber.executor&quot;: &quot;Debug&quot;,
     &quot;Application.PrimeNumbersbInBetween.executor&quot;: &quot;Run&quot;,
@@ -174,7 +175,6 @@
     &quot;Application.Sliding.executor&quot;: &quot;Run&quot;,
     &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
     &quot;Application.SquarOfNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StockSpanProblem.executor&quot;: &quot;Debug&quot;,
     &quot;Application.String1.executor&quot;: &quot;Run&quot;,
     &quot;Application.String2.executor&quot;: &quot;Run&quot;,
     &quot;Application.StringAnagram.executor&quot;: &quot;Run&quot;,
@@ -197,10 +197,10 @@
     &quot;Application.Stringsum.executor&quot;: &quot;Run&quot;,
     &quot;Application.Substring.executor&quot;: &quot;Run&quot;,
     &quot;Application.ThreadMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreesExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.TwoStringIntoThird.executor&quot;: &quot;Run&quot;,
     &quot;Application.TwoStringLogic.executor&quot;: &quot;Run&quot;,
     &quot;Application.TwoSumPairs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Union.executor&quot;: &quot;Run&quot;,
     &quot;Application.UniqueCharacters.executor&quot;: &quot;Run&quot;,
     &quot;Application.UserAddressExample.executor&quot;: &quot;Debug&quot;,
     &quot;Application.WeekNumbers.executor&quot;: &quot;Run&quot;,
@@ -211,8 +211,6 @@
     &quot;Application.maxOccurenceinArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.nextGreaterElement.executor&quot;: &quot;Run&quot;,
     &quot;Application.nextGreaterUsingArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.nextSmallerElement.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.previousSmallerElement.executor&quot;: &quot;Run&quot;,
     &quot;Application.segragateEvenOddUsingJava.executor&quot;: &quot;Run&quot;,
     &quot;Application.segregateEvenandOdd.executor&quot;: &quot;Run&quot;,
     &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
@@ -229,7 +227,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -246,39 +244,39 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.MapSorting">
-    <configuration name="FindConsecutiveArrayLengthwithSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slidingWindow.FindConsecutiveArrayLengthwithSum" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="slidingWindow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.MapSorting" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxSubstringWithOutNonRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.MaxSubstringWithOutNonRepeating" />
+  <component name="RunManager" selected="Application.CharCountInString">
+    <configuration name="CharCountInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.CharCountInString" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java8Features" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream.Java8Features" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveCosecutiveOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.RemoveCosecutiveOccurence" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,12 +297,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.StringSubstring" />
+    <configuration name="TreesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees.TreesExample" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringExample.*" />
+          <option name="PATTERN" value="Trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,12 +310,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Union" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.Union" />
+    <configuration name="nextGreaterUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.nextGreaterUsingArray" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringExample.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,19 +325,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.MapSorting" />
-      <item itemvalue="Application.Union" />
-      <item itemvalue="Application.FindConsecutiveArrayLengthwithSum" />
-      <item itemvalue="Application.MaxSubstringWithOutNonRepeating" />
-      <item itemvalue="Application.StringSubstring" />
+      <item itemvalue="Application.CharCountInString" />
+      <item itemvalue="Application.Java8Features" />
+      <item itemvalue="Application.TreesExample" />
+      <item itemvalue="Application.RemoveCosecutiveOccurence" />
+      <item itemvalue="Application.nextGreaterUsingArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MapSorting" />
-        <item itemvalue="Application.Union" />
-        <item itemvalue="Application.MaxSubstringWithOutNonRepeating" />
-        <item itemvalue="Application.StringSubstring" />
-        <item itemvalue="Application.FindConsecutiveArrayLengthwithSum" />
+        <item itemvalue="Application.CharCountInString" />
+        <item itemvalue="Application.TreesExample" />
+        <item itemvalue="Application.Java8Features" />
+        <item itemvalue="Application.nextGreaterUsingArray" />
+        <item itemvalue="Application.RemoveCosecutiveOccurence" />
       </list>
     </recent_temporary>
   </component>
@@ -526,23 +524,7 @@
       <option name="project" value="LOCAL" />
       <updated>1751136249827</updated>
     </task>
-    <task id="LOCAL-00023" summary="Stack Problem">
-      <option name="closed" value="true" />
-      <created>1753039763976</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1753039763976</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Stack Problem">
-      <option name="closed" value="true" />
-      <created>1753765391836</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1753765391836</updated>
-    </task>
-    <option name="localTasksCounter" value="25" />
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -579,8 +561,7 @@
     <MESSAGE value="Prime Number in between" />
     <MESSAGE value="Java8" />
     <MESSAGE value="DP" />
-    <MESSAGE value="Stack Problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stack Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="DP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1122,66 +1103,6 @@
           <url>file://$PROJECT_DIR$/src/Stack/CountBalancedParenthesis.java</url>
           <line>10</line>
           <option name="timeStamp" value="275" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stack/PreviousGreaterElement.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="276" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stack/PreviousGreaterElement.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="277" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stack/PreviousGreaterElement.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="278" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stack/nextSmallerElement.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="288" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stack/nextSmallerElement.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="289" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stack/nextSmallerElement.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="290" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stack/nextSmallerElement.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="291" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stack/nextSmallerElement.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="292" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stack/StockSpanProblem.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="293" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stack/nextSmallerElement.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="294" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/slidingWindow/MaxSumofSizeK.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="295" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/slidingWindow/FindConsecutiveArrayLengthwithSum.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="296" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
