@@ -39,7 +39,5 @@ public class PalindromicSubstringsDP {
         for (String p : palindromes) {
             System.out.println(p);
         }
-
-        sc.close();
     }
 }
