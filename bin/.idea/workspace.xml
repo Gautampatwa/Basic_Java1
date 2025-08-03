@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="DP">
-      <change afterPath="$PROJECT_DIR$/src/Trees/TreesExample.java" afterDir="false" />
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Longest PalindromicSubstringsDP">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/CharacerFrquency.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/CharacerFrquency.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/WeekNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/WeekNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CollectionFramework/Map1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CollectionFramework/Map1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CollectionFramework/MapExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CollectionFramework/MapExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Cursors/YearMonthExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Cursors/YearMonthExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java8/MapSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/MapSorting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FinexraInterviewPreparation/BinaryTreeDS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinexraInterviewPreparation/BinaryTreeDS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,12 +99,14 @@
     &quot;Application.CountZeroFrom1ToNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.CountZerofrom1toNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.CountingEachCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountingSortString.executor&quot;: &quot;Run&quot;,
     &quot;Application.ExceptionHandling.executor&quot;: &quot;Run&quot;,
     &quot;Application.FactorialUsingRecursion.executor&quot;: &quot;Run&quot;,
     &quot;Application.FibUsingRec.executor&quot;: &quot;Debug&quot;,
     &quot;Application.FindDuplicate.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindDuplicateCharactersUsingJava8.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindPeakElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeatingCharIndex.executor&quot;: &quot;Run&quot;,
     &quot;Application.FirstNonRepeatingChars.executor&quot;: &quot;Run&quot;,
     &quot;Application.FrequencyOfEachCharacterinString.executor&quot;: &quot;Run&quot;,
     &quot;Application.GFG.executor&quot;: &quot;Debug&quot;,
@@ -155,6 +150,7 @@
     &quot;Application.OccurrenceOfWordInString.executor&quot;: &quot;Run&quot;,
     &quot;Application.PairSumEquals.executor&quot;: &quot;Debug&quot;,
     &quot;Application.PalindromeString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromicSubstringsDP.executor&quot;: &quot;Debug&quot;,
     &quot;Application.ParenthesisChecker.executor&quot;: &quot;Run&quot;,
     &quot;Application.PatternZeroOne.executor&quot;: &quot;Run&quot;,
     &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
@@ -244,9 +240,9 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.CharCountInString">
-    <configuration name="CharCountInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.CharCountInString" />
+  <component name="RunManager" selected="Application.Codechef">
+    <configuration name="Codechef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.Codechef" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -258,12 +254,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java8Features" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stream.Java8Features" />
+    <configuration name="MapSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.MapSorting" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stream.*" />
+          <option name="PATTERN" value="Java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,12 +267,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveCosecutiveOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.RemoveCosecutiveOccurence" />
+    <configuration name="MphasisJava8Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.MphasisJava8Practice" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.*" />
+          <option name="PATTERN" value="Java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NthLargestElementArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.NthLargestElementArray" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromicSubstringsDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slidingWindow.PalindromicSubstringsDP" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,47 +319,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trees.TreesExample" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="nextGreaterUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.nextGreaterUsingArray" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.CharCountInString" />
-      <item itemvalue="Application.Java8Features" />
-      <item itemvalue="Application.TreesExample" />
-      <item itemvalue="Application.RemoveCosecutiveOccurence" />
-      <item itemvalue="Application.nextGreaterUsingArray" />
+      <item itemvalue="Application.Codechef" />
+      <item itemvalue="Application.MapSorting" />
+      <item itemvalue="Application.MphasisJava8Practice" />
+      <item itemvalue="Application.NthLargestElementArray" />
+      <item itemvalue="Application.PalindromicSubstringsDP" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CharCountInString" />
-        <item itemvalue="Application.TreesExample" />
-        <item itemvalue="Application.Java8Features" />
-        <item itemvalue="Application.nextGreaterUsingArray" />
-        <item itemvalue="Application.RemoveCosecutiveOccurence" />
+        <item itemvalue="Application.Codechef" />
+        <item itemvalue="Application.MapSorting" />
+        <item itemvalue="Application.MphasisJava8Practice" />
+        <item itemvalue="Application.NthLargestElementArray" />
+        <item itemvalue="Application.PalindromicSubstringsDP" />
       </list>
     </recent_temporary>
   </component>
@@ -524,7 +520,23 @@
       <option name="project" value="LOCAL" />
       <updated>1751136249827</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Longest PalindromicSubstringsDP">
+      <option name="closed" value="true" />
+      <created>1754064157185</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1754064157185</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Longest PalindromicSubstringsDP">
+      <option name="closed" value="true" />
+      <created>1754065003038</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1754065003038</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -561,7 +573,8 @@
     <MESSAGE value="Prime Number in between" />
     <MESSAGE value="Java8" />
     <MESSAGE value="DP" />
-    <option name="LAST_COMMIT_MESSAGE" value="DP" />
+    <MESSAGE value="Longest PalindromicSubstringsDP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Longest PalindromicSubstringsDP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1098,11 +1111,6 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="273" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stack/CountBalancedParenthesis.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="275" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

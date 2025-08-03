@@ -4,44 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="DP">
-      <change afterPath="$PROJECT_DIR$/src/StringExample/CountingSortString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/FirstNonRepeatingCharIndex.java" afterDir="false" />
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Longest PalindromicSubstringsDP">
+      <change afterPath="$PROJECT_DIR$/src/Java8/DuplicateWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/Codechef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/CommonElementsCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/NoOfVowelsinWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Basic_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Basic_Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java8/I.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/I.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java8/StringOccurence.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/StringOccurence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Multithreading/Athread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Multithreading/Athread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Multithreading/Bthread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Multithreading/Bthread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Queue/ArrayImplementationQueue$Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Queue/ArrayImplementationQueue$Queue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Queue/ArrayImplementationQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Queue/ArrayImplementationQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Stack/ArrayImplementationOfStack$Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Stack/ArrayImplementationOfStack$Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Stack/ArrayImplementationOfStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Stack/ArrayImplementationOfStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Stack/BalancedParenthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Stack/BalancedParenthesis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Stack/CountBalancedParenthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Stack/CountBalancedParenthesis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/ArrayIndexPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/ArrayIndexPrint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/ArrayOccurenceGreaterThanNbyThreeTimes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/ArrayOccurenceGreaterThanNbyThreeTimes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/BinaryStringSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/BinaryStringSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/BookStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/BookStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/CaptitaltoSmallAndSmallToCapital.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/CaptitaltoSmallAndSmallToCapital.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/CharCountInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/CharCountInString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/CommonCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/CommonCharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/CommonWordsinTwoString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/CommonWordsinTwoString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/ContainsDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/ContainsDuplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/CountEachChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/CountEachChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/CountingSortString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/CountingSortString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/FindDuplicateCharactersUsingJava8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/FindDuplicateCharactersUsingJava8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/FirstNonRepeatingChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/FirstNonRepeatingChars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/Poll4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/Poll4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/StringFirstNonRepeatingCharacterIndex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Trees/TreeExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Trees/TreeExamples.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Trees/TreesExample$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Trees/TreesExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/CharCountInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CharCountInString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +96,9 @@
     "Application.CaptitaltoSmallAndSmallToCapital.executor": "Run",
     "Application.CharCountInString.executor": "Run",
     "Application.CharacerFrquency.executor": "Run",
+    "Application.Codechef.executor": "Run",
     "Application.CommonCharacter.executor": "Run",
+    "Application.CommonElementsCount.executor": "Run",
     "Application.CommonWordsinTwoString.executor": "Run",
     "Application.CountBalancedParenthesis.executor": "Run",
     "Application.CountEachChar.executor": "Run",
@@ -135,6 +106,7 @@
     "Application.CountZerofrom1toNumber.executor": "Run",
     "Application.CountingEachCharacter.executor": "Run",
     "Application.CountingSortString.executor": "Run",
+    "Application.DuplicateWords.executor": "Run",
     "Application.ExceptionHandling.executor": "Run",
     "Application.FactorialUsingRecursion.executor": "Run",
     "Application.FibUsingRec.executor": "Debug",
@@ -179,12 +151,14 @@
     "Application.MoveZeroToEnd.executor": "Run",
     "Application.MoveZeroesToRight.executor": "Run",
     "Application.MphasisJava8Practice.executor": "Run",
+    "Application.NoOfVowelsinWords.executor": "Run",
     "Application.NthLargestElementArray.executor": "Run",
     "Application.NumberPermutation.executor": "Run",
     "Application.OccurenceOfWordInString.executor": "Run",
     "Application.OccurrenceOfWordInString.executor": "Run",
     "Application.PairSumEquals.executor": "Debug",
     "Application.PalindromeString.executor": "Run",
+    "Application.PalindromicSubstringsDP.executor": "Debug",
     "Application.ParenthesisChecker.executor": "Run",
     "Application.PatternZeroOne.executor": "Run",
     "Application.Prime.executor": "Run",
@@ -274,9 +248,9 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountingSortString">
-    <configuration name="CharCountInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.CharCountInString" />
+  <component name="RunManager" selected="Application.NoOfVowelsinWords">
+    <configuration name="Codechef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.Codechef" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -288,8 +262,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountingSortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.CountingSortString" />
+    <configuration name="CommonElementsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.CommonElementsCount" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -301,12 +275,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstNonRepeatingCharIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.FirstNonRepeatingCharIndex" />
+    <configuration name="DuplicateWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.DuplicateWords" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringExample.*" />
+          <option name="PATTERN" value="Java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,12 +288,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java8Features" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stream.Java8Features" />
+    <configuration name="MapSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.MapSorting" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stream.*" />
+          <option name="PATTERN" value="Java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoOfVowelsinWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.NoOfVowelsinWords" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,34 +327,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trees.TreesExample" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.CharCountInString" />
-      <item itemvalue="Application.CountingSortString" />
-      <item itemvalue="Application.FirstNonRepeatingCharIndex" />
-      <item itemvalue="Application.Java8Features" />
-      <item itemvalue="Application.TreesExample" />
+      <item itemvalue="Application.Codechef" />
+      <item itemvalue="Application.CommonElementsCount" />
+      <item itemvalue="Application.DuplicateWords" />
+      <item itemvalue="Application.NoOfVowelsinWords" />
+      <item itemvalue="Application.MapSorting" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountingSortString" />
-        <item itemvalue="Application.FirstNonRepeatingCharIndex" />
-        <item itemvalue="Application.CharCountInString" />
-        <item itemvalue="Application.TreesExample" />
-        <item itemvalue="Application.Java8Features" />
+        <item itemvalue="Application.NoOfVowelsinWords" />
+        <item itemvalue="Application.DuplicateWords" />
+        <item itemvalue="Application.CommonElementsCount" />
+        <item itemvalue="Application.Codechef" />
+        <item itemvalue="Application.MapSorting" />
       </list>
     </recent_temporary>
   </component>
@@ -562,7 +536,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754064157185</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Longest PalindromicSubstringsDP">
+      <option name="closed" value="true" />
+      <created>1754065003038</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1754065003038</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1137,11 +1119,6 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="273" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stack/CountBalancedParenthesis.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="275" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
