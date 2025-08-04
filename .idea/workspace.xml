@@ -5,12 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Longest PalindromicSubstringsDP">
-      <change afterPath="$PROJECT_DIR$/src/Java8/DuplicateWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/Codechef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/CommonElementsCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/NoOfVowelsinWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/CombinationsSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FoundOccurencewith1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/RotateArrayByk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TopKFrequentWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TopKFrequents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/NthtoPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/PrintNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Reverseto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/SubstringRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/countDigitsinNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/multiplesofNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/sumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/sumOfNNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slidingWindow/MaxConsecutiveOneAfterKFlips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slidingWindow/MaxConsecutiveOneAfterKFlipsUsingSlidingWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_25__8_28pm__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_25__8_28pm__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_25__8_33pm__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_25__8_33pm__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/fibonacci.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +88,7 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2HSRxU80ILOPN6Xgxc546gVSpt3" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -115,6 +131,7 @@
     "Application.FindPeakElement.executor": "Run",
     "Application.FirstNonRepeatingCharIndex.executor": "Run",
     "Application.FirstNonRepeatingChars.executor": "Run",
+    "Application.FoundOccurencewith1.executor": "Run",
     "Application.FrequencyOfEachCharacterinString.executor": "Run",
     "Application.GFG.executor": "Debug",
     "Application.GroupAnagrams.executor": "Run",
@@ -153,6 +170,7 @@
     "Application.MphasisJava8Practice.executor": "Run",
     "Application.NoOfVowelsinWords.executor": "Run",
     "Application.NthLargestElementArray.executor": "Run",
+    "Application.NthtoPower.executor": "Run",
     "Application.NumberPermutation.executor": "Run",
     "Application.OccurenceOfWordInString.executor": "Run",
     "Application.OccurrenceOfWordInString.executor": "Run",
@@ -172,6 +190,7 @@
     "Application.RemoveDuplicatesinStringUsingHashMap.executor": "Run",
     "Application.ReverseInteger.executor": "Run",
     "Application.ReverseLinkedList.executor": "Run",
+    "Application.RotateArrayByk.executor": "Run",
     "Application.SegregateEvenOdd.executor": "Run",
     "Application.SegregateOddAndEven.executor": "Run",
     "Application.SimpleProgramForMeesageProper.executor": "Run",
@@ -201,6 +220,8 @@
     "Application.Stringsum.executor": "Run",
     "Application.Substring.executor": "Run",
     "Application.ThreadMain.executor": "Run",
+    "Application.TopKFrequentWords.executor": "Run",
+    "Application.TopKFrequents.executor": "Run",
     "Application.TreesExample.executor": "Run",
     "Application.TwoStringIntoThird.executor": "Run",
     "Application.TwoStringLogic.executor": "Run",
@@ -227,7 +248,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/SpringBoot Project/ElectronicStore",
+    "last_opened_file_path": "C:/Users/gpatwa/IdeaProjects/Basic_Java1/src/Recursion",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -237,6 +258,9 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="FinexraInterviewPreparation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gpatwa\IdeaProjects\Basic_Java1\src\Recursion" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Stack" />
@@ -248,13 +272,13 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.NoOfVowelsinWords">
-    <configuration name="Codechef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.Codechef" />
+  <component name="RunManager" selected="Application.TopKFrequentWords">
+    <configuration name="FoundOccurencewith1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.FoundOccurencewith1" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringExample.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,12 +286,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommonElementsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.CommonElementsCount" />
+    <configuration name="NthtoPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.NthtoPower" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringExample.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,38 +299,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.DuplicateWords" />
+    <configuration name="RotateArrayByk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.RotateArrayByk" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.MapSorting" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NoOfVowelsinWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.NoOfVowelsinWords" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringExample.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,21 +325,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TopKFrequentWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.TopKFrequentWords" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopKFrequents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.TopKFrequents" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.Codechef" />
-      <item itemvalue="Application.CommonElementsCount" />
-      <item itemvalue="Application.DuplicateWords" />
-      <item itemvalue="Application.NoOfVowelsinWords" />
-      <item itemvalue="Application.MapSorting" />
+      <item itemvalue="Application.FoundOccurencewith1" />
+      <item itemvalue="Application.NthtoPower" />
+      <item itemvalue="Application.RotateArrayByk" />
+      <item itemvalue="Application.TopKFrequentWords" />
+      <item itemvalue="Application.TopKFrequents" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NoOfVowelsinWords" />
-        <item itemvalue="Application.DuplicateWords" />
-        <item itemvalue="Application.CommonElementsCount" />
-        <item itemvalue="Application.Codechef" />
-        <item itemvalue="Application.MapSorting" />
+        <item itemvalue="Application.TopKFrequentWords" />
+        <item itemvalue="Application.NthtoPower" />
+        <item itemvalue="Application.TopKFrequents" />
+        <item itemvalue="Application.FoundOccurencewith1" />
+        <item itemvalue="Application.RotateArrayByk" />
       </list>
     </recent_temporary>
   </component>
@@ -1119,6 +1143,16 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RotateArrayByk.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RotateArrayByk.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="298" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
