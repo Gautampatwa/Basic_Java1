@@ -16,12 +16,19 @@ public class TopKFrequentWords {
                     map.put(c, map.getOrDefault(c, 0) + 1);
                 }
 
-                List<Map.Entry<String, Integer>> list = new ArrayList<>(map.entrySet());
-                list.sort((a, b) -> b.getValue() - a.getValue());
+                List<String> list = new ArrayList<>(map.keySet());
+                list.sort((a, b) -> {
+                   int freq=map.get(b) - map.get(a);
+                    if(freq==0)
+                    {
+                        return a.compareTo(b);
+                    }
+                    return freq;
+                });
 
                 List<String> result=new ArrayList<>();
                 for (int i = 0; i < k; i++) {
-                    result.add(list.get(i).getKey());
+                    result.add(list.get(i));
                 }
                 return result;
 

@@ -4,29 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Longest PalindromicSubstringsDP">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/CombinationsSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/FoundOccurencewith1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/RotateArrayByk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TopKFrequentWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TopKFrequents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/NthtoPower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/PrintNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Reverseto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/SubstringRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/countDigitsinNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/multiplesofNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/sumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/sumOfNNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/MaxConsecutiveOneAfterKFlips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/MaxConsecutiveOneAfterKFlipsUsingSlidingWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_25__8_28pm__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_25__8_28pm__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_25__8_33pm__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_08_25__8_33pm__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Top k">
+      <change afterPath="$PROJECT_DIR$/src/StringExample/KthDistinctElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/TopKFrequentWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/TopKFrequentWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,6 +123,7 @@
     "Application.IsomorphicStrings.executor": "Run",
     "Application.Java8.executor": "Run",
     "Application.Java8Features.executor": "Run",
+    "Application.KthDistinctElements.executor": "Run",
     "Application.LambdaExpression.executor": "Run",
     "Application.LineWrapper.executor": "Run",
     "Application.LinkedList.executor": "Run",
@@ -272,7 +254,7 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.TopKFrequentWords">
+  <component name="RunManager" selected="Application.KthDistinctElements">
     <configuration name="FoundOccurencewith1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.FoundOccurencewith1" />
       <module name="Basic_Java" />
@@ -286,12 +268,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NthtoPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.NthtoPower" />
+    <configuration name="KthDistinctElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.KthDistinctElements" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="StringExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,12 +281,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateArrayByk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.RotateArrayByk" />
+    <configuration name="NthtoPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.NthtoPower" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,18 +336,18 @@
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
       <item itemvalue="Application.FoundOccurencewith1" />
+      <item itemvalue="Application.KthDistinctElements" />
       <item itemvalue="Application.NthtoPower" />
-      <item itemvalue="Application.RotateArrayByk" />
       <item itemvalue="Application.TopKFrequentWords" />
       <item itemvalue="Application.TopKFrequents" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KthDistinctElements" />
         <item itemvalue="Application.TopKFrequentWords" />
         <item itemvalue="Application.NthtoPower" />
         <item itemvalue="Application.TopKFrequents" />
         <item itemvalue="Application.FoundOccurencewith1" />
-        <item itemvalue="Application.RotateArrayByk" />
       </list>
     </recent_temporary>
   </component>
@@ -568,7 +550,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754065003038</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Top k">
+      <option name="closed" value="true" />
+      <created>1754332218346</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1754332218346</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -606,7 +596,8 @@
     <MESSAGE value="Java8" />
     <MESSAGE value="DP" />
     <MESSAGE value="Longest PalindromicSubstringsDP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Longest PalindromicSubstringsDP" />
+    <MESSAGE value="Top k" />
+    <option name="LAST_COMMIT_MESSAGE" value="Top k" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
