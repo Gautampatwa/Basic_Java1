@@ -3,8 +3,8 @@ import java.util.*;
 
 public class TopKFrequents {
     public static void main(String[] args) {
-        int[] nums = {3, 0, 1, 0};
-        int k = 1;
+        int[] nums = {1, 2, 1, 3,4,4};
+        int k = 2;
         int[] ints = topKFrequent(nums, k);
         for(int i:ints)
         {
