@@ -1,9 +1,6 @@
 package Java8;
 
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
@@ -38,5 +35,35 @@ public class VowelsCount {
         System.out.println(sum);
         Integer mul = numberss.stream().reduce(1, (a, b) -> a * b);
         System.out.println(mul);
+        System.out.println("=========================================");
+        String s1="Gautam is a good inspiration";
+        s1=s1.toLowerCase();
+        Arrays.stream(s1.split(" ")).forEach(
+                word->{
+                    Map<Character,Long> vowelcount=word.chars().mapToObj(c->(char)c).filter(c->"aeiou".indexOf(c)!=-1).collect(Collectors.groupingBy(Function.identity(),Collectors.counting()));
+                    System.out.println(word+":"+"Vowels Count: "+vowelcount);
+                });
+
+        System.out.println("=========================================");
+        Arrays.stream(s1.split(" ")).map(String::toUpperCase).forEach(System.out::println);
+        System.out.println("================================================");
+        Arrays.stream(s1.split(" ")).filter(c->c.startsWith("g")).forEach(System.out::println);
+        System.out.println("==================Reverse===============");
+
+        List<String> list2=Arrays.stream(s1.split(" ")).map(c->new StringBuilder(c).reverse().toString()).collect(Collectors.toList());
+        System.out.println(list2);
+
+        String reversed = Arrays.stream(s1.split(" "))
+                .collect(Collectors.collectingAndThen(
+                        Collectors.toList(),
+                        list3 -> {
+                            Collections.reverse(list3);
+                            return String.join(" ", list3);
+                        }
+                ));
+
+        System.out.println(reversed);
+
+
     }
 }
