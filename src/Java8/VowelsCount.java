@@ -35,6 +35,13 @@ public class VowelsCount {
         System.out.println(sum);
         Integer mul = numberss.stream().reduce(1, (a, b) -> a * b);
         System.out.println(mul);
+        Integer max = numberss.stream().reduce(Integer.MIN_VALUE, Integer::max);
+        System.out.println(max);
+        Integer min = numberss.stream().reduce(Integer.MAX_VALUE, Integer::min);
+        System.out.println(min);
+        System.out.println("Reverse Arraylist");
+        numberss.stream().sorted(Comparator.reverseOrder()).forEach(System.out::println);
+
         System.out.println("=========================================");
         String s1="Gautam is a good inspiration";
         s1=s1.toLowerCase();
@@ -56,9 +63,9 @@ public class VowelsCount {
         String reversed = Arrays.stream(s1.split(" "))
                 .collect(Collectors.collectingAndThen(
                         Collectors.toList(),
-                        list3 -> {
-                            Collections.reverse(list3);
-                            return String.join(" ", list3);
+                        word -> {
+                            Collections.reverse(word);
+                            return String.join(" ", word);
                         }
                 ));
 
