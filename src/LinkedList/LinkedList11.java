@@ -105,4 +105,3 @@ public class LinkedList11 {
         System.out.println(list.size());
     }
 }
-//

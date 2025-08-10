@@ -3,6 +3,7 @@ package StringExample;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 public class NoOfVowelsinWords {
@@ -15,9 +16,10 @@ public class NoOfVowelsinWords {
         }
         System.out.println("Second approach Using Java8");
         Arrays.stream(s.split(" ")).forEach(word -> {
-            List<Character> vowels = word.toLowerCase().chars() // IntStream
-                    .mapToObj(c -> (char) c).filter(c -> "aeiou".indexOf(c)!=-1).collect(Collectors.toList());
-            System.out.println(word + " -> Vowels: " + vowels);
+            Map<Character, Long> vowelCount = word.toLowerCase().chars() // IntStream
+                    .mapToObj(c -> (char) c).filter(c -> "aeiou".indexOf(c) != -1).
+                    collect(Collectors.groupingBy(c -> c, Collectors.counting()));
+            System.out.println(word + " -> Vowels: " + vowelCount);
         });
     }
 
