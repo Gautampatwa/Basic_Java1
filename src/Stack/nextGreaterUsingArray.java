@@ -1,7 +1,5 @@
 package Stack;
 
-import Arrays.Arrays;
-
 public class nextGreaterUsingArray {
     public static void main(String[] args) {
         int[] arr={1,3,8,23,3,91,52,21,23,12};

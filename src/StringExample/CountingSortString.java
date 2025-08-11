@@ -1,5 +1,8 @@
 package StringExample;
 
+import java.util.List;
+import java.util.stream.Collectors;
+
 public class CountingSortString {
     public static void main(String[] args) {
         String s = "abcdbcaf";
@@ -23,7 +26,11 @@ public class CountingSortString {
             }
         }
 
+        List<Character> list=s.chars().mapToObj(c1 -> (char)c1).sorted().collect(Collectors.toList());
+        System.out.println(list);
         return sorted.toString();
+
+
     }
 }
 
