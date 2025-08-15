@@ -8,7 +8,8 @@ public class MaxSubstringWithOutNonRepeating {
         Scanner scanner = new Scanner(System.in);
         String s = scanner.nextLine();
         System.out.println("Enter String to find Non-Repeating:" + s);
-        subStringNonRepeating(s);
+        int i = subStringNonRepeating(s);
+        System.out.println(i);
     }
 
     private static int subStringNonRepeating(String s) {
@@ -17,7 +18,7 @@ public class MaxSubstringWithOutNonRepeating {
         }
         int l = 0, max = 0;
         HashSet<Character> set = new HashSet<>();
-        for (int i = 0; i < s.length(); i++) {
+        for (int i = 0; i < s.length()-1; i++) {
             while (set.contains(s.charAt(i))) {
                 set.remove(s.charAt(l));
                 l++;

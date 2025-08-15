@@ -43,21 +43,21 @@ public class VowelsCount {
         numberss.stream().sorted(Comparator.reverseOrder()).forEach(System.out::println);
 
         System.out.println("=========================================");
-        String s1="Gautam is a good inspiration";
-        s1=s1.toLowerCase();
+        String s1 = "Gautam is a good inspiration";
+        s1 = s1.toLowerCase();
         Arrays.stream(s1.split(" ")).forEach(
-                word->{
-                    Map<Character,Long> vowelcount=word.chars().mapToObj(c->(char)c).filter(c->"aeiou".indexOf(c)!=-1).collect(Collectors.groupingBy(Function.identity(),Collectors.counting()));
-                    System.out.println(word+":"+"Vowels Count: "+vowelcount);
+                word -> {
+                    Map<Character, Long> vowelcount = word.chars().mapToObj(c -> (char) c).filter(c -> "aeiou".indexOf(c) != -1).collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
+                    System.out.println(word + ":" + "Vowels Count: " + vowelcount);
                 });
 
         System.out.println("=========================================");
         Arrays.stream(s1.split(" ")).map(String::toUpperCase).forEach(System.out::println);
         System.out.println("================================================");
-        Arrays.stream(s1.split(" ")).filter(c->c.startsWith("g")).forEach(System.out::println);
+        Arrays.stream(s1.split(" ")).filter(c -> c.startsWith("g")).forEach(System.out::println);
         System.out.println("==================Reverse===============");
 
-        List<String> list2=Arrays.stream(s1.split(" ")).map(c->new StringBuilder(c).reverse().toString()).collect(Collectors.toList());
+        List<String> list2 = Arrays.stream(s1.split(" ")).map(c -> new StringBuilder(c).reverse().toString()).collect(Collectors.toList());
         System.out.println(list2);
 
         String reversed = Arrays.stream(s1.split(" "))
@@ -70,7 +70,17 @@ public class VowelsCount {
                 ));
 
         System.out.println(reversed);
+        System.out.println("============Number starts with================");
+        List<Integer> list3 = Arrays.asList(11, 2, 13, 121, 134, 88, 99, null, 772, 988);
+        list3.stream().map(String::valueOf).filter(i -> i.startsWith("1")).forEach(System.out::println);
+        System.out.println(list3);
 
-
+        System.out.println("================First Non-Repeating using java8===================");
+        String first = "abcdand";
+        Character firstNonRepeating = first.chars().mapToObj(c -> (char) c).
+                 collect(Collectors.groupingBy(Function.identity(), LinkedHashMap::new, Collectors.counting()))
+                .entrySet().stream().filter(e -> e.getValue() == 1).map(Map.Entry::getKey)
+                .findFirst().orElse(null);
+        System.out.println("First Non-Repeating using Java8:" + firstNonRepeating);
     }
 }

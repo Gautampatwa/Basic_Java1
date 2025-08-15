@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Java8 Features Deloitee">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack/nextGreaterUsingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/nextGreaterUsingArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/CountingSortString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CountingSortString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Stack/nextGreaterUsingArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Stack/nextGreaterUsingArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/CountingSortString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/CountingSortString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java8/VowelsCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/VowelsCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/MaxSubstringWithOutNonRepeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/MaxSubstringWithOutNonRepeating.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,6 +148,7 @@
     "Application.MaxSubArraySum.executor": "Run",
     "Application.MaxSubstringWithOutNonRepeating.executor": "Run",
     "Application.MergeSortedArray.executor": "Run",
+    "Application.MinStack.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.MissingNumberPractoce.executor": "Run",
     "Application.MoveZeroToEnd.executor": "Run",
@@ -252,9 +256,9 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountingSortString">
-    <configuration name="CountingSortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.CountingSortString" />
+  <component name="RunManager" selected="Application.VowelsCount">
+    <configuration name="CharCountInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.CharCountInString" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -266,12 +270,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MphasisJava8Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.MphasisJava8Practice" />
+    <configuration name="CommonElementsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.CommonElementsCount" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8.*" />
+          <option name="PATTERN" value="StringExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,12 +283,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoOfVowelsinWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.NoOfVowelsinWords" />
+    <configuration name="MaxSubstringWithOutNonRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.MaxSubstringWithOutNonRepeating" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.MinStack" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,34 +335,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nextGreaterUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.nextGreaterUsingArray" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.CountingSortString" />
-      <item itemvalue="Application.MphasisJava8Practice" />
-      <item itemvalue="Application.NoOfVowelsinWords" />
+      <item itemvalue="Application.MaxSubstringWithOutNonRepeating" />
       <item itemvalue="Application.VowelsCount" />
-      <item itemvalue="Application.nextGreaterUsingArray" />
+      <item itemvalue="Application.CharCountInString" />
+      <item itemvalue="Application.CommonElementsCount" />
+      <item itemvalue="Application.MinStack" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountingSortString" />
-        <item itemvalue="Application.nextGreaterUsingArray" />
-        <item itemvalue="Application.MphasisJava8Practice" />
         <item itemvalue="Application.VowelsCount" />
-        <item itemvalue="Application.NoOfVowelsinWords" />
+        <item itemvalue="Application.MaxSubstringWithOutNonRepeating" />
+        <item itemvalue="Application.CommonElementsCount" />
+        <item itemvalue="Application.CharCountInString" />
+        <item itemvalue="Application.MinStack" />
       </list>
     </recent_temporary>
   </component>
@@ -572,7 +576,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754833886884</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Java8 Features Deloitee">
+      <option name="closed" value="true" />
+      <created>1754891390942</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1754891390942</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1102,21 +1114,6 @@
           <option name="timeStamp" value="241" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/ArrayIndexPrint.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="248" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/ArrayIndexPrint.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="249" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/ArrayIndexPrint.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="250" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StringExample/Java8.java</url>
           <line>15</line>
           <option name="timeStamp" value="253" />
@@ -1148,6 +1145,21 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/MaxSubstringWithOutNonRepeating.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/MaxSubstringWithOutNonRepeating.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/MaxSubstringWithOutNonRepeating.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="276" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
