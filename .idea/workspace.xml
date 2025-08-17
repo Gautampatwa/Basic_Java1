@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Sort 012 using Three pointer">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Anagram Groups">
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/GroupAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/GroupAnagrams.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringExample/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/GroupAnagrams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -592,7 +592,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755452335383</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Anagram Groups">
+      <option name="closed" value="true" />
+      <created>1755453355797</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1755453355797</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -633,7 +641,8 @@
     <MESSAGE value="Java8 Features Deloitee" />
     <MESSAGE value="Sort 012" />
     <MESSAGE value="Sort 012 using Three pointer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sort 012 using Three pointer" />
+    <MESSAGE value="Anagram Groups" />
+    <option name="LAST_COMMIT_MESSAGE" value="Anagram Groups" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1157,11 +1166,6 @@
           <url>file://$PROJECT_DIR$/src/StringExample/OccurrenceOfWordInString.java</url>
           <line>6</line>
           <option name="timeStamp" value="260" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/GroupAnagrams.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="261" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StringExample/MoveZeroToEnd.java</url>
