@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Sort 012">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Sort012UsingThreePointers.java" afterDir="false" />
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Sort 012 using Three pointer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/GroupAnagrams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -257,7 +256,20 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sort012UsingThreePointers">
+  <component name="RunManager" selected="Application.GroupAnagrams">
+    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.GroupAnagrams" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SegreegateArrayLeftAscAndRightDesc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.SegreegateArrayLeftAscAndRightDesc" />
       <module name="Basic_Java" />
@@ -323,34 +335,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sortNegativeAndPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.sortNegativeAndPositive" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
+      <item itemvalue="Application.GroupAnagrams" />
       <item itemvalue="Application.SegreegateArrayLeftAscAndRightDesc" />
       <item itemvalue="Application.Sort012UsingThreePointers" />
       <item itemvalue="Application.SegregateBasedOnArrayLength" />
       <item itemvalue="Application.SortZeroOneTwo" />
-      <item itemvalue="Application.sortNegativeAndPositive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GroupAnagrams" />
         <item itemvalue="Application.Sort012UsingThreePointers" />
         <item itemvalue="Application.SortZeroOneTwo" />
         <item itemvalue="Application.SegreegateArrayLeftAscAndRightDesc" />
         <item itemvalue="Application.SegregateBasedOnArrayLength" />
-        <item itemvalue="Application.sortNegativeAndPositive" />
       </list>
     </recent_temporary>
   </component>
@@ -585,7 +584,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755434170289</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Sort 012 using Three pointer">
+      <option name="closed" value="true" />
+      <created>1755452335383</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1755452335383</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -625,7 +632,8 @@
     <MESSAGE value="Longest PalindromicSubstringsDP" />
     <MESSAGE value="Java8 Features Deloitee" />
     <MESSAGE value="Sort 012" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sort 012" />
+    <MESSAGE value="Sort 012 using Three pointer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sort 012 using Three pointer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

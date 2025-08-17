@@ -4,9 +4,8 @@ import java.util.*;
 
 public class GroupAnagrams {
     public static void main(String[] args) {
-        String[] strs ={"eat","tea","tan","ate","nat","bat"};
+        String[] strs = {"eat", "tea", "tan", "ate", "nat", "bat"};
         System.out.println(groupAnagrams(strs));
-
     }
 
     public static List<List<String>> groupAnagrams(String[] strs) {
@@ -15,7 +14,10 @@ public class GroupAnagrams {
             char[] charArray = str.toCharArray();
             Arrays.sort(charArray);
             String sortedKey = new String(charArray);
-            anagramGroups.computeIfAbsent(sortedKey, k -> new ArrayList<>()).add(str);
+            if (!anagramGroups.containsKey(sortedKey)) {
+                anagramGroups.put(sortedKey, new LinkedList<>());
+            }
+            anagramGroups.get(sortedKey).add(str);
         }
         return new ArrayList<>(anagramGroups.values());
     }
