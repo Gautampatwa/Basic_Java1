@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Java8 Features Deloitee">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SortZeroOneTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/sortNegativeAndPositive.java" afterDir="false" />
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Sort 012">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Sort012UsingThreePointers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/MaxSubstringWithOutNonRepeating.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/MaxSubstringWithOutNonRepeating.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,12 +173,15 @@
     "Application.ReverseInteger.executor": "Run",
     "Application.ReverseLinkedList.executor": "Run",
     "Application.RotateArrayByk.executor": "Run",
+    "Application.SegreegateArrayLeftAscAndRightDesc.executor": "Run",
+    "Application.SegregateBasedOnArrayLength.executor": "Run",
     "Application.SegregateEvenOdd.executor": "Run",
     "Application.SegregateOddAndEven.executor": "Run",
     "Application.SimpleProgramForMeesageProper.executor": "Run",
     "Application.SimpleProgramForMessageProper.executor": "Run",
     "Application.Sliding.executor": "Run",
     "Application.Solution.executor": "Run",
+    "Application.Sort012UsingThreePointers.executor": "Run",
     "Application.SortZeroOneTwo.executor": "Run",
     "Application.SquarOfNumbers.executor": "Run",
     "Application.String1.executor": "Run",
@@ -256,13 +257,13 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortZeroOneTwo">
-    <configuration name="CountingSortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.CountingSortString" />
+  <component name="RunManager" selected="Application.Sort012UsingThreePointers">
+    <configuration name="SegreegateArrayLeftAscAndRightDesc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.SegreegateArrayLeftAscAndRightDesc" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringExample.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,12 +271,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MphasisJava8Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.MphasisJava8Practice" />
+    <configuration name="SegregateBasedOnArrayLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.SegregateBasedOnArrayLength" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8.*" />
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sort012UsingThreePointers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Sort012UsingThreePointers" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,19 +323,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nextGreaterUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.nextGreaterUsingArray" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="sortNegativeAndPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.sortNegativeAndPositive" />
       <module name="Basic_Java" />
@@ -337,19 +338,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
+      <item itemvalue="Application.SegreegateArrayLeftAscAndRightDesc" />
+      <item itemvalue="Application.Sort012UsingThreePointers" />
+      <item itemvalue="Application.SegregateBasedOnArrayLength" />
       <item itemvalue="Application.SortZeroOneTwo" />
       <item itemvalue="Application.sortNegativeAndPositive" />
-      <item itemvalue="Application.CountingSortString" />
-      <item itemvalue="Application.MphasisJava8Practice" />
-      <item itemvalue="Application.nextGreaterUsingArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sort012UsingThreePointers" />
         <item itemvalue="Application.SortZeroOneTwo" />
+        <item itemvalue="Application.SegreegateArrayLeftAscAndRightDesc" />
+        <item itemvalue="Application.SegregateBasedOnArrayLength" />
         <item itemvalue="Application.sortNegativeAndPositive" />
-        <item itemvalue="Application.CountingSortString" />
-        <item itemvalue="Application.nextGreaterUsingArray" />
-        <item itemvalue="Application.MphasisJava8Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -576,7 +577,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754833886884</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Sort 012">
+      <option name="closed" value="true" />
+      <created>1755434170289</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1755434170289</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -615,7 +624,8 @@
     <MESSAGE value="DP" />
     <MESSAGE value="Longest PalindromicSubstringsDP" />
     <MESSAGE value="Java8 Features Deloitee" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java8 Features Deloitee" />
+    <MESSAGE value="Sort 012" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sort 012" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
