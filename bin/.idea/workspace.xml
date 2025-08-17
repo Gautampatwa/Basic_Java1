@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Longest PalindromicSubstringsDP">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/NthPalindrome.java" afterDir="false" />
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Java8 Features Deloitee">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/sortNegativeAndPositive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/shelf/Uncommitted_changes_before_Update_at_29-07-2025_10_33_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/shelf/Uncommitted_changes_before_Update_at_29-07-2025_10_33__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/RotateArrayByk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/RotateArrayByk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedList11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/MaxSubstringWithOutNonRepeating.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/MaxSubstringWithOutNonRepeating.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,6 +209,7 @@
     "Application.TwoSumPairs.executor": "Run",
     "Application.UniqueCharacters.executor": "Run",
     "Application.UserAddressExample.executor": "Debug",
+    "Application.VowelsCount.executor": "Run",
     "Application.WeekNumbers.executor": "Run",
     "Application.WeekToDateConverter.executor": "Run",
     "Application.YearMonthExample.executor": "Run",
@@ -223,6 +220,7 @@
     "Application.nextGreaterUsingArray.executor": "Run",
     "Application.segragateEvenOddUsingJava.executor": "Run",
     "Application.segregateEvenandOdd.executor": "Run",
+    "Application.sortNegativeAndPositive.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -237,6 +235,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -254,13 +253,13 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.NthPalindrome">
-    <configuration name="FindConsecutiveArrayLengthwithSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slidingWindow.FindConsecutiveArrayLengthwithSum" />
+  <component name="RunManager" selected="Application.sortNegativeAndPositive">
+    <configuration name="CountingSortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.CountingSortString" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="slidingWindow.*" />
+          <option name="PATTERN" value="StringExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,51 +267,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindPeakElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.FindPeakElement" />
+    <configuration name="MphasisJava8Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.MphasisJava8Practice" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxConsecutiveOneAfterKFlips" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slidingWindow.MaxConsecutiveOneAfterKFlips" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="slidingWindow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NthPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.NthPalindrome" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RotateArrayByk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.RotateArrayByk" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,21 +293,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VowelsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.VowelsCount" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nextGreaterUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.nextGreaterUsingArray" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sortNegativeAndPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.sortNegativeAndPositive" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.NthPalindrome" />
-      <item itemvalue="Application.RotateArrayByk" />
-      <item itemvalue="Application.FindConsecutiveArrayLengthwithSum" />
-      <item itemvalue="Application.FindPeakElement" />
-      <item itemvalue="Application.MaxConsecutiveOneAfterKFlips" />
+      <item itemvalue="Application.sortNegativeAndPositive" />
+      <item itemvalue="Application.CountingSortString" />
+      <item itemvalue="Application.MphasisJava8Practice" />
+      <item itemvalue="Application.VowelsCount" />
+      <item itemvalue="Application.nextGreaterUsingArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NthPalindrome" />
-        <item itemvalue="Application.RotateArrayByk" />
-        <item itemvalue="Application.MaxConsecutiveOneAfterKFlips" />
-        <item itemvalue="Application.FindConsecutiveArrayLengthwithSum" />
-        <item itemvalue="Application.FindPeakElement" />
+        <item itemvalue="Application.sortNegativeAndPositive" />
+        <item itemvalue="Application.CountingSortString" />
+        <item itemvalue="Application.nextGreaterUsingArray" />
+        <item itemvalue="Application.MphasisJava8Practice" />
+        <item itemvalue="Application.VowelsCount" />
       </list>
     </recent_temporary>
   </component>
@@ -550,7 +549,31 @@
       <option name="project" value="LOCAL" />
       <updated>1754065003038</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Longest PalindromicSubstringsDP">
+      <option name="closed" value="true" />
+      <created>1754831473768</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1754831473768</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Longest PalindromicSubstringsDP">
+      <option name="closed" value="true" />
+      <created>1754833286821</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1754833286821</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Java8 Features Deloitee">
+      <option name="closed" value="true" />
+      <created>1754833886884</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1754833886884</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -588,7 +611,8 @@
     <MESSAGE value="Java8" />
     <MESSAGE value="DP" />
     <MESSAGE value="Longest PalindromicSubstringsDP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Longest PalindromicSubstringsDP" />
+    <MESSAGE value="Java8 Features Deloitee" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java8 Features Deloitee" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
