@@ -43,7 +43,7 @@ public class WordBreak {
         {
             max=Math.max(max,word.length());
         }
-         int n=s.length();
+        int n=s.length();
         boolean[] dp=new boolean[n+1];
         dp[0]=true;
 

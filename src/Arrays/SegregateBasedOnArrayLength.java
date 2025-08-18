@@ -7,7 +7,7 @@ import java.util.List;
 
 public class SegregateBasedOnArrayLength {
     public static void main(String[] args) {
-        int[] arr = {12, 3, 4, 10, 5, 6, 9, 15, 34};
+        int[] arr = {1,2,3,4,5,6,7};
         List<Integer> leftList = new ArrayList<>();
         List<Integer> rightList = new ArrayList<>();
         List<Integer> finalList = new LinkedList<>();

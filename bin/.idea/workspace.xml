@@ -4,8 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Sort 012">
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Word Break DP">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FindAllNumberDisappearedInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SegregateBasedOnArrayLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SpaceRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/OrderedThreadPrinting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Multithreading/Athread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Multithreading/Athread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Multithreading/Bthread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Multithreading/Bthread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Stack/nextGreaterUsingArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Stack/nextGreaterUsingArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/CountingSortString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/CountingSortString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multithreading/Athread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/Athread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multithreading/Bthread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/Bthread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +50,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Gautampatwa/Basic_Java1.git&quot;,
-    &quot;accountId&quot;: &quot;c9232c93-122c-4352-8150-e377152de6fe&quot;
+    &quot;accountId&quot;: &quot;7bd1a1c8-7e68-46ad-94ee-3b45283171d6&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -67,7 +78,7 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2HSRxU80ILOPN6Xgxc546gVSpt3" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -83,7 +94,7 @@
     "Application.ArrayList1.executor": "Run",
     "Application.ArrayListExample.executor": "Run",
     "Application.ArrayOccurenceGreaterThanNbyThreeTimes.executor": "Run",
-    "Application.ArrayRightRotation.executor": "Run",
+    "Application.ArrayRightRotation.executor": "Debug",
     "Application.BalancedParenthesis.executor": "Run",
     "Application.BinaryStringSum.executor": "Run",
     "Application.BinarytoDecimal.executor": "Run",
@@ -105,12 +116,13 @@
     "Application.ExceptionHandling.executor": "Run",
     "Application.FactorialUsingRecursion.executor": "Run",
     "Application.FibUsingRec.executor": "Debug",
-    "Application.FindConsecutiveArrayLengthwithSum.executor": "Run",
+    "Application.FindAllNumberDisappearedInArray.executor": "Run",
     "Application.FindDuplicate.executor": "Run",
     "Application.FindDuplicateCharactersUsingJava8.executor": "Run",
     "Application.FindPeakElement.executor": "Run",
     "Application.FirstNonRepeatingCharIndex.executor": "Run",
     "Application.FirstNonRepeatingChars.executor": "Run",
+    "Application.FoundOccurencewith1.executor": "Run",
     "Application.FrequencyOfEachCharacterinString.executor": "Run",
     "Application.GFG.executor": "Debug",
     "Application.GroupAnagrams.executor": "Run",
@@ -121,6 +133,8 @@
     "Application.IsomorphicStrings.executor": "Run",
     "Application.Java8.executor": "Run",
     "Application.Java8Features.executor": "Run",
+    "Application.KthDistinctElements.executor": "Run",
+    "Application.KthLargestIntegerArray.executor": "Run",
     "Application.LambdaExpression.executor": "Run",
     "Application.LineWrapper.executor": "Run",
     "Application.LinkedList.executor": "Run",
@@ -128,6 +142,7 @@
     "Application.LocaldateTimeToUTC.executor": "Run",
     "Application.LongestCommonSubsequenceBottomUp.executor": "Run",
     "Application.LongestCommonSubsequenceDP.executor": "Run",
+    "Application.LongestConsecutive.executor": "Run",
     "Application.LongestPalindromicString.executor": "Run",
     "Application.MainThread.executor": "Run",
     "Application.Map1.executor": "Run",
@@ -136,7 +151,6 @@
     "Application.MapWithEntityPractice.executor": "Run",
     "Application.MaxAverageUsingMap.executor": "Run",
     "Application.MaxCharacter.executor": "Run",
-    "Application.MaxConsecutiveOneAfterKFlips.executor": "Run",
     "Application.MaxElementinArray.executor": "Run",
     "Application.MaxOccurenceCharacterinString.executor": "Run",
     "Application.MaxOccurenceofCharacter.executor": "Run",
@@ -150,10 +164,11 @@
     "Application.MphasisJava8Practice.executor": "Run",
     "Application.NoOfVowelsinWords.executor": "Run",
     "Application.NthLargestElementArray.executor": "Run",
-    "Application.NthPalindrome.executor": "Run",
+    "Application.NthtoPower.executor": "Run",
     "Application.NumberPermutation.executor": "Run",
     "Application.OccurenceOfWordInString.executor": "Run",
     "Application.OccurrenceOfWordInString.executor": "Run",
+    "Application.OrderedThreadPrinting.executor": "Run",
     "Application.PairSumEquals.executor": "Debug",
     "Application.PalindromeString.executor": "Run",
     "Application.PalindromicSubstringsDP.executor": "Debug",
@@ -170,8 +185,8 @@
     "Application.RemoveDuplicatesinStringUsingHashMap.executor": "Run",
     "Application.ReverseInteger.executor": "Run",
     "Application.ReverseLinkedList.executor": "Run",
+    "Application.ReversePrefixOfWord.executor": "Run",
     "Application.RotateArrayByk.executor": "Run",
-    "Application.SegreegateArrayLeftAscAndRightDesc.executor": "Run",
     "Application.SegregateBasedOnArrayLength.executor": "Run",
     "Application.SegregateEvenOdd.executor": "Run",
     "Application.SegregateOddAndEven.executor": "Run",
@@ -179,7 +194,6 @@
     "Application.SimpleProgramForMessageProper.executor": "Run",
     "Application.Sliding.executor": "Run",
     "Application.Solution.executor": "Run",
-    "Application.SortZeroOneTwo.executor": "Run",
     "Application.SquarOfNumbers.executor": "Run",
     "Application.String1.executor": "Run",
     "Application.String2.executor": "Run",
@@ -202,7 +216,10 @@
     "Application.StringWrapUp.executor": "Run",
     "Application.Stringsum.executor": "Run",
     "Application.Substring.executor": "Run",
+    "Application.SumOfSquareNumbers.executor": "Run",
     "Application.ThreadMain.executor": "Run",
+    "Application.ThreadSequence.executor": "Run",
+    "Application.TopKFrequentWords.executor": "Run",
     "Application.TopKFrequents.executor": "Run",
     "Application.TreesExample.executor": "Run",
     "Application.TwoStringIntoThird.executor": "Run",
@@ -210,9 +227,9 @@
     "Application.TwoSumPairs.executor": "Run",
     "Application.UniqueCharacters.executor": "Run",
     "Application.UserAddressExample.executor": "Debug",
-    "Application.VowelsCount.executor": "Run",
     "Application.WeekNumbers.executor": "Run",
     "Application.WeekToDateConverter.executor": "Run",
+    "Application.WordBreak.executor": "Debug",
     "Application.YearMonthExample.executor": "Run",
     "Application.findDuplicatesinnumsay.executor": "Run",
     "Application.lowercasetoUppercase.executor": "Run",
@@ -221,7 +238,6 @@
     "Application.nextGreaterUsingArray.executor": "Run",
     "Application.segragateEvenOddUsingJava.executor": "Run",
     "Application.segregateEvenandOdd.executor": "Run",
-    "Application.sortNegativeAndPositive.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -232,17 +248,19 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/SpringBoot Project/ElectronicStore",
+    "last_opened_file_path": "C:/Users/gpatwa/IdeaProjects/Basic_Java1/src/Recursion",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="FinexraInterviewPreparation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gpatwa\IdeaProjects\Basic_Java1\src\Recursion" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Stack" />
@@ -254,13 +272,13 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.SegreegateArrayLeftAscAndRightDesc">
-    <configuration name="CountingSortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.CountingSortString" />
+  <component name="RunManager" selected="Application.SegregateBasedOnArrayLength">
+    <configuration name="FindAllNumberDisappearedInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.FindAllNumberDisappearedInArray" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringExample.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,12 +286,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SegreegateArrayLeftAscAndRightDesc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SegreegateArrayLeftAscAndRightDesc" />
+    <configuration name="OrderedThreadPrinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.OrderedThreadPrinting" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,8 +312,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortZeroOneTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SortZeroOneTwo" />
+    <configuration name="SpaceRemover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.SpaceRemover" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -320,12 +338,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sortNegativeAndPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.sortNegativeAndPositive" />
+    <configuration name="ThreadSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.ThreadSequence" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,19 +353,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.SegreegateArrayLeftAscAndRightDesc" />
       <item itemvalue="Application.SegregateBasedOnArrayLength" />
-      <item itemvalue="Application.SortZeroOneTwo" />
-      <item itemvalue="Application.sortNegativeAndPositive" />
-      <item itemvalue="Application.CountingSortString" />
+      <item itemvalue="Application.OrderedThreadPrinting" />
+      <item itemvalue="Application.ThreadSequence" />
+      <item itemvalue="Application.FindAllNumberDisappearedInArray" />
+      <item itemvalue="Application.SpaceRemover" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SegreegateArrayLeftAscAndRightDesc" />
         <item itemvalue="Application.SegregateBasedOnArrayLength" />
-        <item itemvalue="Application.SortZeroOneTwo" />
-        <item itemvalue="Application.sortNegativeAndPositive" />
-        <item itemvalue="Application.CountingSortString" />
+        <item itemvalue="Application.OrderedThreadPrinting" />
+        <item itemvalue="Application.ThreadSequence" />
+        <item itemvalue="Application.FindAllNumberDisappearedInArray" />
+        <item itemvalue="Application.SpaceRemover" />
       </list>
     </recent_temporary>
   </component>
@@ -550,39 +568,31 @@
       <option name="project" value="LOCAL" />
       <updated>1754065003038</updated>
     </task>
-    <task id="LOCAL-00025" summary="Longest PalindromicSubstringsDP">
+    <task id="LOCAL-00025" summary="Top k">
       <option name="closed" value="true" />
-      <created>1754831473768</created>
+      <created>1754332218346</created>
       <option name="number" value="00025" />
       <option name="presentableId" value="LOCAL-00025" />
       <option name="project" value="LOCAL" />
-      <updated>1754831473768</updated>
+      <updated>1754332218346</updated>
     </task>
-    <task id="LOCAL-00026" summary="Longest PalindromicSubstringsDP">
+    <task id="LOCAL-00026" summary="Kth Distinct Elements">
       <option name="closed" value="true" />
-      <created>1754833286821</created>
+      <created>1754337236782</created>
       <option name="number" value="00026" />
       <option name="presentableId" value="LOCAL-00026" />
       <option name="project" value="LOCAL" />
-      <updated>1754833286821</updated>
+      <updated>1754337236782</updated>
     </task>
-    <task id="LOCAL-00027" summary="Java8 Features Deloitee">
+    <task id="LOCAL-00027" summary="Word Break DP">
       <option name="closed" value="true" />
-      <created>1754833886884</created>
+      <created>1754506981807</created>
       <option name="number" value="00027" />
       <option name="presentableId" value="LOCAL-00027" />
       <option name="project" value="LOCAL" />
-      <updated>1754833886884</updated>
+      <updated>1754506981807</updated>
     </task>
-    <task id="LOCAL-00028" summary="Sort 012">
-      <option name="closed" value="true" />
-      <created>1755434170289</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1755434170289</updated>
-    </task>
-    <option name="localTasksCounter" value="29" />
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -620,9 +630,10 @@
     <MESSAGE value="Java8" />
     <MESSAGE value="DP" />
     <MESSAGE value="Longest PalindromicSubstringsDP" />
-    <MESSAGE value="Java8 Features Deloitee" />
-    <MESSAGE value="Sort 012" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sort 012" />
+    <MESSAGE value="Top k" />
+    <MESSAGE value="Kth Distinct Elements" />
+    <MESSAGE value="Word Break DP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Word Break DP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1159,6 +1170,16 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RotateArrayByk.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RotateArrayByk.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="298" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
