@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Word Break DP">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/FindAllNumberDisappearedInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SegregateBasedOnArrayLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SpaceRemover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/OrderedThreadPrinting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Multithreading/Athread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Multithreading/Athread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Multithreading/Bthread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Multithreading/Bthread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Stack/nextGreaterUsingArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Stack/nextGreaterUsingArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/CountingSortString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/CountingSortString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Multithreading/Athread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/Athread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Multithreading/Bthread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/Bthread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,176 +74,178 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Array2.executor": "Run",
-    "Application.ArrayImplementationOfStack.executor": "Run",
-    "Application.ArrayIndexPrint.executor": "Run",
-    "Application.ArrayList1.executor": "Run",
-    "Application.ArrayListExample.executor": "Run",
-    "Application.ArrayOccurenceGreaterThanNbyThreeTimes.executor": "Run",
-    "Application.ArrayRightRotation.executor": "Debug",
-    "Application.BalancedParenthesis.executor": "Run",
-    "Application.BinaryStringSum.executor": "Run",
-    "Application.BinarytoDecimal.executor": "Run",
-    "Application.BubbleSort.executor": "Run",
-    "Application.CaptitaltoSmallAndSmallToCapital.executor": "Run",
-    "Application.CharCountInString.executor": "Run",
-    "Application.CharacerFrquency.executor": "Run",
-    "Application.Codechef.executor": "Run",
-    "Application.CommonCharacter.executor": "Run",
-    "Application.CommonElementsCount.executor": "Run",
-    "Application.CommonWordsinTwoString.executor": "Run",
-    "Application.CountBalancedParenthesis.executor": "Run",
-    "Application.CountEachChar.executor": "Run",
-    "Application.CountZeroFrom1ToNumber.executor": "Run",
-    "Application.CountZerofrom1toNumber.executor": "Run",
-    "Application.CountingEachCharacter.executor": "Run",
-    "Application.CountingSortString.executor": "Run",
-    "Application.DuplicateWords.executor": "Run",
-    "Application.ExceptionHandling.executor": "Run",
-    "Application.FactorialUsingRecursion.executor": "Run",
-    "Application.FibUsingRec.executor": "Debug",
-    "Application.FindAllNumberDisappearedInArray.executor": "Run",
-    "Application.FindDuplicate.executor": "Run",
-    "Application.FindDuplicateCharactersUsingJava8.executor": "Run",
-    "Application.FindPeakElement.executor": "Run",
-    "Application.FirstNonRepeatingCharIndex.executor": "Run",
-    "Application.FirstNonRepeatingChars.executor": "Run",
-    "Application.FoundOccurencewith1.executor": "Run",
-    "Application.FrequencyOfEachCharacterinString.executor": "Run",
-    "Application.GFG.executor": "Debug",
-    "Application.GroupAnagrams.executor": "Run",
-    "Application.HashSetPractice.executor": "Run",
-    "Application.HashSetProgram1.executor": "Run",
-    "Application.IntegerSum.executor": "Run",
-    "Application.IsomorphicStrign.executor": "Run",
-    "Application.IsomorphicStrings.executor": "Run",
-    "Application.Java8.executor": "Run",
-    "Application.Java8Features.executor": "Run",
-    "Application.KthDistinctElements.executor": "Run",
-    "Application.KthLargestIntegerArray.executor": "Run",
-    "Application.LambdaExpression.executor": "Run",
-    "Application.LineWrapper.executor": "Run",
-    "Application.LinkedList.executor": "Run",
-    "Application.LinkedList11.executor": "Run",
-    "Application.LocaldateTimeToUTC.executor": "Run",
-    "Application.LongestCommonSubsequenceBottomUp.executor": "Run",
-    "Application.LongestCommonSubsequenceDP.executor": "Run",
-    "Application.LongestConsecutive.executor": "Run",
-    "Application.LongestPalindromicString.executor": "Run",
-    "Application.MainThread.executor": "Run",
-    "Application.Map1.executor": "Run",
-    "Application.MapExample.executor": "Run",
-    "Application.MapSorting.executor": "Run",
-    "Application.MapWithEntityPractice.executor": "Run",
-    "Application.MaxAverageUsingMap.executor": "Run",
-    "Application.MaxCharacter.executor": "Run",
-    "Application.MaxElementinArray.executor": "Run",
-    "Application.MaxOccurenceCharacterinString.executor": "Run",
-    "Application.MaxOccurenceofCharacter.executor": "Run",
-    "Application.MaxSubArraySum.executor": "Run",
-    "Application.MaxSubstringWithOutNonRepeating.executor": "Run",
-    "Application.MergeSortedArray.executor": "Run",
-    "Application.MissingNumber.executor": "Run",
-    "Application.MissingNumberPractoce.executor": "Run",
-    "Application.MoveZeroToEnd.executor": "Run",
-    "Application.MoveZeroesToRight.executor": "Run",
-    "Application.MphasisJava8Practice.executor": "Run",
-    "Application.NoOfVowelsinWords.executor": "Run",
-    "Application.NthLargestElementArray.executor": "Run",
-    "Application.NthtoPower.executor": "Run",
-    "Application.NumberPermutation.executor": "Run",
-    "Application.OccurenceOfWordInString.executor": "Run",
-    "Application.OccurrenceOfWordInString.executor": "Run",
-    "Application.OrderedThreadPrinting.executor": "Run",
-    "Application.PairSumEquals.executor": "Debug",
-    "Application.PalindromeString.executor": "Run",
-    "Application.PalindromicSubstringsDP.executor": "Debug",
-    "Application.ParenthesisChecker.executor": "Run",
-    "Application.PatternZeroOne.executor": "Run",
-    "Application.Prime.executor": "Run",
-    "Application.PrimeNumber.executor": "Debug",
-    "Application.PrimeNumbersbInBetween.executor": "Run",
-    "Application.RemoveCosecutiveOccurence.executor": "Run",
-    "Application.RemoveDuplicates.executor": "Run",
-    "Application.RemoveDuplicatesAndCount.executor": "Run",
-    "Application.RemoveDuplicatesFromArrayUsingHashMap.executor": "Run",
-    "Application.RemoveDuplicatesUsingHashMap.executor": "Run",
-    "Application.RemoveDuplicatesinStringUsingHashMap.executor": "Run",
-    "Application.ReverseInteger.executor": "Run",
-    "Application.ReverseLinkedList.executor": "Run",
-    "Application.ReversePrefixOfWord.executor": "Run",
-    "Application.RotateArrayByk.executor": "Run",
-    "Application.SegregateBasedOnArrayLength.executor": "Run",
-    "Application.SegregateEvenOdd.executor": "Run",
-    "Application.SegregateOddAndEven.executor": "Run",
-    "Application.SimpleProgramForMeesageProper.executor": "Run",
-    "Application.SimpleProgramForMessageProper.executor": "Run",
-    "Application.Sliding.executor": "Run",
-    "Application.Solution.executor": "Run",
-    "Application.SquarOfNumbers.executor": "Run",
-    "Application.String1.executor": "Run",
-    "Application.String2.executor": "Run",
-    "Application.StringAnagram.executor": "Run",
-    "Application.StringCharacterCount.executor": "Run",
-    "Application.StringConsecutiveOccurence.executor": "Run",
-    "Application.StringConsecutiveOccurrence.executor": "Run",
-    "Application.StringContainsSecondString.executor": "Run",
-    "Application.StringEachWordreverse.executor": "Run",
-    "Application.StringExample.StringAnagram.executor": "Run",
-    "Application.StringIndividualWordReverse.executor": "Run",
-    "Application.StringMaxCharacterUsingHashMap.executor": "Run",
-    "Application.StringOccurence.executor": "Run",
-    "Application.StringOnlyNumberSum.executor": "Run",
-    "Application.StringReverse.executor": "Run",
-    "Application.StringReverse2.executor": "Run",
-    "Application.StringSubstring.executor": "Run",
-    "Application.StringSwapping.executor": "Run",
-    "Application.StringWordReverse.executor": "Run",
-    "Application.StringWrapUp.executor": "Run",
-    "Application.Stringsum.executor": "Run",
-    "Application.Substring.executor": "Run",
-    "Application.SumOfSquareNumbers.executor": "Run",
-    "Application.ThreadMain.executor": "Run",
-    "Application.ThreadSequence.executor": "Run",
-    "Application.TopKFrequentWords.executor": "Run",
-    "Application.TopKFrequents.executor": "Run",
-    "Application.TreesExample.executor": "Run",
-    "Application.TwoStringIntoThird.executor": "Run",
-    "Application.TwoStringLogic.executor": "Run",
-    "Application.TwoSumPairs.executor": "Run",
-    "Application.UniqueCharacters.executor": "Run",
-    "Application.UserAddressExample.executor": "Debug",
-    "Application.WeekNumbers.executor": "Run",
-    "Application.WeekToDateConverter.executor": "Run",
-    "Application.WordBreak.executor": "Debug",
-    "Application.YearMonthExample.executor": "Run",
-    "Application.findDuplicatesinnumsay.executor": "Run",
-    "Application.lowercasetoUppercase.executor": "Run",
-    "Application.maxOccurenceinArray.executor": "Run",
-    "Application.nextGreaterElement.executor": "Run",
-    "Application.nextGreaterUsingArray.executor": "Run",
-    "Application.segragateEvenOddUsingJava.executor": "Run",
-    "Application.segregateEvenandOdd.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/gpatwa/IdeaProjects/Basic_Java1/src/Recursion",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Array2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayImplementationOfStack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayIndexPrint.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayOccurenceGreaterThanNbyThreeTimes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayRightRotation.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.BalancedParenthesis.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryStringSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarytoDecimal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CaptitaltoSmallAndSmallToCapital.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharCountInString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharacerFrquency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Codechef.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommonCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommonElementsCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommonWordsinTwoString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountBalancedParenthesis.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountEachChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountZeroFrom1ToNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountZerofrom1toNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountingEachCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountingSortString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionHandling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactorialUsingRecursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibUsingRec.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FindAllNumberDisappearedInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindDuplicateCharactersUsingJava8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindPeakElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeatingCharIndex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeatingChars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FoundOccurencewith1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrequencyOfEachCharacterinString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GFG.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.GroupAnagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSetPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSetProgram1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntegerSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsomorphicStrign.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsomorphicStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java8Features.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KthDistinctElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KthLargestIntegerArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaExpression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LineWrapper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LocaldateTimeToUTC.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestCommonSubsequenceBottomUp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestCommonSubsequenceDP.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestConsecutive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestPalindromicString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Map1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapSorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapWithEntityPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxAverageUsingMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxElementinArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxOccurenceCharacterinString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxOccurenceofCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxSubArraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxSubstringWithOutNonRepeating.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNumberPractoce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZeroToEnd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZeroesToRight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MphasisJava8Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NoOfVowelsinWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NthLargestElementArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NthtoPower.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberPermutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OccurenceOfWordInString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OccurrenceOfWordInString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrderedThreadPrinting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PairSumEquals.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PalindromeString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromicSubstringsDP.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ParenthesisChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternZeroOne.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PrimeNumbersbInBetween.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveCosecutiveOccurence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicatesAndCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicatesFromArrayUsingHashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicatesUsingHashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicatesinStringUsingHashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReversePrefixOfWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArrayByk.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SegregateBasedOnArrayLength.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SegregateEvenOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SegregateOddAndEven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleProgramForMeesageProper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleProgramForMessageProper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sliding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SquarOfNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SquareRoot.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.String1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringCharacterCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringConsecutiveOccurence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringConsecutiveOccurrence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringContainsSecondString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringEachWordreverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringExample.StringAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringIndividualWordReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringMaxCharacterUsingHashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringOccurence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringOnlyNumberSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringReverse2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringSwapping.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringWordReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringWrapUp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stringsum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Substring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfSquareNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TopKFrequentWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TopKFrequents.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreesExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoStringIntoThird.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoStringLogic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSumPairs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UniqueCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserAddressExample.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.WeekNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeekToDateConverter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordBreak.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.YearMonthExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.findDuplicatesinnumsay.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lowercasetoUppercase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maxOccurenceinArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nextGreaterElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nextGreaterUsingArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.segragateEvenOddUsingJava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.segregateEvenandOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gpatwa/IdeaProjects/Basic_Java1/src/Recursion&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="FinexraInterviewPreparation" />
@@ -272,13 +263,26 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.SegregateBasedOnArrayLength">
-    <configuration name="FindAllNumberDisappearedInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.FindAllNumberDisappearedInArray" />
+  <component name="RunManager" selected="Application.GroupAnagrams">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarySearch.BinarySearch" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="binarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.GroupAnagrams" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,12 +316,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpaceRemover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SpaceRemover" />
+    <configuration name="SquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarySearch.SquareRoot" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="binarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,34 +342,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.ThreadSequence" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
+      <item itemvalue="Application.GroupAnagrams" />
+      <item itemvalue="Application.BinarySearch" />
+      <item itemvalue="Application.SquareRoot" />
       <item itemvalue="Application.SegregateBasedOnArrayLength" />
       <item itemvalue="Application.OrderedThreadPrinting" />
-      <item itemvalue="Application.ThreadSequence" />
-      <item itemvalue="Application.FindAllNumberDisappearedInArray" />
-      <item itemvalue="Application.SpaceRemover" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GroupAnagrams" />
+        <item itemvalue="Application.SquareRoot" />
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.SegregateBasedOnArrayLength" />
         <item itemvalue="Application.OrderedThreadPrinting" />
-        <item itemvalue="Application.ThreadSequence" />
-        <item itemvalue="Application.FindAllNumberDisappearedInArray" />
-        <item itemvalue="Application.SpaceRemover" />
       </list>
     </recent_temporary>
   </component>
@@ -592,7 +583,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754506981807</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Word Break DP">
+      <option name="closed" value="true" />
+      <created>1755543987429</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1755543987429</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

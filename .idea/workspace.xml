@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Word Break DP">
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/SquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/RemoveKDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/StringExample/GroupAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/GroupAnagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/SegregateBasedOnArrayLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/SegregateBasedOnArrayLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/WordBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/WordBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java8/VowelsCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/VowelsCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/GroupAnagrams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +119,7 @@
     "Application.FoundOccurencewith1.executor": "Run",
     "Application.FrequencyOfEachCharacterinString.executor": "Run",
     "Application.GFG.executor": "Debug",
-    "Application.GroupAnagrams.executor": "Run",
+    "Application.GroupAnagrams.executor": "Debug",
     "Application.HashSetPractice.executor": "Run",
     "Application.HashSetProgram1.executor": "Run",
     "Application.IntegerSum.executor": "Run",
@@ -180,6 +177,7 @@
     "Application.RemoveDuplicatesFromArrayUsingHashMap.executor": "Run",
     "Application.RemoveDuplicatesUsingHashMap.executor": "Run",
     "Application.RemoveDuplicatesinStringUsingHashMap.executor": "Run",
+    "Application.RemoveKDigits.executor": "Run",
     "Application.ReverseInteger.executor": "Run",
     "Application.ReverseLinkedList.executor": "Run",
     "Application.ReversePrefixOfWord.executor": "Run",
@@ -270,7 +268,7 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.SquareRoot">
+  <component name="RunManager" selected="Application.RemoveKDigits">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="binarySearch.BinarySearch" />
       <module name="Basic_Java" />
@@ -284,12 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderedThreadPrinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.OrderedThreadPrinting" />
+    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.GroupAnagrams" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.*" />
+          <option name="PATTERN" value="StringExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +295,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SegregateBasedOnArrayLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SegregateBasedOnArrayLength" />
+    <configuration name="RemoveCosecutiveOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.RemoveCosecutiveOccurence" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveKDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.RemoveKDigits" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,34 +347,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.ThreadSequence" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
+      <item itemvalue="Application.GroupAnagrams" />
+      <item itemvalue="Application.RemoveCosecutiveOccurence" />
+      <item itemvalue="Application.RemoveKDigits" />
       <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.SquareRoot" />
-      <item itemvalue="Application.SegregateBasedOnArrayLength" />
-      <item itemvalue="Application.OrderedThreadPrinting" />
-      <item itemvalue="Application.ThreadSequence" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveKDigits" />
+        <item itemvalue="Application.RemoveCosecutiveOccurence" />
+        <item itemvalue="Application.GroupAnagrams" />
         <item itemvalue="Application.SquareRoot" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.SegregateBasedOnArrayLength" />
-        <item itemvalue="Application.OrderedThreadPrinting" />
-        <item itemvalue="Application.ThreadSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -590,7 +588,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754506981807</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Word Break DP">
+      <option name="closed" value="true" />
+      <created>1755543987429</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1755543987429</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1158,7 +1164,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StringExample/GroupAnagrams.java</url>
-          <line>4</line>
+          <line>5</line>
           <option name="timeStamp" value="261" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1178,6 +1184,21 @@
           <url>file://$PROJECT_DIR$/src/Arrays/RotateArrayByk.java</url>
           <line>18</line>
           <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/GroupAnagrams.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/GroupAnagrams.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stack/RemoveKDigits.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="301" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
