@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Word Break DP">
-      <change afterPath="$PROJECT_DIR$/src/Stack/RemoveKDigits.java" afterDir="false" />
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Remove K Digits">
+      <change afterPath="$PROJECT_DIR$/src/DP/PalidromicPartioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/EvenOddPartitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slidingWindow/MaxVowelsOfSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/GroupAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/GroupAnagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/GroupAnagrams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +150,7 @@
     "Application.MaxOccurenceofCharacter.executor": "Run",
     "Application.MaxSubArraySum.executor": "Run",
     "Application.MaxSubstringWithOutNonRepeating.executor": "Run",
+    "Application.MaxVowelsOfSubstring.executor": "Run",
     "Application.MergeSortedArray.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.MissingNumberPractoce.executor": "Run",
@@ -164,6 +165,7 @@
     "Application.OccurrenceOfWordInString.executor": "Run",
     "Application.OrderedThreadPrinting.executor": "Run",
     "Application.PairSumEquals.executor": "Debug",
+    "Application.PalidromicPartioning.executor": "Run",
     "Application.PalindromeString.executor": "Run",
     "Application.PalindromicSubstringsDP.executor": "Debug",
     "Application.ParenthesisChecker.executor": "Run",
@@ -223,9 +225,10 @@
     "Application.TwoSumPairs.executor": "Run",
     "Application.UniqueCharacters.executor": "Run",
     "Application.UserAddressExample.executor": "Debug",
+    "Application.VowelsCount.executor": "Run",
     "Application.WeekNumbers.executor": "Run",
     "Application.WeekToDateConverter.executor": "Run",
-    "Application.WordBreak.executor": "Debug",
+    "Application.WordBreak.executor": "Run",
     "Application.YearMonthExample.executor": "Run",
     "Application.findDuplicatesinnumsay.executor": "Run",
     "Application.lowercasetoUppercase.executor": "Run",
@@ -268,13 +271,13 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveKDigits">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarySearch.BinarySearch" />
+  <component name="RunManager" selected="Application.PalidromicPartioning">
+    <configuration name="EvenOddPartitioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.EvenOddPartitioning" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="binarySearch.*" />
+          <option name="PATTERN" value="Java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,12 +285,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.GroupAnagrams" />
+    <configuration name="MaxVowelsOfSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slidingWindow.MaxVowelsOfSubstring" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringExample.*" />
+          <option name="PATTERN" value="slidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,12 +298,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveCosecutiveOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.RemoveCosecutiveOccurence" />
+    <configuration name="PalidromicPartioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.PalidromicPartioning" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.*" />
+          <option name="PATTERN" value="DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,19 +324,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarySearch.SquareRoot" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="binarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringEachWordreverse" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringExample.StringEachWordreverse" />
       <module name="Basic_Java" />
@@ -347,21 +337,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VowelsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.VowelsCount" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.GroupAnagrams" />
-      <item itemvalue="Application.RemoveCosecutiveOccurence" />
+      <item itemvalue="Application.PalidromicPartioning" />
+      <item itemvalue="Application.MaxVowelsOfSubstring" />
+      <item itemvalue="Application.VowelsCount" />
+      <item itemvalue="Application.EvenOddPartitioning" />
       <item itemvalue="Application.RemoveKDigits" />
-      <item itemvalue="Application.BinarySearch" />
-      <item itemvalue="Application.SquareRoot" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalidromicPartioning" />
+        <item itemvalue="Application.MaxVowelsOfSubstring" />
+        <item itemvalue="Application.VowelsCount" />
         <item itemvalue="Application.RemoveKDigits" />
-        <item itemvalue="Application.RemoveCosecutiveOccurence" />
-        <item itemvalue="Application.GroupAnagrams" />
-        <item itemvalue="Application.SquareRoot" />
-        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.EvenOddPartitioning" />
       </list>
     </recent_temporary>
   </component>
@@ -596,7 +599,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755543987429</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Remove K Digits">
+      <option name="closed" value="true" />
+      <created>1755631193789</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1755631193789</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -637,7 +648,8 @@
     <MESSAGE value="Top k" />
     <MESSAGE value="Kth Distinct Elements" />
     <MESSAGE value="Word Break DP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Word Break DP" />
+    <MESSAGE value="Remove K Digits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove K Digits" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1194,11 +1206,6 @@
           <url>file://$PROJECT_DIR$/src/StringExample/GroupAnagrams.java</url>
           <line>21</line>
           <option name="timeStamp" value="300" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Stack/RemoveKDigits.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="301" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
