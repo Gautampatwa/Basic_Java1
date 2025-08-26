@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Remove K Digits">
-      <change afterPath="$PROJECT_DIR$/src/DP/PalidromicPartioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/EvenOddPartitioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/MaxVowelsOfSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Palindromic Partioning Code">
+      <change beforePath="$PROJECT_DIR$/src/DP/PalidromicPartioning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/PalidromicPartioning.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -607,7 +603,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755631193789</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Palindromic Partioning Code">
+      <option name="closed" value="true" />
+      <created>1756096800219</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1756096800219</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -649,7 +653,8 @@
     <MESSAGE value="Kth Distinct Elements" />
     <MESSAGE value="Word Break DP" />
     <MESSAGE value="Remove K Digits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove K Digits" />
+    <MESSAGE value="Palindromic Partioning Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Palindromic Partioning Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

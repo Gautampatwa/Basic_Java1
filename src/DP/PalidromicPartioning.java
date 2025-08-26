@@ -10,7 +10,7 @@ package DP;
 //Explanation: Three palindromic strings: "a", "b", "c".
 public class PalidromicPartioning {
     public static void main(String[] args) {
-       String s="abc";
+       String s="ababbbabbababa";
         int count = countSubstrings(s);
         System.out.println(count);
     }
@@ -31,7 +31,7 @@ public class PalidromicPartioning {
                   dp[row][col]=Integer.MAX_VALUE;
                 for(int k=row;k<col;k++)
                   {
-                      dp[row][col]=Math.min(dp[row][col],1+dp[row][k]+dp[k+1][col]);
+                      dp[row][col]=Math.min(dp[row][col], 1 + dp[row][k] + dp[k+1][col]);
                   }
               }
             }
