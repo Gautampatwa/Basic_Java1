@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Palindromic Partioning Code">
-      <change beforePath="$PROJECT_DIR$/src/DP/PalidromicPartioning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/PalidromicPartioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/ReverseWordsWithDelimiter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,6 +181,7 @@
     "Application.ReverseInteger.executor": "Run",
     "Application.ReverseLinkedList.executor": "Run",
     "Application.ReversePrefixOfWord.executor": "Run",
+    "Application.ReverseWordsWithDelimiter.executor": "Run",
     "Application.RotateArrayByk.executor": "Run",
     "Application.SegregateBasedOnArrayLength.executor": "Run",
     "Application.SegregateEvenOdd.executor": "Run",
@@ -192,6 +195,7 @@
     "Application.String1.executor": "Run",
     "Application.String2.executor": "Run",
     "Application.StringAnagram.executor": "Run",
+    "Application.StringBuilderReverseAdd.executor": "Run",
     "Application.StringCharacterCount.executor": "Run",
     "Application.StringConsecutiveOccurence.executor": "Run",
     "Application.StringConsecutiveOccurrence.executor": "Run",
@@ -267,20 +271,7 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.PalidromicPartioning">
-    <configuration name="EvenOddPartitioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.EvenOddPartitioning" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReverseWordsWithDelimiter">
     <configuration name="MaxVowelsOfSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="slidingWindow.MaxVowelsOfSubstring" />
       <module name="Basic_Java" />
@@ -307,12 +298,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveKDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.RemoveKDigits" />
+    <configuration name="ReverseWordsWithDelimiter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.ReverseWordsWithDelimiter" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.*" />
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderReverseAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.StringBuilderReverseAdd" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -348,19 +352,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
+      <item itemvalue="Application.ReverseWordsWithDelimiter" />
+      <item itemvalue="Application.StringBuilderReverseAdd" />
       <item itemvalue="Application.PalidromicPartioning" />
       <item itemvalue="Application.MaxVowelsOfSubstring" />
       <item itemvalue="Application.VowelsCount" />
-      <item itemvalue="Application.EvenOddPartitioning" />
-      <item itemvalue="Application.RemoveKDigits" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseWordsWithDelimiter" />
+        <item itemvalue="Application.StringBuilderReverseAdd" />
         <item itemvalue="Application.PalidromicPartioning" />
         <item itemvalue="Application.MaxVowelsOfSubstring" />
         <item itemvalue="Application.VowelsCount" />
-        <item itemvalue="Application.RemoveKDigits" />
-        <item itemvalue="Application.EvenOddPartitioning" />
       </list>
     </recent_temporary>
   </component>
@@ -611,7 +615,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756096800219</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Palindromic Partioning Code">
+      <option name="closed" value="true" />
+      <created>1756198417578</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1756198417578</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
