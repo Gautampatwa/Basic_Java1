@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Palindromic Partioning Code">
-      <change afterPath="$PROJECT_DIR$/src/StringExample/ReverseWordsWithDelimiter.java" afterDir="false" />
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Anagram Groups">
+      <change afterPath="$PROJECT_DIR$/src/Access_Specifier/CamelCaseConversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -41,7 +41,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Gautampatwa/Basic_Java1.git&quot;,
-    &quot;accountId&quot;: &quot;7bd1a1c8-7e68-46ad-94ee-3b45283171d6&quot;
+    &quot;accountId&quot;: &quot;c9232c93-122c-4352-8150-e377152de6fe&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -69,7 +69,7 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2HSRxU80ILOPN6Xgxc546gVSpt3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -85,12 +85,12 @@
     "Application.ArrayList1.executor": "Run",
     "Application.ArrayListExample.executor": "Run",
     "Application.ArrayOccurenceGreaterThanNbyThreeTimes.executor": "Run",
-    "Application.ArrayRightRotation.executor": "Debug",
+    "Application.ArrayRightRotation.executor": "Run",
     "Application.BalancedParenthesis.executor": "Run",
-    "Application.BinarySearch.executor": "Run",
     "Application.BinaryStringSum.executor": "Run",
     "Application.BinarytoDecimal.executor": "Run",
     "Application.BubbleSort.executor": "Run",
+    "Application.CamelCaseConversion.executor": "Run",
     "Application.CaptitaltoSmallAndSmallToCapital.executor": "Run",
     "Application.CharCountInString.executor": "Run",
     "Application.CharacerFrquency.executor": "Run",
@@ -108,16 +108,15 @@
     "Application.ExceptionHandling.executor": "Run",
     "Application.FactorialUsingRecursion.executor": "Run",
     "Application.FibUsingRec.executor": "Debug",
-    "Application.FindAllNumberDisappearedInArray.executor": "Run",
+    "Application.FindConsecutiveArrayLengthwithSum.executor": "Run",
     "Application.FindDuplicate.executor": "Run",
     "Application.FindDuplicateCharactersUsingJava8.executor": "Run",
     "Application.FindPeakElement.executor": "Run",
     "Application.FirstNonRepeatingCharIndex.executor": "Run",
     "Application.FirstNonRepeatingChars.executor": "Run",
-    "Application.FoundOccurencewith1.executor": "Run",
     "Application.FrequencyOfEachCharacterinString.executor": "Run",
     "Application.GFG.executor": "Debug",
-    "Application.GroupAnagrams.executor": "Debug",
+    "Application.GroupAnagrams.executor": "Run",
     "Application.HashSetPractice.executor": "Run",
     "Application.HashSetProgram1.executor": "Run",
     "Application.IntegerSum.executor": "Run",
@@ -125,8 +124,6 @@
     "Application.IsomorphicStrings.executor": "Run",
     "Application.Java8.executor": "Run",
     "Application.Java8Features.executor": "Run",
-    "Application.KthDistinctElements.executor": "Run",
-    "Application.KthLargestIntegerArray.executor": "Run",
     "Application.LambdaExpression.executor": "Run",
     "Application.LineWrapper.executor": "Run",
     "Application.LinkedList.executor": "Run",
@@ -134,7 +131,6 @@
     "Application.LocaldateTimeToUTC.executor": "Run",
     "Application.LongestCommonSubsequenceBottomUp.executor": "Run",
     "Application.LongestCommonSubsequenceDP.executor": "Run",
-    "Application.LongestConsecutive.executor": "Run",
     "Application.LongestPalindromicString.executor": "Run",
     "Application.MainThread.executor": "Run",
     "Application.Map1.executor": "Run",
@@ -143,12 +139,12 @@
     "Application.MapWithEntityPractice.executor": "Run",
     "Application.MaxAverageUsingMap.executor": "Run",
     "Application.MaxCharacter.executor": "Run",
+    "Application.MaxConsecutiveOneAfterKFlips.executor": "Run",
     "Application.MaxElementinArray.executor": "Run",
     "Application.MaxOccurenceCharacterinString.executor": "Run",
     "Application.MaxOccurenceofCharacter.executor": "Run",
     "Application.MaxSubArraySum.executor": "Run",
     "Application.MaxSubstringWithOutNonRepeating.executor": "Run",
-    "Application.MaxVowelsOfSubstring.executor": "Run",
     "Application.MergeSortedArray.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.MissingNumberPractoce.executor": "Run",
@@ -157,13 +153,11 @@
     "Application.MphasisJava8Practice.executor": "Run",
     "Application.NoOfVowelsinWords.executor": "Run",
     "Application.NthLargestElementArray.executor": "Run",
-    "Application.NthtoPower.executor": "Run",
+    "Application.NthPalindrome.executor": "Run",
     "Application.NumberPermutation.executor": "Run",
     "Application.OccurenceOfWordInString.executor": "Run",
     "Application.OccurrenceOfWordInString.executor": "Run",
-    "Application.OrderedThreadPrinting.executor": "Run",
     "Application.PairSumEquals.executor": "Debug",
-    "Application.PalidromicPartioning.executor": "Run",
     "Application.PalindromeString.executor": "Run",
     "Application.PalindromicSubstringsDP.executor": "Debug",
     "Application.ParenthesisChecker.executor": "Run",
@@ -177,12 +171,10 @@
     "Application.RemoveDuplicatesFromArrayUsingHashMap.executor": "Run",
     "Application.RemoveDuplicatesUsingHashMap.executor": "Run",
     "Application.RemoveDuplicatesinStringUsingHashMap.executor": "Run",
-    "Application.RemoveKDigits.executor": "Run",
     "Application.ReverseInteger.executor": "Run",
     "Application.ReverseLinkedList.executor": "Run",
-    "Application.ReversePrefixOfWord.executor": "Run",
-    "Application.ReverseWordsWithDelimiter.executor": "Run",
     "Application.RotateArrayByk.executor": "Run",
+    "Application.SegreegateArrayLeftAscAndRightDesc.executor": "Run",
     "Application.SegregateBasedOnArrayLength.executor": "Run",
     "Application.SegregateEvenOdd.executor": "Run",
     "Application.SegregateOddAndEven.executor": "Run",
@@ -190,12 +182,12 @@
     "Application.SimpleProgramForMessageProper.executor": "Run",
     "Application.Sliding.executor": "Run",
     "Application.Solution.executor": "Run",
+    "Application.Sort012UsingThreePointers.executor": "Run",
+    "Application.SortZeroOneTwo.executor": "Run",
     "Application.SquarOfNumbers.executor": "Run",
-    "Application.SquareRoot.executor": "Debug",
     "Application.String1.executor": "Run",
     "Application.String2.executor": "Run",
     "Application.StringAnagram.executor": "Run",
-    "Application.StringBuilderReverseAdd.executor": "Run",
     "Application.StringCharacterCount.executor": "Run",
     "Application.StringConsecutiveOccurence.executor": "Run",
     "Application.StringConsecutiveOccurrence.executor": "Run",
@@ -214,10 +206,7 @@
     "Application.StringWrapUp.executor": "Run",
     "Application.Stringsum.executor": "Run",
     "Application.Substring.executor": "Run",
-    "Application.SumOfSquareNumbers.executor": "Run",
     "Application.ThreadMain.executor": "Run",
-    "Application.ThreadSequence.executor": "Run",
-    "Application.TopKFrequentWords.executor": "Run",
     "Application.TopKFrequents.executor": "Run",
     "Application.TreesExample.executor": "Run",
     "Application.TwoStringIntoThird.executor": "Run",
@@ -228,7 +217,6 @@
     "Application.VowelsCount.executor": "Run",
     "Application.WeekNumbers.executor": "Run",
     "Application.WeekToDateConverter.executor": "Run",
-    "Application.WordBreak.executor": "Run",
     "Application.YearMonthExample.executor": "Run",
     "Application.findDuplicatesinnumsay.executor": "Run",
     "Application.lowercasetoUppercase.executor": "Run",
@@ -237,6 +225,7 @@
     "Application.nextGreaterUsingArray.executor": "Run",
     "Application.segragateEvenOddUsingJava.executor": "Run",
     "Application.segregateEvenandOdd.executor": "Run",
+    "Application.sortNegativeAndPositive.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -247,19 +236,17 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/gpatwa/IdeaProjects/Basic_Java1/src/Recursion",
+    "last_opened_file_path": "D:/SpringBoot Project/ElectronicStore",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="FinexraInterviewPreparation" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\gpatwa\IdeaProjects\Basic_Java1\src\Recursion" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Stack" />
@@ -271,13 +258,13 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseWordsWithDelimiter">
-    <configuration name="MaxVowelsOfSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slidingWindow.MaxVowelsOfSubstring" />
+  <component name="RunManager" selected="Application.CamelCaseConversion">
+    <configuration name="CamelCaseConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Access_Specifier.CamelCaseConversion" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="slidingWindow.*" />
+          <option name="PATTERN" value="Access_Specifier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,21 +272,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalidromicPartioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.PalidromicPartioning" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseWordsWithDelimiter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.ReverseWordsWithDelimiter" />
+    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.GroupAnagrams" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -311,12 +285,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderReverseAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.StringBuilderReverseAdd" />
+    <configuration name="NumberPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.NumberPermutation" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sort012UsingThreePointers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Sort012UsingThreePointers" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortZeroOneTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.SortZeroOneTwo" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,34 +337,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VowelsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.VowelsCount" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.ReverseWordsWithDelimiter" />
-      <item itemvalue="Application.StringBuilderReverseAdd" />
-      <item itemvalue="Application.PalidromicPartioning" />
-      <item itemvalue="Application.MaxVowelsOfSubstring" />
-      <item itemvalue="Application.VowelsCount" />
+      <item itemvalue="Application.CamelCaseConversion" />
+      <item itemvalue="Application.NumberPermutation" />
+      <item itemvalue="Application.GroupAnagrams" />
+      <item itemvalue="Application.Sort012UsingThreePointers" />
+      <item itemvalue="Application.SortZeroOneTwo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseWordsWithDelimiter" />
-        <item itemvalue="Application.StringBuilderReverseAdd" />
-        <item itemvalue="Application.PalidromicPartioning" />
-        <item itemvalue="Application.MaxVowelsOfSubstring" />
-        <item itemvalue="Application.VowelsCount" />
+        <item itemvalue="Application.CamelCaseConversion" />
+        <item itemvalue="Application.NumberPermutation" />
+        <item itemvalue="Application.GroupAnagrams" />
+        <item itemvalue="Application.Sort012UsingThreePointers" />
+        <item itemvalue="Application.SortZeroOneTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -567,63 +554,55 @@
       <option name="project" value="LOCAL" />
       <updated>1754065003038</updated>
     </task>
-    <task id="LOCAL-00025" summary="Top k">
+    <task id="LOCAL-00025" summary="Longest PalindromicSubstringsDP">
       <option name="closed" value="true" />
-      <created>1754332218346</created>
+      <created>1754831473768</created>
       <option name="number" value="00025" />
       <option name="presentableId" value="LOCAL-00025" />
       <option name="project" value="LOCAL" />
-      <updated>1754332218346</updated>
+      <updated>1754831473768</updated>
     </task>
-    <task id="LOCAL-00026" summary="Kth Distinct Elements">
+    <task id="LOCAL-00026" summary="Longest PalindromicSubstringsDP">
       <option name="closed" value="true" />
-      <created>1754337236782</created>
+      <created>1754833286821</created>
       <option name="number" value="00026" />
       <option name="presentableId" value="LOCAL-00026" />
       <option name="project" value="LOCAL" />
-      <updated>1754337236782</updated>
+      <updated>1754833286821</updated>
     </task>
-    <task id="LOCAL-00027" summary="Word Break DP">
+    <task id="LOCAL-00027" summary="Java8 Features Deloitee">
       <option name="closed" value="true" />
-      <created>1754506981807</created>
+      <created>1754833886884</created>
       <option name="number" value="00027" />
       <option name="presentableId" value="LOCAL-00027" />
       <option name="project" value="LOCAL" />
-      <updated>1754506981807</updated>
+      <updated>1754833886884</updated>
     </task>
-    <task id="LOCAL-00028" summary="Word Break DP">
+    <task id="LOCAL-00028" summary="Sort 012">
       <option name="closed" value="true" />
-      <created>1755543987429</created>
+      <created>1755434170289</created>
       <option name="number" value="00028" />
       <option name="presentableId" value="LOCAL-00028" />
       <option name="project" value="LOCAL" />
-      <updated>1755543987429</updated>
+      <updated>1755434170289</updated>
     </task>
-    <task id="LOCAL-00029" summary="Remove K Digits">
+    <task id="LOCAL-00029" summary="Sort 012 using Three pointer">
       <option name="closed" value="true" />
-      <created>1755631193789</created>
+      <created>1755452335383</created>
       <option name="number" value="00029" />
       <option name="presentableId" value="LOCAL-00029" />
       <option name="project" value="LOCAL" />
-      <updated>1755631193789</updated>
+      <updated>1755452335383</updated>
     </task>
-    <task id="LOCAL-00030" summary="Palindromic Partioning Code">
+    <task id="LOCAL-00030" summary="Anagram Groups">
       <option name="closed" value="true" />
-      <created>1756096800219</created>
+      <created>1755453355797</created>
       <option name="number" value="00030" />
       <option name="presentableId" value="LOCAL-00030" />
       <option name="project" value="LOCAL" />
-      <updated>1756096800219</updated>
+      <updated>1755453355797</updated>
     </task>
-    <task id="LOCAL-00031" summary="Palindromic Partioning Code">
-      <option name="closed" value="true" />
-      <created>1756198417578</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1756198417578</updated>
-    </task>
-    <option name="localTasksCounter" value="32" />
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -661,12 +640,11 @@
     <MESSAGE value="Java8" />
     <MESSAGE value="DP" />
     <MESSAGE value="Longest PalindromicSubstringsDP" />
-    <MESSAGE value="Top k" />
-    <MESSAGE value="Kth Distinct Elements" />
-    <MESSAGE value="Word Break DP" />
-    <MESSAGE value="Remove K Digits" />
-    <MESSAGE value="Palindromic Partioning Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Palindromic Partioning Code" />
+    <MESSAGE value="Java8 Features Deloitee" />
+    <MESSAGE value="Sort 012" />
+    <MESSAGE value="Sort 012 using Three pointer" />
+    <MESSAGE value="Anagram Groups" />
+    <option name="LAST_COMMIT_MESSAGE" value="Anagram Groups" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1192,37 +1170,12 @@
           <option name="timeStamp" value="260" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/GroupAnagrams.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="261" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StringExample/MoveZeroToEnd.java</url>
           <line>39</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="273" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Arrays/RotateArrayByk.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="297" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Arrays/RotateArrayByk.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="298" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/GroupAnagrams.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="299" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/GroupAnagrams.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="300" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
