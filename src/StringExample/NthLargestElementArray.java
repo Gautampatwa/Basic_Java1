@@ -11,6 +11,7 @@ public class NthLargestElementArray {
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
+        System.out.println("Enter k to find Nth Largest element:");
         int k = sc.nextInt();
         nthLargest(arr, k);
     }
