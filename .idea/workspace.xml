@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Palindromic Partioning Code">
+      <change afterPath="$PROJECT_DIR$/src/StringExample/CommonCharacterInStringArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/LongestCommonSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/NthLargestElementArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/NthLargestElementArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/CountingSortString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CountingSortString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/FinexraInterviewPreparation/MissingNumber.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/FinexraInterviewPreparation/MissingNumberPractoce.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/StringExample/CountingSortString.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -96,6 +99,7 @@
     &quot;Application.CharacerFrquency.executor&quot;: &quot;Run&quot;,
     &quot;Application.Codechef.executor&quot;: &quot;Run&quot;,
     &quot;Application.CommonCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommonCharacterInStringArrays.executor&quot;: &quot;Run&quot;,
     &quot;Application.CommonElementsCount.executor&quot;: &quot;Run&quot;,
     &quot;Application.CommonWordsinTwoString.executor&quot;: &quot;Run&quot;,
     &quot;Application.CountBalancedParenthesis.executor&quot;: &quot;Run&quot;,
@@ -117,7 +121,7 @@
     &quot;Application.FoundOccurencewith1.executor&quot;: &quot;Run&quot;,
     &quot;Application.FrequencyOfEachCharacterinString.executor&quot;: &quot;Run&quot;,
     &quot;Application.GFG.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.GroupAnagrams.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.GroupAnagrams.executor&quot;: &quot;Run&quot;,
     &quot;Application.HashSetPractice.executor&quot;: &quot;Run&quot;,
     &quot;Application.HashSetProgram1.executor&quot;: &quot;Run&quot;,
     &quot;Application.IntegerSum.executor&quot;: &quot;Run&quot;,
@@ -134,6 +138,7 @@
     &quot;Application.LocaldateTimeToUTC.executor&quot;: &quot;Run&quot;,
     &quot;Application.LongestCommonSubsequenceBottomUp.executor&quot;: &quot;Run&quot;,
     &quot;Application.LongestCommonSubsequenceDP.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestCommonSubstring.executor&quot;: &quot;Run&quot;,
     &quot;Application.LongestConsecutive.executor&quot;: &quot;Run&quot;,
     &quot;Application.LongestPalindromicString.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainThread.executor&quot;: &quot;Run&quot;,
@@ -271,13 +276,52 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.NthLargestElementArray">
-    <configuration name="KthLargestIntegerArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.KthLargestIntegerArray" />
+  <component name="RunManager" selected="Application.CommonCharacterInStringArrays">
+    <configuration name="CommonCharacterInStringArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.CommonCharacterInStringArrays" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountingSortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.CountingSortString" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.GroupAnagrams" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.LongestCommonSubstring" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,45 +331,6 @@
     </configuration>
     <configuration name="NthLargestElementArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringExample.NthLargestElementArray" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseWordsWithDelimiter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.ReverseWordsWithDelimiter" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarySearch.SquareRoot" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="binarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringBuilderReverseAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.StringBuilderReverseAdd" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -352,19 +357,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.KthLargestIntegerArray" />
+      <item itemvalue="Application.CommonCharacterInStringArrays" />
+      <item itemvalue="Application.CountingSortString" />
+      <item itemvalue="Application.GroupAnagrams" />
+      <item itemvalue="Application.LongestCommonSubstring" />
       <item itemvalue="Application.NthLargestElementArray" />
-      <item itemvalue="Application.SquareRoot" />
-      <item itemvalue="Application.ReverseWordsWithDelimiter" />
-      <item itemvalue="Application.StringBuilderReverseAdd" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommonCharacterInStringArrays" />
+        <item itemvalue="Application.CountingSortString" />
+        <item itemvalue="Application.GroupAnagrams" />
+        <item itemvalue="Application.LongestCommonSubstring" />
         <item itemvalue="Application.NthLargestElementArray" />
-        <item itemvalue="Application.KthLargestIntegerArray" />
-        <item itemvalue="Application.SquareRoot" />
-        <item itemvalue="Application.ReverseWordsWithDelimiter" />
-        <item itemvalue="Application.StringBuilderReverseAdd" />
       </list>
     </recent_temporary>
   </component>
@@ -623,7 +628,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756198417578</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Palindromic Partioning Code">
+      <option name="closed" value="true" />
+      <created>1756708848637</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1756708848637</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1192,11 +1205,6 @@
           <option name="timeStamp" value="260" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/GroupAnagrams.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="261" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StringExample/MoveZeroToEnd.java</url>
           <line>39</line>
           <properties>
@@ -1215,14 +1223,14 @@
           <option name="timeStamp" value="298" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/GroupAnagrams.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="299" />
+          <url>file://$PROJECT_DIR$/src/slidingWindow/PalindromicSubstringsDP.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="301" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/GroupAnagrams.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="300" />
+          <url>file://$PROJECT_DIR$/src/slidingWindow/PalindromicSubstringsDP.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="302" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

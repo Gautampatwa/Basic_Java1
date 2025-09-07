@@ -11,7 +11,7 @@ public class CountingSortString {
     }
 
     private static String sortStringLinearTime(String s) {
-        int[] freq = new int[26]; // for 'a' to 'z'
+        int[] freq = new int[26];
 
         // Count frequency of each character
         for (char c : s.toCharArray()) {
