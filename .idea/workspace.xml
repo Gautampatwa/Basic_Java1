@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Palindromic Partioning Code">
-      <change afterPath="$PROJECT_DIR$/src/StringExample/CommonCharacterInStringArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/LongestCommonSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/CountingSortString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CountingSortString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/CommonCharacterInStringArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CommonCharacterInStringArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -636,7 +633,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756708848637</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Palindromic Partioning Code">
+      <option name="closed" value="true" />
+      <created>1757268343768</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1757268343768</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
