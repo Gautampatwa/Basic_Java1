@@ -23,24 +23,5 @@ public class LongestCommonSubstring {
             }
         }
         System.out.println(s1.substring(0,index));
-        System.out.println("Second Approach");
-        Map<Character,Integer> map=new LinkedHashMap<>();
-        for(String str:strs)
-        {
-            for(char c:str.toCharArray())
-            {
-                map.put(c,map.getOrDefault(c,0)+1);
-            }
-        }
-        StringBuilder sb=new StringBuilder();
-        for(var e:map.entrySet())
-        {
-            if(e.getValue()>1)
-            {
-                sb.append(e.getKey());
-            }
-        }
-        System.out.println(sb.toString());
-
     }
 }
