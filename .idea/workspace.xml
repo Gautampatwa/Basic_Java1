@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="CommonCharacterInStringArrays">
-      <change beforePath="$PROJECT_DIR$/src/StringExample/CommonCharacterInStringArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CommonCharacterInStringArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/LongestCommonSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/LongestCommonSubstring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -272,7 +274,7 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestCommonSubstring">
+  <component name="RunManager" selected="Application.KthLargestIntegerArray">
     <configuration name="CommonCharacterInStringArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringExample.CommonCharacterInStringArrays" />
       <module name="Basic_Java" />
@@ -299,12 +301,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.GroupAnagrams" />
+    <configuration name="KthLargestIntegerArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.KthLargestIntegerArray" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringExample.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,12 +327,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NthLargestElementArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.NthLargestElementArray" />
+    <configuration name="LongestConsecutive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.LongestConsecutive" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringExample.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -353,19 +355,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
+      <item itemvalue="Application.KthLargestIntegerArray" />
+      <item itemvalue="Application.LongestConsecutive" />
       <item itemvalue="Application.CommonCharacterInStringArrays" />
       <item itemvalue="Application.CountingSortString" />
-      <item itemvalue="Application.GroupAnagrams" />
       <item itemvalue="Application.LongestCommonSubstring" />
-      <item itemvalue="Application.NthLargestElementArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KthLargestIntegerArray" />
+        <item itemvalue="Application.LongestConsecutive" />
         <item itemvalue="Application.LongestCommonSubstring" />
         <item itemvalue="Application.CommonCharacterInStringArrays" />
         <item itemvalue="Application.CountingSortString" />
-        <item itemvalue="Application.GroupAnagrams" />
-        <item itemvalue="Application.NthLargestElementArray" />
       </list>
     </recent_temporary>
   </component>
