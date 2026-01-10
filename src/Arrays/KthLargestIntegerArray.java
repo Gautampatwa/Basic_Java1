@@ -4,7 +4,7 @@ import java.util.PriorityQueue;
 
 public class KthLargestIntegerArray {
     public static void main(String[] args) {
-        String[] nums={"0","1","1"};
+        String[] nums={"0","1","1","2","2","3","3","3"};
         int k=1;
         String s = kthLargestNumber(nums, k);
         System.out.println(s);

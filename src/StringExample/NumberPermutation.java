@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class NumberPermutation {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
@@ -18,7 +19,6 @@ public class NumberPermutation {
     }
 
     private static List<List<Integer>> permutationOfNum(int[] arr, List<Integer> tempList, List<List<Integer>> result) {
-
         if (tempList.size() == arr.length) {
             result.add(new ArrayList<>(tempList));
             return result;

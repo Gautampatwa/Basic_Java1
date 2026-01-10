@@ -1,4 +1,4 @@
-package Exceotion;
+package Exception;
 
 public class ExceptionHandling {
 

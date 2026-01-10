@@ -36,7 +36,7 @@ public class FindAllNumberDisappearedInArray {
                 list.add(i);
             }
         }
-        System.out.println(set);
+        System.out.println(list);
         String originalString = "  This      is  a   string   with   extra   spaces  ";
         String singleSpaceString = originalString.replaceAll("\\s+", " ").trim();
         System.out.println(singleSpaceString); // Output: This is a string with extra spaces
