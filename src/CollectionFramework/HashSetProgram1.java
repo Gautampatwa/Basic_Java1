@@ -16,8 +16,10 @@ public class HashSetProgram1 {
         for (char c : s.toCharArray()) {
             set.add(c);
         }
+        System.out.println("Set:"+set);
         for (int i = 0; i < s.length(); i++) {
-            if (set.contains(Character.toUpperCase(s.charAt(i))) && set.contains(Character.toLowerCase(s.charAt(i))))
+            if (set.contains(Character.toUpperCase(s.charAt(i))) &&
+                    set.contains(Character.toLowerCase(s.charAt(i))))
                 continue;
 
             String s1 = longestNiceSubstring(s.substring(0, i));

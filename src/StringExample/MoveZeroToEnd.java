@@ -15,18 +15,16 @@ public class MoveZeroToEnd {
                     arr[i]=sc.nextInt();
                 }
                 moveZeroes(arr);
-
     }
 
     private static void moveZeroes(int[] arr) {
         List<Integer> list=new ArrayList<>();
         List<Integer> finallist=new ArrayList<>();
-
         for(int i:arr)
         {
             list.add(i);
         }
-       List<Integer> nonzeroes=list.stream().filter(i -> i != 0).collect(Collectors.toList());
+        List<Integer> nonzeroes=list.stream().filter(i -> i != 0).collect(Collectors.toList());
         finallist.addAll(nonzeroes);
         int zeroesLength=list.size()-nonzeroes.size();
         for(int i=0;i<zeroesLength;i++)
@@ -34,6 +32,5 @@ public class MoveZeroToEnd {
             finallist.add(0);
         }
         System.out.println(finallist);
-
     }
 }

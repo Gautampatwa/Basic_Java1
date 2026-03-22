@@ -10,7 +10,7 @@ public class CaptitaltoSmallAndSmallToCapital {
         for (int i = 0; i < s.length(); i++) {
             boolean flag = true;//Capital Character
             char ch = s.charAt(i);
-            if (s.charAt(i) == ' ')
+            if (ch == ' ')
                 continue;
             int ascii = (int) ch;
             if (ascii >= 97) {

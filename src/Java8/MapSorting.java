@@ -16,7 +16,7 @@ public class MapSorting {
 
         map.entrySet().stream().sorted(Map.Entry.comparingByKey(Comparator.comparing(Employee::getMobile).reversed())).forEach(System.out::println);
 
-        System.out.println("========================StreamAPI=======================");
+        System.out.println("============================StreamAPI========================================");
         List<String> list = Arrays.asList("Gautam", "Mukesh", "Akanksha", "Manvi", "Prerna");
         list.forEach(System.out::println);
         list.stream().filter(i -> i.startsWith("M")).forEach((li) -> System.out.println("I love you " + li));

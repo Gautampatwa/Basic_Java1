@@ -19,7 +19,7 @@ public class CommonCharacterInStringArrays {
             for (char c : words[i].toCharArray()) {
                 currentSet.add(c);
             }
-            commonChars.retainAll(currentSet);
+                commonChars.retainAll(currentSet);
         }
 
         Character[] result = commonChars.toArray(new Character[0]);

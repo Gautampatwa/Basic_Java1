@@ -6,7 +6,7 @@ public class String1 {
     public static void main(String[] args) {
         String s = new String("Gautam");
         String s1="Gautam";
-        String s2="Patwa";
+        String s2="Gautam";
         System.out.println(s1==s2);
         System.out.println(s1.equals(s2));
         System.out.println("S is:"+s);

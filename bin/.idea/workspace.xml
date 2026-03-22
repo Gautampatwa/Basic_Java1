@@ -4,26 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Anagram Groups">
-      <change afterPath="$PROJECT_DIR$/src/Java8/EvenNumberSumFromArrrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/StreamAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/LengthofLastword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="New Code 2026">
+      <change afterPath="$PROJECT_DIR$/src/Java8/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/UndoRedo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/MaxSubArraySum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/MaxSubArraySum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Exceotion/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/NumberPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/NumberPermutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/Exceotion/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/FindAllNumberDisappearedInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/FindAllNumberDisappearedInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/KthLargestIntegerArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/KthLargestIntegerArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/MaxSubArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/MaxSubArraySum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/NameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/NameComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/RollnoComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/RollnoComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exceotion/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exceotion/ExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/ExceptionHandling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/NumberPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/NumberPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Java8/CountingEachCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/CountingEachCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Java8/MapSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/MapSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Java8/MphasisJava8Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/MphasisJava8Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Stack/ArrayImplementationOfStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Stack/ArrayImplementationOfStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/CaptitaltoSmallAndSmallToCapital.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/CaptitaltoSmallAndSmallToCapital.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/MoveZeroToEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/MoveZeroToEnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/String1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/String1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionFramework/HashSetProgram1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFramework/HashSetProgram1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java8/CountingEachCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/CountingEachCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java8/MapSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/MapSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java8/MphasisJava8Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/MphasisJava8Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java8/VowelsCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/VowelsCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack/ArrayImplementationOfStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/ArrayImplementationOfStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/CaptitaltoSmallAndSmallToCapital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CaptitaltoSmallAndSmallToCapital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/CommonCharacterInStringArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CommonCharacterInStringArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/CommonElementsCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CommonElementsCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/MoveZeroToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/MoveZeroToEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/String1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/String1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +66,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/FinexraInterviewPreparation/MissingNumber.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/FinexraInterviewPreparation/MissingNumberPractoce.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Java8/VowelsCount.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -112,12 +116,15 @@
     &quot;Application.BinaryStringSum.executor&quot;: &quot;Run&quot;,
     &quot;Application.BinarytoDecimal.executor&quot;: &quot;Run&quot;,
     &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.C.executor&quot;: &quot;Run&quot;,
     &quot;Application.CamelCaseConversion.executor&quot;: &quot;Run&quot;,
     &quot;Application.CaptitaltoSmallAndSmallToCapital.executor&quot;: &quot;Run&quot;,
     &quot;Application.CharCountInString.executor&quot;: &quot;Run&quot;,
     &quot;Application.CharacerFrquency.executor&quot;: &quot;Run&quot;,
     &quot;Application.Codechef.executor&quot;: &quot;Run&quot;,
     &quot;Application.CommonCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommonCharacterInStringArrays.executor&quot;: &quot;Run&quot;,
     &quot;Application.CommonElementsCount.executor&quot;: &quot;Run&quot;,
     &quot;Application.CommonWordsinTwoString.executor&quot;: &quot;Run&quot;,
     &quot;Application.Comparator.executor&quot;: &quot;Run&quot;,
@@ -127,8 +134,10 @@
     &quot;Application.CountZerofrom1toNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.CountingEachCharacter.executor&quot;: &quot;Run&quot;,
     &quot;Application.CountingSortString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DefaultMethod.executor&quot;: &quot;Run&quot;,
     &quot;Application.DuplicateWords.executor&quot;: &quot;Run&quot;,
     &quot;Application.EvenNumberSumFromArrrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenOddPartitioning.executor&quot;: &quot;Run&quot;,
     &quot;Application.ExceptionHandling.executor&quot;: &quot;Run&quot;,
     &quot;Application.FactorialUsingRecursion.executor&quot;: &quot;Run&quot;,
     &quot;Application.FibUsingRec.executor&quot;: &quot;Debug&quot;,
@@ -184,6 +193,7 @@
     &quot;Application.NthLargestElementArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.NthPalindrome.executor&quot;: &quot;Run&quot;,
     &quot;Application.NumberPermutation.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.OccurenceOfEachCharacter.executor&quot;: &quot;Run&quot;,
     &quot;Application.OccurenceOfWordInString.executor&quot;: &quot;Run&quot;,
     &quot;Application.OccurrenceOfWordInString.executor&quot;: &quot;Run&quot;,
     &quot;Application.PairSumEquals.executor&quot;: &quot;Debug&quot;,
@@ -244,6 +254,7 @@
     &quot;Application.TwoStringIntoThird.executor&quot;: &quot;Run&quot;,
     &quot;Application.TwoStringLogic.executor&quot;: &quot;Run&quot;,
     &quot;Application.TwoSumPairs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UndoRedo.executor&quot;: &quot;Run&quot;,
     &quot;Application.UniqueCharacters.executor&quot;: &quot;Run&quot;,
     &quot;Application.UserAddressExample.executor&quot;: &quot;Debug&quot;,
     &quot;Application.VowelsCount.executor&quot;: &quot;Run&quot;,
@@ -292,9 +303,9 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayOccurenceGreaterThanNbyThreeTimes">
-    <configuration name="ArrayIndexPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.ArrayIndexPrint" />
+  <component name="RunManager" selected="Application.CommonWordsinTwoString">
+    <configuration name="Codechef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.Codechef" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -306,8 +317,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayOccurenceGreaterThanNbyThreeTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.ArrayOccurenceGreaterThanNbyThreeTimes" />
+    <configuration name="CommonCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.CommonCharacter" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -319,8 +330,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Khushi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.Khushi" />
+    <configuration name="CommonCharacterInStringArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.CommonCharacterInStringArrays" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -332,12 +343,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestConsecutive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.LongestConsecutive" />
+    <configuration name="CommonElementsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.CommonElementsCount" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="StringExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -345,12 +356,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxSubArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.MaxSubArraySum" />
+    <configuration name="CommonWordsinTwoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.CommonWordsinTwoString" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="StringExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,26 +384,26 @@
     </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.ArrayIndexPrint" />
-      <item itemvalue="Application.ArrayOccurenceGreaterThanNbyThreeTimes" />
-      <item itemvalue="Application.Khushi" />
-      <item itemvalue="Application.LongestConsecutive" />
-      <item itemvalue="Application.MaxSubArraySum" />
+      <item itemvalue="Application.CommonWordsinTwoString" />
+      <item itemvalue="Application.Codechef" />
+      <item itemvalue="Application.CommonCharacter" />
+      <item itemvalue="Application.CommonCharacterInStringArrays" />
+      <item itemvalue="Application.CommonElementsCount" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayOccurenceGreaterThanNbyThreeTimes" />
-        <item itemvalue="Application.ArrayIndexPrint" />
-        <item itemvalue="Application.MaxSubArraySum" />
-        <item itemvalue="Application.Khushi" />
-        <item itemvalue="Application.LongestConsecutive" />
+        <item itemvalue="Application.CommonWordsinTwoString" />
+        <item itemvalue="Application.CommonCharacter" />
+        <item itemvalue="Application.CommonElementsCount" />
+        <item itemvalue="Application.CommonCharacterInStringArrays" />
+        <item itemvalue="Application.Codechef" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
       </set>
     </attachedChunks>
   </component>
@@ -643,7 +654,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755453355797</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="New Code 2026">
+      <option name="closed" value="true" />
+      <created>1768061828851</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1768061828851</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -685,7 +704,8 @@
     <MESSAGE value="Sort 012" />
     <MESSAGE value="Sort 012 using Three pointer" />
     <MESSAGE value="Anagram Groups" />
-    <option name="LAST_COMMIT_MESSAGE" value="Anagram Groups" />
+    <MESSAGE value="New Code 2026" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Code 2026" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1192,7 +1212,7 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/StringExample/MoveZeroToEnd.java</url>
-          <line>39</line>
+          <line>36</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>

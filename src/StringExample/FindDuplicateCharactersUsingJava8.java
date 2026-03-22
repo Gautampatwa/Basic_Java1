@@ -30,5 +30,21 @@ public class FindDuplicateCharactersUsingJava8 {
             rev.append(builder).append(" ");
         }
         System.out.println(rev.toString().trim());
+        System.out.println("====================");
+        StringBuilder rev1=new StringBuilder();
+        String[] words1=s.split(" ");
+        for(int i=words1.length-1;i>=0;i--)
+        {
+            String word=words[i];
+            for(int j=word.length()-1;j>=0;j--)
+            {
+                rev1.append(word.charAt(j));
+            }
+            if(i!=0)
+            {
+                rev1.append(" ");
+            }
+        }
+        System.out.println(rev1.toString());
     }
 }

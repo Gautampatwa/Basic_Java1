@@ -8,6 +8,7 @@ public class VowelsCount {
     public static void main(String[] args) {
         String s = "Virrutusa";
         s = s.toLowerCase();
+        System.out.println(s);
         long count = s.chars().filter(i -> "aeiou".indexOf(i) != -1).count();
         System.out.println(count);
         System.out.println("Each char count");
@@ -17,7 +18,7 @@ public class VowelsCount {
         List<Map.Entry<Character, Long>> collect1 = collect.entrySet().stream().
                 filter(e -> e.getKey() == 'r').collect(Collectors.toList());
         System.out.println(collect1);
-        System.out.println("===============================");
+        System.out.println("===============================================");
         List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6);
 
         List<Integer> even = numbers.stream().filter(n -> n % 2 == 0).collect(Collectors.toList());
@@ -29,7 +30,8 @@ public class VowelsCount {
         list.addAll(even);
         System.out.println("List: " + list);
 
-        System.out.println("=====================Sum of Integer in ArrayList Usinh Java8====================");
+        System.out.println("=====================Sum of Integer in ArrayList Using" +
+                " Java8====================");
         List<Integer> numberss = Arrays.asList(1, 2, 3, 4, 5, 6);
         Integer sum = numberss.stream().reduce(0, Integer::sum);
         System.out.println(sum);
@@ -47,7 +49,8 @@ public class VowelsCount {
         s1=s1.toLowerCase();
         Arrays.stream(s1.split(" ")).forEach(
                 word->{
-                    Map<Character,Long> vowelcount=word.chars().mapToObj(c->(char)c).filter(c->"aeiou".indexOf(c)!=-1).collect(Collectors.groupingBy(Function.identity(),Collectors.counting()));
+                    Map<Character,Long> vowelcount=word.chars().mapToObj(c->(char)c).filter(c->"aeiou".indexOf(c)!=-1)
+                            .collect(Collectors.groupingBy(Function.identity(),Collectors.counting()));
                     System.out.println(word+":"+"Vowels Count: "+vowelcount);
                 });
 

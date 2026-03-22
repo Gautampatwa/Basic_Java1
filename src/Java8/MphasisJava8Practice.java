@@ -22,5 +22,7 @@ public class MphasisJava8Practice {
         list.stream().filter(s -> s.getName().startsWith("S") && s.getSalary() > 500).forEach(System.out::println);
         System.out.println("Employee sorted By Address:");
         list.stream().sorted(Comparator.comparing(Employee::getAddress)).forEach(System.out::println);
+        System.out.println();
+        list.stream().max(Comparator.comparing(Employee::getSalary)).ifPresent(System.out::println);
     }
 }

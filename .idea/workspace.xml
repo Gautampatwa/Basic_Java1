@@ -4,27 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Anagram Groups">
-      <change afterPath="$PROJECT_DIR$/src/Java8/EvenNumberSumFromArrrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/OccurenceOfEachCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8/StreamAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample/LengthofLastword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="New Code 2026">
+      <change afterPath="$PROJECT_DIR$/src/Java8/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/UndoRedo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Arrays/MaxSubArraySum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Arrays/MaxSubArraySum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Exceotion/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/NumberPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/NumberPermutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/Exceotion/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/FindAllNumberDisappearedInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/FindAllNumberDisappearedInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/KthLargestIntegerArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/KthLargestIntegerArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/MaxSubArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/MaxSubArraySum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/NameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/NameComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/RollnoComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/RollnoComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exceotion/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exceotion/ExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/ExceptionHandling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/NumberPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/NumberPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Java8/CountingEachCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/CountingEachCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Java8/MapSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/MapSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Java8/MphasisJava8Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/MphasisJava8Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Stack/ArrayImplementationOfStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Stack/ArrayImplementationOfStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/CaptitaltoSmallAndSmallToCapital.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/CaptitaltoSmallAndSmallToCapital.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/MoveZeroToEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/MoveZeroToEnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/String1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/String1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionFramework/HashSetProgram1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFramework/HashSetProgram1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java8/CountingEachCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/CountingEachCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java8/MapSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/MapSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java8/MphasisJava8Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/MphasisJava8Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java8/VowelsCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/VowelsCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack/ArrayImplementationOfStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/ArrayImplementationOfStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/CaptitaltoSmallAndSmallToCapital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CaptitaltoSmallAndSmallToCapital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/CommonCharacterInStringArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CommonCharacterInStringArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/CommonElementsCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CommonElementsCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/ContainsDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/FindDuplicateCharactersUsingJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/FindDuplicateCharactersUsingJava8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/MoveZeroToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/MoveZeroToEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/String1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/String1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +68,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/FinexraInterviewPreparation/MissingNumber.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/FinexraInterviewPreparation/MissingNumberPractoce.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Java8/VowelsCount.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -113,23 +118,29 @@
     "Application.BinaryStringSum.executor": "Run",
     "Application.BinarytoDecimal.executor": "Run",
     "Application.BubbleSort.executor": "Run",
+    "Application.C (1).executor": "Run",
+    "Application.C.executor": "Run",
     "Application.CamelCaseConversion.executor": "Run",
     "Application.CaptitaltoSmallAndSmallToCapital.executor": "Run",
     "Application.CharCountInString.executor": "Run",
     "Application.CharacerFrquency.executor": "Run",
     "Application.Codechef.executor": "Run",
     "Application.CommonCharacter.executor": "Run",
+    "Application.CommonCharacterInStringArrays.executor": "Run",
     "Application.CommonElementsCount.executor": "Run",
     "Application.CommonWordsinTwoString.executor": "Run",
     "Application.Comparator.executor": "Run",
+    "Application.ContainsDuplicate.executor": "Run",
     "Application.CountBalancedParenthesis.executor": "Run",
     "Application.CountEachChar.executor": "Run",
     "Application.CountZeroFrom1ToNumber.executor": "Run",
     "Application.CountZerofrom1toNumber.executor": "Run",
     "Application.CountingEachCharacter.executor": "Run",
     "Application.CountingSortString.executor": "Run",
+    "Application.DefaultMethod.executor": "Run",
     "Application.DuplicateWords.executor": "Run",
     "Application.EvenNumberSumFromArrrayList.executor": "Run",
+    "Application.EvenOddPartitioning.executor": "Run",
     "Application.ExceptionHandling.executor": "Run",
     "Application.FactorialUsingRecursion.executor": "Run",
     "Application.FibUsingRec.executor": "Debug",
@@ -246,6 +257,7 @@
     "Application.TwoStringIntoThird.executor": "Run",
     "Application.TwoStringLogic.executor": "Run",
     "Application.TwoSumPairs.executor": "Run",
+    "Application.UndoRedo.executor": "Run",
     "Application.UniqueCharacters.executor": "Run",
     "Application.UserAddressExample.executor": "Debug",
     "Application.VowelsCount.executor": "Run",
@@ -294,9 +306,9 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.OccurenceOfEachCharacter">
-    <configuration name="ArrayIndexPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.ArrayIndexPrint" />
+  <component name="RunManager" selected="Application.FindDuplicateCharactersUsingJava8">
+    <configuration name="CommonWordsinTwoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.CommonWordsinTwoString" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -308,8 +320,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayOccurenceGreaterThanNbyThreeTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.ArrayOccurenceGreaterThanNbyThreeTimes" />
+    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.ContainsDuplicate" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -321,8 +333,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Khushi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.Khushi" />
+    <configuration name="CountingSortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.CountingSortString" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -334,12 +346,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxSubArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.MaxSubArraySum" />
+    <configuration name="FindDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.FindDuplicate" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="StringExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,12 +359,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OccurenceOfEachCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.OccurenceOfEachCharacter" />
+    <configuration name="FindDuplicateCharactersUsingJava8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.FindDuplicateCharactersUsingJava8" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8.*" />
+          <option name="PATTERN" value="StringExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -375,26 +387,26 @@
     </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.OccurenceOfEachCharacter" />
-      <item itemvalue="Application.ArrayIndexPrint" />
-      <item itemvalue="Application.ArrayOccurenceGreaterThanNbyThreeTimes" />
-      <item itemvalue="Application.Khushi" />
-      <item itemvalue="Application.MaxSubArraySum" />
+      <item itemvalue="Application.CommonWordsinTwoString" />
+      <item itemvalue="Application.ContainsDuplicate" />
+      <item itemvalue="Application.CountingSortString" />
+      <item itemvalue="Application.FindDuplicate" />
+      <item itemvalue="Application.FindDuplicateCharactersUsingJava8" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OccurenceOfEachCharacter" />
-        <item itemvalue="Application.ArrayOccurenceGreaterThanNbyThreeTimes" />
-        <item itemvalue="Application.ArrayIndexPrint" />
-        <item itemvalue="Application.MaxSubArraySum" />
-        <item itemvalue="Application.Khushi" />
+        <item itemvalue="Application.FindDuplicateCharactersUsingJava8" />
+        <item itemvalue="Application.FindDuplicate" />
+        <item itemvalue="Application.CountingSortString" />
+        <item itemvalue="Application.ContainsDuplicate" />
+        <item itemvalue="Application.CommonWordsinTwoString" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
       </set>
     </attachedChunks>
   </component>
@@ -645,7 +657,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755453355797</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="New Code 2026">
+      <option name="closed" value="true" />
+      <created>1768061828851</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1768061828851</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -687,7 +707,8 @@
     <MESSAGE value="Sort 012" />
     <MESSAGE value="Sort 012 using Three pointer" />
     <MESSAGE value="Anagram Groups" />
-    <option name="LAST_COMMIT_MESSAGE" value="Anagram Groups" />
+    <MESSAGE value="New Code 2026" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Code 2026" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -921,16 +942,6 @@
           <url>file://$PROJECT_DIR$/src/Recursion/CheckingArraySortedOrNot.java</url>
           <line>28</line>
           <option name="timeStamp" value="87" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/FindDuplicate.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/FindDuplicate.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/StringExample/WordPattern.java</url>
@@ -1194,7 +1205,7 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/StringExample/MoveZeroToEnd.java</url>
-          <line>39</line>
+          <line>36</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>
