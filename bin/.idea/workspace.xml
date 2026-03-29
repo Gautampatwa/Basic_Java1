@@ -4,29 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="New Code 2026">
-      <change afterPath="$PROJECT_DIR$/src/Java8/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/UndoRedo.java" afterDir="false" />
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java8/CountingEachCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/CountingEachCharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java8/MapSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/MapSorting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java8/MphasisJava8Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/MphasisJava8Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Stack/ArrayImplementationOfStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Stack/ArrayImplementationOfStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/CaptitaltoSmallAndSmallToCapital.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/CaptitaltoSmallAndSmallToCapital.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/MoveZeroToEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/MoveZeroToEnd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/String1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/String1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionFramework/HashSetProgram1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFramework/HashSetProgram1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java8/CountingEachCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/CountingEachCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java8/MapSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/MapSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java8/MphasisJava8Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/MphasisJava8Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java8/VowelsCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/VowelsCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack/ArrayImplementationOfStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/ArrayImplementationOfStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/CaptitaltoSmallAndSmallToCapital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CaptitaltoSmallAndSmallToCapital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/CommonCharacterInStringArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CommonCharacterInStringArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/CommonElementsCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CommonElementsCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/MoveZeroToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/MoveZeroToEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/String1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/String1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Java8/StringOccurence.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/StringOccurence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/ContainsDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/ContainsDuplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/FindDuplicateCharactersUsingJava8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/FindDuplicateCharactersUsingJava8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/FirstNonRepeatingChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/FirstNonRepeatingChars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/FrequencyOfEachCharacterinString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/FrequencyOfEachCharacterinString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/GFG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/StringSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/StringSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java8/StringOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/StringOccurence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/FindDuplicateCharactersUsingJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/FindDuplicateCharactersUsingJava8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/FirstNonRepeatingChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/FirstNonRepeatingChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/FrequencyOfEachCharacterinString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/FrequencyOfEachCharacterinString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/GFG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/GFG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/LengthofLastword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/LengthofLastword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/StringSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringSubstring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +122,7 @@
     &quot;Application.CommonElementsCount.executor&quot;: &quot;Run&quot;,
     &quot;Application.CommonWordsinTwoString.executor&quot;: &quot;Run&quot;,
     &quot;Application.Comparator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContainsDuplicate.executor&quot;: &quot;Run&quot;,
     &quot;Application.CountBalancedParenthesis.executor&quot;: &quot;Run&quot;,
     &quot;Application.CountEachChar.executor&quot;: &quot;Run&quot;,
     &quot;Application.CountZeroFrom1ToNumber.executor&quot;: &quot;Run&quot;,
@@ -146,19 +141,20 @@
     &quot;Application.FindDuplicate.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindDuplicateCharactersUsingJava8.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindPeakElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstNonRepeatingCharIndex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeatingCharIndex.executor&quot;: &quot;Debug&quot;,
     &quot;Application.FirstNonRepeatingChars.executor&quot;: &quot;Run&quot;,
     &quot;Application.FrequencyOfEachCharacterinString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GFG.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.GFG.executor&quot;: &quot;Run&quot;,
     &quot;Application.GroupAnagrams.executor&quot;: &quot;Run&quot;,
     &quot;Application.HashSetPractice.executor&quot;: &quot;Run&quot;,
     &quot;Application.HashSetProgram1.executor&quot;: &quot;Run&quot;,
     &quot;Application.IntegerSum.executor&quot;: &quot;Run&quot;,
     &quot;Application.IsomorphicStrign.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IsomorphicStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsomorphicStrings.executor&quot;: &quot;Debug&quot;,
     &quot;Application.Java8.executor&quot;: &quot;Run&quot;,
     &quot;Application.Java8Features.executor&quot;: &quot;Run&quot;,
     &quot;Application.Khushi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KthDistinctElements.executor&quot;: &quot;Run&quot;,
     &quot;Application.KthLargestIntegerArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.LambdaExpression.executor&quot;: &quot;Run&quot;,
     &quot;Application.LengthofLastword.executor&quot;: &quot;Run&quot;,
@@ -168,6 +164,7 @@
     &quot;Application.LocaldateTimeToUTC.executor&quot;: &quot;Run&quot;,
     &quot;Application.LongestCommonSubsequenceBottomUp.executor&quot;: &quot;Run&quot;,
     &quot;Application.LongestCommonSubsequenceDP.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestCommonSubstring.executor&quot;: &quot;Run&quot;,
     &quot;Application.LongestConsecutive.executor&quot;: &quot;Run&quot;,
     &quot;Application.LongestPalindromicString.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainThread.executor&quot;: &quot;Run&quot;,
@@ -180,6 +177,7 @@
     &quot;Application.MaxConsecutiveOneAfterKFlips.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxElementinArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxOccurenceCharacterinString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxOccurenceinChar.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxOccurenceofCharacter.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxSubArraySum.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxSubstringWithOutNonRepeating.executor&quot;: &quot;Run&quot;,
@@ -192,7 +190,7 @@
     &quot;Application.NoOfVowelsinWords.executor&quot;: &quot;Run&quot;,
     &quot;Application.NthLargestElementArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.NthPalindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPermutation.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.NumberPermutation.executor&quot;: &quot;Run&quot;,
     &quot;Application.OccurenceOfEachCharacter.executor&quot;: &quot;Run&quot;,
     &quot;Application.OccurenceOfWordInString.executor&quot;: &quot;Run&quot;,
     &quot;Application.OccurrenceOfWordInString.executor&quot;: &quot;Run&quot;,
@@ -206,6 +204,7 @@
     &quot;Application.PrimeNumber.executor&quot;: &quot;Debug&quot;,
     &quot;Application.PrimeNumbersbInBetween.executor&quot;: &quot;Run&quot;,
     &quot;Application.RemoveCosecutiveOccurence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicateValuesinString.executor&quot;: &quot;Run&quot;,
     &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
     &quot;Application.RemoveDuplicatesAndCount.executor&quot;: &quot;Run&quot;,
     &quot;Application.RemoveDuplicatesFromArrayUsingHashMap.executor&quot;: &quot;Run&quot;,
@@ -213,6 +212,8 @@
     &quot;Application.RemoveDuplicatesinStringUsingHashMap.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReverseInteger.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReverseLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReversePrefixOfWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseWordsWithDelimiter.executor&quot;: &quot;Run&quot;,
     &quot;Application.RotateArrayByk.executor&quot;: &quot;Run&quot;,
     &quot;Application.SegreegateArrayLeftAscAndRightDesc.executor&quot;: &quot;Run&quot;,
     &quot;Application.SegregateBasedOnArrayLength.executor&quot;: &quot;Run&quot;,
@@ -278,10 +279,17 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/SpringBoot Project/ElectronicStore&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -303,13 +311,13 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.CommonWordsinTwoString">
-    <configuration name="Codechef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.Codechef" />
+  <component name="RunManager" selected="Application.TwoStringIntoThird">
+    <configuration name="DefaultMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.DefaultMethod" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringExample.*" />
+          <option name="PATTERN" value="Java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,51 +325,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommonCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.CommonCharacter" />
+    <configuration name="HashSetPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.HashSetPractice" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CommonCharacterInStringArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.CommonCharacterInStringArrays" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CommonElementsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.CommonElementsCount" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CommonWordsinTwoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.CommonWordsinTwoString" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringExample.*" />
+          <option name="PATTERN" value="Java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -382,21 +351,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.StringOccurence" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoStringIntoThird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.TwoStringIntoThird" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VowelsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.VowelsCount" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.CommonWordsinTwoString" />
-      <item itemvalue="Application.Codechef" />
-      <item itemvalue="Application.CommonCharacter" />
-      <item itemvalue="Application.CommonCharacterInStringArrays" />
-      <item itemvalue="Application.CommonElementsCount" />
+      <item itemvalue="Application.TwoStringIntoThird" />
+      <item itemvalue="Application.DefaultMethod" />
+      <item itemvalue="Application.HashSetPractice" />
+      <item itemvalue="Application.StringOccurence" />
+      <item itemvalue="Application.VowelsCount" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CommonWordsinTwoString" />
-        <item itemvalue="Application.CommonCharacter" />
-        <item itemvalue="Application.CommonElementsCount" />
-        <item itemvalue="Application.CommonCharacterInStringArrays" />
-        <item itemvalue="Application.Codechef" />
+        <item itemvalue="Application.TwoStringIntoThird" />
+        <item itemvalue="Application.VowelsCount" />
+        <item itemvalue="Application.StringOccurence" />
+        <item itemvalue="Application.HashSetPractice" />
+        <item itemvalue="Application.DefaultMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -662,8 +670,19 @@
       <option name="project" value="LOCAL" />
       <updated>1768061828851</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Update">
+      <option name="closed" value="true" />
+      <created>1774179389374</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1774179389374</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -705,7 +724,8 @@
     <MESSAGE value="Sort 012 using Three pointer" />
     <MESSAGE value="Anagram Groups" />
     <MESSAGE value="New Code 2026" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Code 2026" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -941,16 +961,6 @@
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/FindDuplicate.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/FindDuplicate.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/StringExample/WordPattern.java</url>
           <line>13</line>
           <option name="timeStamp" value="90" />
@@ -1107,11 +1117,6 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="204" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
           <line>11</line>
           <option name="timeStamp" value="205" />
         </line-breakpoint>
@@ -1122,68 +1127,8 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="208" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="209" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="210" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="211" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="213" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="214" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="215" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="216" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="217" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="218" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
           <line>16</line>
           <option name="timeStamp" value="219" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/IsomorphicStrings.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="220" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/IsomorphicStrings.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="221" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/FinexraInterviewPreparation/SimpleProgramForMessageProper.java</url>
@@ -1217,6 +1162,11 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/FirstNonRepeatingCharIndex.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="274" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

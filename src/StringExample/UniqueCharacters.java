@@ -13,7 +13,6 @@ public class UniqueCharacters {
                 charMap.put(c, 1);
             }
         }
-
         return result.toString();
     }
 

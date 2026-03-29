@@ -4,31 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="New Code 2026">
-      <change afterPath="$PROJECT_DIR$/src/Java8/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/UndoRedo.java" afterDir="false" />
+    <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/src/StringExample/FindDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java8/CountingEachCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/CountingEachCharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java8/MapSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/MapSorting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java8/MphasisJava8Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/MphasisJava8Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Stack/ArrayImplementationOfStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Stack/ArrayImplementationOfStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/CaptitaltoSmallAndSmallToCapital.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/CaptitaltoSmallAndSmallToCapital.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/MoveZeroToEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/MoveZeroToEnd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/String1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/String1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionFramework/HashSetProgram1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFramework/HashSetProgram1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java8/CountingEachCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/CountingEachCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java8/MapSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/MapSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java8/MphasisJava8Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/MphasisJava8Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java8/VowelsCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/VowelsCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack/ArrayImplementationOfStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/ArrayImplementationOfStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/CaptitaltoSmallAndSmallToCapital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CaptitaltoSmallAndSmallToCapital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/CommonCharacterInStringArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CommonCharacterInStringArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/CommonElementsCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/CommonElementsCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/ContainsDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Java8/StringOccurence.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/StringOccurence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/ContainsDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/ContainsDuplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/FindDuplicateCharactersUsingJava8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/FindDuplicateCharactersUsingJava8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/FirstNonRepeatingChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/FirstNonRepeatingChars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/FrequencyOfEachCharacterinString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/FrequencyOfEachCharacterinString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/GFG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/StringSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/StringSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/UniqueCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/UniqueCharacters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/slidingWindow/MaxSumofSizeK.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/slidingWindow/MaxSumofSizeK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java8/StringOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/StringOccurence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringExample/FindDuplicateCharactersUsingJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/FindDuplicateCharactersUsingJava8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/MoveZeroToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/MoveZeroToEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/String1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/String1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/FirstNonRepeatingChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/FirstNonRepeatingChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/FrequencyOfEachCharacterinString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/FrequencyOfEachCharacterinString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/GFG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/GFG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/LengthofLastword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/LengthofLastword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/StringSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/UniqueCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/UniqueCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/slidingWindow/MaxSumofSizeK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/slidingWindow/MaxSumofSizeK.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,20 +145,22 @@
     "Application.FindConsecutiveArrayLengthwithSum.executor": "Run",
     "Application.FindDuplicate.executor": "Run",
     "Application.FindDuplicateCharactersUsingJava8.executor": "Run",
+    "Application.FindDuplicates.executor": "Run",
     "Application.FindPeakElement.executor": "Run",
-    "Application.FirstNonRepeatingCharIndex.executor": "Run",
+    "Application.FirstNonRepeatingCharIndex.executor": "Debug",
     "Application.FirstNonRepeatingChars.executor": "Run",
     "Application.FrequencyOfEachCharacterinString.executor": "Run",
-    "Application.GFG.executor": "Debug",
+    "Application.GFG.executor": "Run",
     "Application.GroupAnagrams.executor": "Run",
     "Application.HashSetPractice.executor": "Run",
     "Application.HashSetProgram1.executor": "Run",
     "Application.IntegerSum.executor": "Run",
     "Application.IsomorphicStrign.executor": "Run",
-    "Application.IsomorphicStrings.executor": "Run",
+    "Application.IsomorphicStrings.executor": "Debug",
     "Application.Java8.executor": "Run",
     "Application.Java8Features.executor": "Run",
     "Application.Khushi.executor": "Run",
+    "Application.KthDistinctElements.executor": "Run",
     "Application.KthLargestIntegerArray.executor": "Run",
     "Application.LambdaExpression.executor": "Run",
     "Application.LengthofLastword.executor": "Run",
@@ -171,6 +170,7 @@
     "Application.LocaldateTimeToUTC.executor": "Run",
     "Application.LongestCommonSubsequenceBottomUp.executor": "Run",
     "Application.LongestCommonSubsequenceDP.executor": "Run",
+    "Application.LongestCommonSubstring.executor": "Run",
     "Application.LongestConsecutive.executor": "Run",
     "Application.LongestPalindromicString.executor": "Run",
     "Application.MainThread.executor": "Run",
@@ -183,9 +183,11 @@
     "Application.MaxConsecutiveOneAfterKFlips.executor": "Run",
     "Application.MaxElementinArray.executor": "Run",
     "Application.MaxOccurenceCharacterinString.executor": "Run",
+    "Application.MaxOccurenceinChar.executor": "Run",
     "Application.MaxOccurenceofCharacter.executor": "Run",
     "Application.MaxSubArraySum.executor": "Run",
     "Application.MaxSubstringWithOutNonRepeating.executor": "Run",
+    "Application.MaxSumofSizeK.executor": "Run",
     "Application.MergeSortedArray.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.MissingNumberPractoce.executor": "Run",
@@ -195,7 +197,7 @@
     "Application.NoOfVowelsinWords.executor": "Run",
     "Application.NthLargestElementArray.executor": "Run",
     "Application.NthPalindrome.executor": "Run",
-    "Application.NumberPermutation.executor": "Debug",
+    "Application.NumberPermutation.executor": "Run",
     "Application.OccurenceOfEachCharacter.executor": "Run",
     "Application.OccurenceOfWordInString.executor": "Run",
     "Application.OccurrenceOfWordInString.executor": "Run",
@@ -209,6 +211,7 @@
     "Application.PrimeNumber.executor": "Debug",
     "Application.PrimeNumbersbInBetween.executor": "Run",
     "Application.RemoveCosecutiveOccurence.executor": "Run",
+    "Application.RemoveDuplicateValuesinString.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
     "Application.RemoveDuplicatesAndCount.executor": "Run",
     "Application.RemoveDuplicatesFromArrayUsingHashMap.executor": "Run",
@@ -216,6 +219,8 @@
     "Application.RemoveDuplicatesinStringUsingHashMap.executor": "Run",
     "Application.ReverseInteger.executor": "Run",
     "Application.ReverseLinkedList.executor": "Run",
+    "Application.ReversePrefixOfWord.executor": "Run",
+    "Application.ReverseWordsWithDelimiter.executor": "Run",
     "Application.RotateArrayByk.executor": "Run",
     "Application.SegreegateArrayLeftAscAndRightDesc.executor": "Run",
     "Application.SegregateBasedOnArrayLength.executor": "Run",
@@ -281,10 +286,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/SpringBoot Project/ElectronicStore",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -306,9 +318,9 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindDuplicateCharactersUsingJava8">
-    <configuration name="CommonWordsinTwoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.CommonWordsinTwoString" />
+  <component name="RunManager" selected="Application.FindDuplicates">
+    <configuration name="FindDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.FindDuplicates" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -320,51 +332,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.ContainsDuplicate" />
+    <configuration name="MaxSumofSizeK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slidingWindow.MaxSumofSizeK" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountingSortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.CountingSortString" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.FindDuplicate" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindDuplicateCharactersUsingJava8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.FindDuplicateCharactersUsingJava8" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringExample.*" />
+          <option name="PATTERN" value="slidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -385,21 +358,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.StringOccurence" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoStringIntoThird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.TwoStringIntoThird" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VowelsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.VowelsCount" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.CommonWordsinTwoString" />
-      <item itemvalue="Application.ContainsDuplicate" />
-      <item itemvalue="Application.CountingSortString" />
-      <item itemvalue="Application.FindDuplicate" />
-      <item itemvalue="Application.FindDuplicateCharactersUsingJava8" />
+      <item itemvalue="Application.FindDuplicates" />
+      <item itemvalue="Application.MaxSumofSizeK" />
+      <item itemvalue="Application.TwoStringIntoThird" />
+      <item itemvalue="Application.StringOccurence" />
+      <item itemvalue="Application.VowelsCount" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindDuplicateCharactersUsingJava8" />
-        <item itemvalue="Application.FindDuplicate" />
-        <item itemvalue="Application.CountingSortString" />
-        <item itemvalue="Application.ContainsDuplicate" />
-        <item itemvalue="Application.CommonWordsinTwoString" />
+        <item itemvalue="Application.FindDuplicates" />
+        <item itemvalue="Application.MaxSumofSizeK" />
+        <item itemvalue="Application.TwoStringIntoThird" />
+        <item itemvalue="Application.VowelsCount" />
+        <item itemvalue="Application.StringOccurence" />
       </list>
     </recent_temporary>
   </component>
@@ -665,8 +677,19 @@
       <option name="project" value="LOCAL" />
       <updated>1768061828851</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Update">
+      <option name="closed" value="true" />
+      <created>1774179389374</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1774179389374</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -708,7 +731,8 @@
     <MESSAGE value="Sort 012 using Three pointer" />
     <MESSAGE value="Anagram Groups" />
     <MESSAGE value="New Code 2026" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Code 2026" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1100,11 +1124,6 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="204" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
           <line>11</line>
           <option name="timeStamp" value="205" />
         </line-breakpoint>
@@ -1115,68 +1134,8 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="208" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="209" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="210" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="211" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="213" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="214" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="215" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="216" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="217" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="218" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/LineWrapper.java</url>
           <line>16</line>
           <option name="timeStamp" value="219" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/IsomorphicStrings.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="220" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/StringExample/IsomorphicStrings.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="221" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/FinexraInterviewPreparation/SimpleProgramForMessageProper.java</url>
@@ -1210,6 +1169,11 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringExample/FirstNonRepeatingCharIndex.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="274" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

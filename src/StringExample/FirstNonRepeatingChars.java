@@ -9,8 +9,8 @@ public class FirstNonRepeatingChars {
         Scanner sc=new Scanner(System.in);
         String s1=sc.nextLine();
         firstNonRepeating(s1);
-
     }
+
     private static void firstNonRepeating(String s1) {
         HashMap<Character,Integer> map=new LinkedHashMap<>();
         for(char c:s1.toCharArray())

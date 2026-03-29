@@ -23,9 +23,7 @@ public class StringSubstring {
                 charSet.remove(s.charAt(start));
                 start++;
             }
-
             charSet.add(ch);
-
             if (i - start + 1 > maxLength) {
                 maxLength = i - start + 1;
                 substring = s.substring(start, i + 1);

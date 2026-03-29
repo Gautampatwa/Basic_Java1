@@ -13,8 +13,7 @@ public class FrequencyOfEachCharacterinString {
         {
             if(map.containsKey(c))
             {
-                int count=map.get(c);
-                map.put(c,++count);
+                map.put(c,map.getOrDefault(c,0)+1);
             }
             else {
                 map.put(c,1);

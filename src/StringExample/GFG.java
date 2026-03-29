@@ -38,7 +38,7 @@ public class GFG {
 
     // Driver code
     public static void main(String args[]) {
-        String s1 = "geeksforgeeks", s2 = "geeksforgeeks";
+        String s1 = "geeksforgeeks", s2 = "geeksfor";
         int n1 = s1.length(), n2 = s2.length();
         System.out.println(countPairs(s1, n1, s2, n2));
     }

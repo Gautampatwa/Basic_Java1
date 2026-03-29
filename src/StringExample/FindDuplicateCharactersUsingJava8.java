@@ -30,7 +30,7 @@ public class FindDuplicateCharactersUsingJava8 {
             rev.append(builder).append(" ");
         }
         System.out.println(rev.toString().trim());
-        System.out.println("====================");
+        System.out.println("=========Reverse String and reverse each word===========");
         StringBuilder rev1=new StringBuilder();
         String[] words1=s.split(" ");
         for(int i=words1.length-1;i>=0;i--)

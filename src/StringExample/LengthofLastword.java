@@ -6,9 +6,10 @@ import java.util.stream.Collectors;
 
 public class LengthofLastword {
     public static void main(String[] args) {
-        String str = "Hello howo are you";
+        String str = "Hello howo are youhuu";
         String s1 = Arrays.stream(str.split(" ")).limit(2).reduce((f, s) -> f).orElse("not found");
         List<String> words = Arrays.stream(str.split(" ")).collect(Collectors.toList());
+        System.out.println(words.size());
         String res = words.size() > 1 ? words.get(1) : " ";
         System.out.println(s1);
         System.out.println(res);
@@ -29,5 +30,7 @@ public class LengthofLastword {
         }
         lastLength = length;
         System.out.println(lastLength);
+        Integer integer1 = Arrays.stream(str.split(" ")).skip(words.size()-1).map(String::length).findFirst().orElse(0);
+        System.out.println(integer1);
     }
 }
