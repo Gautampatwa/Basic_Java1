@@ -1,5 +1,6 @@
 package StringExample;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
 
 public class UniqueCharacters {
@@ -20,6 +21,15 @@ public class UniqueCharacters {
         String input = "aaaabbcccdd";
         String output = uniqueChars(input);
         System.out.println(output); // Output: "abcd"
+        System.out.println("Using set");
+        HashSet<Character> set = new HashSet<>();
+        HashSet<Character> finalset = new HashSet<>();
+
+        for (char c : input.toCharArray()) {
+            if (!set.add(c)) {
+                finalset.add(c);
+            }
+        }
+        System.out.println(finalset.toString());
     }
 }
-

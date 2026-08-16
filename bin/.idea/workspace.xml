@@ -5,22 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/src/Access_Specifier/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Access_Specifier/EmployeeStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/FIrsNonRepeatingUsingJava8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java8/StringOccurence.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java8/StringOccurence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/ContainsDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/ContainsDuplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/FindDuplicateCharactersUsingJava8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/FindDuplicateCharactersUsingJava8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/FirstNonRepeatingChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/FirstNonRepeatingChars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/FrequencyOfEachCharacterinString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/FrequencyOfEachCharacterinString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/GFG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringExample/StringSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/StringSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java8/StringOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8/StringOccurence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/FindDuplicateCharactersUsingJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/FindDuplicateCharactersUsingJava8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/FirstNonRepeatingChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/FirstNonRepeatingChars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/FrequencyOfEachCharacterinString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/FrequencyOfEachCharacterinString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/GFG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/GFG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/LengthofLastword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/LengthofLastword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringExample/StringSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/StringReverse2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/StringReverse2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringExample/UniqueCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringExample/UniqueCharacters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/slidingWindow/FindConsecutiveArrayLengthwithSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/slidingWindow/FindConsecutiveArrayLengthwithSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/LongestCommonSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/LongestCommonSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/StringReverse2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/StringReverse2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample/UniqueCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample/UniqueCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/slidingWindow/FindConsecutiveArrayLengthwithSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/slidingWindow/FindConsecutiveArrayLengthwithSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +75,65 @@
     <commands />
     <urls />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000305571084" />
+      <entry key="S10" value="1.0002999617221422" />
+      <entry key="S30" value="1.1389462816761793" />
+      <entry key="S60" value="1.6454577164828517" />
+      <entry key="M2" value="2.3923897749604626" />
+      <entry key="M5" value="3.6894453800959335" />
+      <entry key="M10" value="7.747632916502175" />
+      <entry key="M15" value="12.374277046107188" />
+      <entry key="M30" value="21.986963537730993" />
+      <entry key="H1" value="30.33998440260839" />
+      <entry key="H2" value="35.97442643903109" />
+      <entry key="H4" value="39.28524098783127" />
+      <entry key="D1" value="42.3498217330836" />
+      <entry key="W1" value="42.906312488306035" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="4.885841683520039E-75" />
+      <entry key="S2" value="2.6438380436230886E-19" />
+      <entry key="S5" value="3.705902072684655E-8" />
+      <entry key="S10" value="1.9250719655858727E-4" />
+      <entry key="S30" value="0.05774073703707224" />
+      <entry key="S60" value="0.2402930350875767" />
+      <entry key="M2" value="0.4905165358009254" />
+      <entry key="M5" value="0.9468344454625474" />
+      <entry key="M10" value="2.6501731187314674" />
+      <entry key="M15" value="4.672816436455161" />
+      <entry key="M30" value="8.933997753892205" />
+      <entry key="H1" value="12.61751436075937" />
+      <entry key="H2" value="15.053782876725652" />
+      <entry key="H4" value="16.456877872365332" />
+      <entry key="D1" value="17.732505782389755" />
+      <entry key="W1" value="17.961526146278764" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="9.060812809015182E-5" />
+      <entry key="MS500" value="0.15539370861299243" />
+      <entry key="S2" value="0.6278535553997756" />
+      <entry key="S5" value="0.83012477508173" />
+      <entry key="S10" value="0.9115882512564263" />
+      <entry key="S30" value="1.164403299761789" />
+      <entry key="S60" value="1.8666717966846356" />
+      <entry key="M2" value="2.8713618076757257" />
+      <entry key="M5" value="4.627836974450491" />
+      <entry key="M10" value="10.381994769614233" />
+      <entry key="M15" value="17.027324451049395" />
+      <entry key="M30" value="30.9014691672985" />
+      <entry key="H1" value="42.94363202028272" />
+      <entry key="H2" value="51.019913989228264" />
+      <entry key="H4" value="55.73757817707019" />
+      <entry key="D1" value="60.08151102112106" />
+      <entry key="W1" value="60.86772045804768" />
+    </decayedShown>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -131,15 +186,18 @@
     &quot;Application.CountingSortString.executor&quot;: &quot;Run&quot;,
     &quot;Application.DefaultMethod.executor&quot;: &quot;Run&quot;,
     &quot;Application.DuplicateWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeStream.executor&quot;: &quot;Run&quot;,
     &quot;Application.EvenNumberSumFromArrrayList.executor&quot;: &quot;Run&quot;,
     &quot;Application.EvenOddPartitioning.executor&quot;: &quot;Run&quot;,
     &quot;Application.ExceptionHandling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FIrsNonRepeatingUsingJava8.executor&quot;: &quot;Run&quot;,
     &quot;Application.FactorialUsingRecursion.executor&quot;: &quot;Run&quot;,
     &quot;Application.FibUsingRec.executor&quot;: &quot;Debug&quot;,
     &quot;Application.FindAllNumberDisappearedInArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindConsecutiveArrayLengthwithSum.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindDuplicate.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindDuplicateCharactersUsingJava8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindDuplicates.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindPeakElement.executor&quot;: &quot;Run&quot;,
     &quot;Application.FirstNonRepeatingCharIndex.executor&quot;: &quot;Debug&quot;,
     &quot;Application.FirstNonRepeatingChars.executor&quot;: &quot;Run&quot;,
@@ -175,12 +233,15 @@
     &quot;Application.MaxAverageUsingMap.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxCharacter.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxConsecutiveOneAfterKFlips.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxConsecutiveOneAfterKFlipsUsingSlidingWindow.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxElementinArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxOccurenceCharacterinString.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxOccurenceinChar.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxOccurenceofCharacter.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxSubArraySum.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxSubstringWithOutNonRepeating.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxSumofSizeK.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxVowelsOfSubstring.executor&quot;: &quot;Run&quot;,
     &quot;Application.MergeSortedArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.MissingNumberPractoce.executor&quot;: &quot;Run&quot;,
@@ -311,13 +372,13 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwoStringIntoThird">
-    <configuration name="DefaultMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.DefaultMethod" />
+  <component name="RunManager" selected="Application.BalancedParenthesis">
+    <configuration name="BalancedParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.BalancedParenthesis" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,12 +386,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.HashSetPractice" />
+    <configuration name="EmployeeStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Access_Specifier.EmployeeStream" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8.*" />
+          <option name="PATTERN" value="Access_Specifier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.LongestCommonSubstring" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxElementinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.MaxElementinArray" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,21 +438,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.StringOccurence" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoStringIntoThird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample.TwoStringIntoThird" />
+    <configuration name="UniqueCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.UniqueCharacters" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
@@ -377,41 +451,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VowelsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.VowelsCount" />
-      <module name="Basic_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.StringEachWordreverse" />
-      <item itemvalue="Application.TwoStringIntoThird" />
-      <item itemvalue="Application.DefaultMethod" />
-      <item itemvalue="Application.HashSetPractice" />
-      <item itemvalue="Application.StringOccurence" />
-      <item itemvalue="Application.VowelsCount" />
+      <item itemvalue="Application.BalancedParenthesis" />
+      <item itemvalue="Application.EmployeeStream" />
+      <item itemvalue="Application.MaxElementinArray" />
+      <item itemvalue="Application.LongestCommonSubstring" />
+      <item itemvalue="Application.UniqueCharacters" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwoStringIntoThird" />
-        <item itemvalue="Application.VowelsCount" />
-        <item itemvalue="Application.StringOccurence" />
-        <item itemvalue="Application.HashSetPractice" />
-        <item itemvalue="Application.DefaultMethod" />
+        <item itemvalue="Application.BalancedParenthesis" />
+        <item itemvalue="Application.EmployeeStream" />
+        <item itemvalue="Application.UniqueCharacters" />
+        <item itemvalue="Application.MaxElementinArray" />
+        <item itemvalue="Application.LongestCommonSubstring" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
       </set>
     </attachedChunks>
   </component>
@@ -678,7 +740,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774179389374</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Update">
+      <option name="closed" value="true" />
+      <created>1774810227455</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1774810227455</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

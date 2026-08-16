@@ -6,6 +6,7 @@ public class LongestCommonSubstring {
     public static void main(String[] args) {
         String[] strs = {"flower","flow","flight"};
         Arrays.sort(strs);
+        System.out.println(Arrays.toString(strs));
         int index=0;
         String s1=strs[0];
         String s2=strs[strs.length-1];

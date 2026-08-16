@@ -19,6 +19,6 @@ public class FindConsecutiveArrayLengthwithSum {
             }
             r=r+1;
         }
-        System.out.println(max);
+        System.out.println(max+":"+sum);
     }
 }
