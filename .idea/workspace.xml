@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03f7b7b2-0524-46aa-9087-445b3bfb46da" name="Changes" comment="Hello">
-      <change beforePath="$PROJECT_DIR$/src/Access_Specifier/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Access_Specifier/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample/Optum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +29,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="A1" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,6 +62,69 @@
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="17" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000585400817" />
+      <entry key="S2" value="1.0155547605886035" />
+      <entry key="S5" value="1.1891234285404815" />
+      <entry key="S10" value="1.4348832355247574" />
+      <entry key="S30" value="1.757630684260826" />
+      <entry key="S60" value="1.870419832184921" />
+      <entry key="M2" value="1.9329629318386239" />
+      <entry key="M5" value="1.972625732819545" />
+      <entry key="M10" value="1.9862178931755117" />
+      <entry key="M15" value="1.9907906932943666" />
+      <entry key="M30" value="1.9953846961322879" />
+      <entry key="H1" value="1.9976896792752181" />
+      <entry key="H2" value="1.9988441716680425" />
+      <entry key="H4" value="1.9994219187450528" />
+      <entry key="D1" value="1.9999036299091726" />
+      <entry key="W1" value="1.9999862322755297" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0262291095001726E-9" />
+      <entry key="MS500" value="0.015931213796846727" />
+      <entry key="S2" value="0.3552730107953399" />
+      <entry key="S5" value="0.6610356572186522" />
+      <entry key="S10" value="0.8130409935659162" />
+      <entry key="S30" value="0.933334847308765" />
+      <entry key="S60" value="0.9660925666357054" />
+      <entry key="M2" value="0.9829000796803842" />
+      <entry key="M5" value="0.9931246193888726" />
+      <entry key="M10" value="0.9965563804365876" />
+      <entry key="M15" value="0.997702933990873" />
+      <entry key="M30" value="0.9988508066727848" />
+      <entry key="H1" value="0.9994252381608065" />
+      <entry key="H2" value="0.9997125777746354" />
+      <entry key="H4" value="0.9998562785593915" />
+      <entry key="D1" value="0.9999760449920051" />
+      <entry key="W1" value="0.999996577820867" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.2088472755596133E-7" />
+      <entry key="MS500" value="0.047819248442966915" />
+      <entry key="S2" value="0.750047134342899" />
+      <entry key="S5" value="1.520098272790086" />
+      <entry key="S10" value="2.064527611071195" />
+      <entry key="S30" value="2.6251505826254005" />
+      <entry key="S60" value="2.802976235533253" />
+      <entry key="M2" value="2.8989342481568716" />
+      <entry key="M5" value="2.9589398220728333" />
+      <entry key="M10" value="2.9793624654652486" />
+      <entry key="M15" value="2.986217631599409" />
+      <entry key="M30" value="2.9930967757737874" />
+      <entry key="H1" value="2.996545371486668" />
+      <entry key="H2" value="2.998271930842478" />
+      <entry key="H4" value="2.9991357765958266" />
+      <entry key="D1" value="2.99985593653171" />
+      <entry key="W1" value="2.9999794188619475" />
+    </decayedShown>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -153,9 +217,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Merging hello",
+    "git-widget-placeholder": "hello",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/SpringBoot Project/ElectronicStore",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -172,7 +237,7 @@
       <command value="jdk" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxSubArraySum">
+  <component name="RunManager" selected="Application.Optum">
     <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.ArrayListExample" />
       <module name="Basic_Java" />
@@ -225,12 +290,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeekNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.WeekNumbers" />
+    <configuration name="Optum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample.Optum" />
       <module name="Basic_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="StringExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,19 +304,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Optum" />
       <item itemvalue="Application.CommonCharacter" />
       <item itemvalue="Application.MaxSubArraySum" />
       <item itemvalue="Application.ArrayListExample" />
-      <item itemvalue="Application.WeekNumbers" />
       <item itemvalue="Application.NumberPermutation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Optum" />
         <item itemvalue="Application.MaxSubArraySum" />
         <item itemvalue="Application.CommonCharacter" />
         <item itemvalue="Application.NumberPermutation" />
         <item itemvalue="Application.ArrayListExample" />
-        <item itemvalue="Application.WeekNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -1158,6 +1223,8 @@
     </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
+        <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="key" />
+        <PinnedItemInfo parentTag="java.lang.Integer" memberName="value" />
         <PinnedItemInfo parentTag="java.lang.Long" memberName="value" />
       </pinned-members>
     </pin-to-top-manager>
